@@ -27,7 +27,7 @@ class EventRecord(BaseModel):
     latitude:        Optional[float] = None
     venue:           Optional[str]   = None
     capacity:        Optional[int]   = None
-    segment:         Optional[str]   = None
+    segment:         str
     genre:           Optional[str]   = None
     sub_genre:       Optional[str]   = None
 

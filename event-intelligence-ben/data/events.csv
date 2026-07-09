@@ -1,38 +1,5 @@
 event_id,name,date,time,multi_day_event,city,longitude,latitude,venue,capacity,segment,genre,sub_genre
-ZxqgVMyxjZBYPJzwisVEJswJSIcnzynMZ6k1,Row C Start,2024-05-25,19:30:00,False,Manchester,-2.244066,53.488164,AO Arena,23000,,,
 LvZ18QxAj1bZeL8vGSGnc,EVERYWHERE AT ONCE: Dewin,2026-06-28,19:00:00,False,"Narberth, Pembrokeshire",-4.744204,51.798915,Queens Hall,,Music,Alternative,Adult Alternative Pop/Rock
-LvZ18Q9qwdeVCFZZlzZeZ,Lympstone Manor Presents The Celebration of Speed,2026-07-08,12:00:00,False,Exmouth,-3.4180079,50.64042297,Lympstone Manor,,Undefined,,
-LvZ18Q-Ow9IjBuOZJDXeZ,This Machine Kills Archons,2026-07-08,17:00:00,False,London,-0.03838,51.475524,New Cross Inn,,Undefined,,
-LvZ18QrcLq0eI9YZMX-K9,Strassenkultur - The Hill,2026-07-08,17:00:00,False,Stratford-upon-Avon,-1.62997,52.14988,Caffeine & Machine: The Hill,,Undefined,,
-LvZ18QrcYIDGeQYv1nmCq,Strassenkultur - The Bowl,2026-07-08,17:00:00,False,Bedford,-0.49888,52.0511,Caffeine & Machine: The Bowl,,Undefined,,
-LvZ18Qrm8UsQycZv1QmX5,Strassenkultur ft The Goodwood Cooldown - The Hut,2026-07-08,17:00:00,False,Petersfield,-1.07472,51.03141,Caffeine & Machine: The Hut,,Undefined,,
-G5dzZ_66mmMGk,Alkaline Trio,2026-07-08,19:00:00,False,Manchester,-2.243098,53.474423,O2 Ritz Manchester,,Music,Rock,Pop
-G5dzZ_aUPG3rL,Kevin Morby,2026-07-08,19:00:00,False,London,-0.043935,51.51326,Troxy,,Music,Rock,Pop
-LvZ18Q-DUBHH29OZ0Ajl4,Craterspace: London’s Alternative Open Jam,2026-07-08,19:00:00,False,London,-0.01077,51.481328,Up The Creek,,Music,Undefined,Undefined
-LvZ18Q-LmtAGIHZZJLJpj,King Tut's Ha Ha Hut,2026-07-08,19:00:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Arts & Theatre,Comedy,Comedy
-LvZ18Q-hpv8GyL8Z0O6NL,EYOE Recommends: In Aid of War Child,2026-07-08,19:00:00,False,London,-0.070096,51.553073,Shacklewell Arms,,Music,Alternative,Post-Punk
-LvZ18Q9mxGZXmg8Z0dAxY,Slam Dunk present FREE THROW,2026-07-08,19:00:00,False,Newcastle Upon Tyne,-1.615057,54.978943,Newcastle University Student Union,,Music,Rock,Pop
-LvZ18QLU9Uzc8DZZM3W12,Superheaven,2026-07-08,19:00:00,False,Sheffield,-1.49067,53.381039,"Foundry, Sheffield",,Music,Rock,Pop
-LvZ18QORaYtuq58ZzXGkf,Wed 8th Jul - Stand Up Comedy Show - Big Belly Comedy Club,2026-07-08,19:00:00,False,London ,,,Big Belly Comedy - Southbank,,Arts & Theatre,Comedy,Comedy
-LvZ18QQ5ZJTxts8Zy4PiO,SoulSwitch + supports,2026-07-08,19:00:00,False,Bradford,-1.753727,53.794419,Nightrain,,Music,Rock,Pop
-LvZ18QQ6AqQ-QOYZy9S_q,Agnostic Front,2026-07-08,19:00:00,False,Glasgow,-4.25773,55.857343,Audio,,Music,Rock,Alternative Rock
-LvZ18QhgjkW-8KOZ0pfg5,CHE,2026-07-08,19:00:00,False,London,-0.117044,51.459846,Electric Brixton,,Music,Hip-Hop/Rap,Party Rap
-LvZ18QqSH3i_nDYZ0OWqu,House Of Protection,2026-07-08,19:00:00,False,Glasgow,,,SLAY,,Music,Rock,Alternative Rock
-LvZ18QxwCpHoyz8ZzLtx8,Madalitso Band,2026-07-08,19:00:00,False,Stockport,,,The Strines Nightingale,,Undefined,,
-LvZ18Q-4BbVGmG8Z0gFp4,Yellowman,2026-07-08,19:30:00,False,Leeds,-1.570275,53.809656,Brudenell Social Club,,Music,Reggae,Reggae
-LvZ18Q-OO9t0sDYZE2rG0,Kush Abakush,2026-07-08,19:30:00,False,London ,,,Fox and Firkin,,Undefined,,
-LvZ18Q4VpyDF5EZZ0s6ro,Vandoliers,2026-07-08,19:30:00,False,London,-0.103742,51.546706,"The Grace, London",,Music,Country,Alternative Country
-LvZ18Q8cbi_zn2OZvxVtl,The Evolution Of Magic,2026-07-08,19:30:00,False,Blackpool,-3.053354,53.792539,Horseshoe Showbar,,Arts & Theatre,Magic & Illusion,Magic
-LvZ18QQADO4_VX8ZyftHM,La Perla,2026-07-08,19:30:00,False,Manchester,-2.234389,53.485235,Band On The Wall.,,Music,Latin,Latin
-LvZ18QQpd6cxiZZZy9nGo,D K Harrell,2026-07-08,19:30:00,False,London,-0.135345,51.516225,100 Club,,Music,Blues,Jazz Blues
-LvZ18Q_jflAin88ZyTevZ,Waco Brothers,2026-07-08,19:30:00,False,Leeds,-1.570275,53.809656,Brudenell Social Club,,Music,Rock,Alternative Rock
-LvZ18QqqXDlqfuYZMe196,The SLO County Stumblers,2026-07-08,19:30:00,False,"Newcastle upon Tyne, NE1 2PQ",-1.59238,54.974933,Cluny 2,,Music,Folk,Americana
-LvZ18QOD5Zp0JEZZM742b,SULA,2026-07-08,19:45:00,False,London,-0.07665,51.54879,Vortex Jazz Club,,Undefined,,
-LvZ18QocOue1b48vZrinW,BOTB Semi Final 4,2026-07-08,20:00:00,False,St Albans,-0.329006,51.750295,The Horn,,Undefined,,
-LvZ18QxZtAWm6bZZvEK-8,Sirens: The Concert Series,2026-07-08,20:00:00,False,London,-0.11828309,51.5099107,Emerald Theatre,,Undefined,,
-LvZ18Q0C9EzDQdjpkKdHJ,"Live Jazz from the Piano Bar at Red Room Studios, Soho",2026-07-08,20:30:00,False,London,-0.1343758,51.5111127,Piano Bar Soho,,Music,Jazz,Jazz
-LvZ18Q_911R8CQZZyHNdQ,The West End Jerseys,2026-07-08,20:30:00,False,London,-0.022271,51.505252,"Boisdale, Canary Wharf",,Music,Pop,Pop Vocal
-1AdfZbzGkXL0KBS,Frameless Gift Card Redemption,2026-07-08,,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
 1AdfZ_6GkTNNBkA,Sea Life Birmingham - Standard Entry,2026-07-09,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
 16djZ_6GAG7lrqu,Sea Life Brighton - Standard Admission,2026-07-09,10:00:00,False,Brighton,-0.13577386,50.81962932,SEA LIFE Brighton,,Miscellaneous,Family,Other
 17uOv0G65nt_3EX,Chessington World of Adventures - 1 Day Entry,2026-07-09,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
@@ -610,7 +577,6 @@ LvZ18Q_xNuMIbzOZvz20l,Twist Museum - London's Home of Illusions PEAK,2026-07-11,
 1kuYvNGtGA1e_qM,Iron Maiden - EDDFEST,2026-07-11,13:00:00,False,Stevenage,-0.21487897,51.87289535,Knebworth Park,,Music,Metal,Nu-Metal
 G5dzZbn6hue5d,Bluey's Big Play,2026-07-11,13:00:00,False,Brighton,-0.146331,50.82153,The Brighton Centre,,Arts & Theatre,Children's Theatre,Children's Theatre
 LvZ18Q9IT_UBt9ZZ0lAeZ,Kaleidoscope Festival - 2026,2026-07-11,13:00:00,False,London,-0.13354,51.59049,Alexandra Palace Park,,Music,Undefined,Undefined
-LvZ18Q9qHqhH-OYZyrAAE,BRUNCH Sat 11th Jul - ABBA Vs Disco Bottomless Brunch,2026-07-11,13:00:00,False,London ,,,Big Belly Comedy - Southbank,,,,
 LvZ18QORu7SMBdYvG6qGk,Sat 11th Jul - Ding Dong Gong Show x Bottomless Brunch,2026-07-11,13:00:00,False,London ,,,Big Belly Comedy - Southbank,,Arts & Theatre,Comedy,Comedy
 LvZ18Q_xNuMIbzOZvz20i,Twist Museum - London's Home of Illusions PEAK,2026-07-11,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
 LvZ18QjyotUZAAYZv7_vV,Ramses and the Pharaoh’s Gold: The Exhibition,2026-07-11,13:00:00,False,London,-0.14214313,51.48187751,Neon at Battersea Power Station,,Miscellaneous,Family,Other
@@ -808,7 +774,6 @@ LvZ18Q9wAFFMtzOZlSNb_,Maniac Street Preachers vs. Stereoironics,2026-07-11,19:00
 LvZ18QNAGDaT2u8vGIlVX,FAST FORWARD - Rock and Pop Covers band,2026-07-11,19:00:00,False, Bathgate,-3.63886,55.89919,DreadnoughtRock,,Undefined,,
 LvZ18Q_xNC6IbzOZvz2P7,Twist Museum - London's Home of Illusions PEAK,2026-07-11,19:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
 LvZ18QowMgH3F8YZvjYj-,FRAMELESS 2026,2026-07-11,19:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18QrWEdIEX2Zvq9qQ1,Marrick,2026-07-11,19:00:00,False,Stockton-on-Tees,-1.3122893,54.5643998,"The Georgian Theatre, Stockton-on-Tees",,Undefined,,
 Z3r9uZKbZL4Ze3x2vZdq,The Oresteia,2026-07-11,19:00:00,False,London,-0.0880061,51.4992073,Bridge Theatre,,Arts & Theatre,Theatre,Drama
 ZKr9uZKbZL4Ze83obZA1f,Magic Mike Live,2026-07-11,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
 ZfqgVMyxjZBYPEHlIZA77A,England v Norway Fanzone,2026-07-11,19:00:00,False,Bolton,-2.536279,53.580173,Toughsheet Community Stadium,,Undefined,,
@@ -845,7 +810,6 @@ G5dzZ_uB_aV3U,"England FanPark, World Cup Quarter Final",2026-07-11,19:30:00,Fal
 G5vHZ_51-Hw5j,Shanay Holmes - Live In Concert!,2026-07-11,19:30:00,False,London,-0.157586,51.493673,Cadogan Hall,,Arts & Theatre,Theatre,Musical
 G5vHZbw9jmfDb,Witness for the Prosecution,2026-07-11,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
 LvZ18Q0RCgrDW3YTHNcE3,NX Presents England vs Norway,2026-07-11,19:30:00,False,Newcastle Upon Tyne,-1.6308,54.971939,NX,,Sports,Soccer,Soccer
-LvZ18QK4-QFpa2ZZlxsWP,Queen Champions Laser Spectacular,2026-07-11,19:30:00,False,Ely,,,The Maltings,,,,
 LvZ18QLujeM5BJ8Z0nWpj,The Music of The Lord of The Rings. Tribute to Howard Shore,2026-07-11,19:30:00,False,Old Portsmouth,-1.10450841,50.79088479,Portsmouth Cathedral,,Arts & Theatre,Classical,Classical/Vocal
 LvZ18QO6Yr09_E8ZMigdJ,King Tut's Summer Nights Presents: PaperHouse,2026-07-11,19:30:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Music,Rock,Pop
 LvZ18QOc1uVRZV8vOz99J,"Recomposed by Max Richter: Vivaldi, The Four Seasons",2026-07-11,19:30:00,False,Edinburgh,-3.191386,55.946672,Greyfriars Kirk,,Arts & Theatre,Classical,Classical/Vocal
@@ -922,7 +886,6 @@ LvZ18QxvnZQDw78ZJI7Lw,Soul City: House music every Saturday,2026-07-11,23:45:00,
 1AMZkCvGkdvIlG_,2 Day (Sat + Sun) - Wireless 2026,2026-07-11,,False,London,-0.105881,51.564635,Finsbury Park,,Music,Undefined,Undefined
 1AdfZbzGkXLPNDD,Frameless Gift Card Redemption,2026-07-11,,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
 G5vHZ_ub74Ba5,Shrek's Adventure - Standard Experience,2026-07-11,,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Children's Theatre,Children's Theatre
-Z9qgVMyxjZBYPisVzIIIZe76v,Glos Vs Glamorgan T20,2026-07-12,00:00:00,False,Bristol,-2.585427,51.476892,Seat Unique Stadium,,Undefined,,
 LvZ18QLvVHF8wJ8vqM5nx,Sunday Service ft Jaymes Walsh Biker Meet - The Hill,2026-07-12,08:00:00,False,Stratford-upon-Avon,-1.62997,52.14988,Caffeine & Machine: The Hill,,Undefined,,
 LvZ18Q-BjX0qLfZvj_qEN,Sunday Service ft The Goodwood Cooldown - The Hut,2026-07-12,09:00:00,False,Petersfield,-1.07472,51.03141,Caffeine & Machine: The Hut,,Undefined,,
 LvZ18Qo9WPCnjSZZvTs90,Gladiators Experience,2026-07-12,09:00:00,False,Birmingham,-1.717158,52.453266,NEC,,Miscellaneous,Family,Other
@@ -1034,6 +997,7 @@ LvZ18Q_xoF73mY8ZvVUQZ,Twist Museum - London's Home of Illusions PEAK,2026-07-12,
 LvZ18QjyotUZAAYZv7_e7,Ramses and the Pharaoh’s Gold: The Exhibition,2026-07-12,14:30:00,False,London,-0.14214313,51.48187751,Neon at Battersea Power Station,,Miscellaneous,Family,Other
 LvZ18Qo9WPCnjSZZvTs9m,Gladiators Experience,2026-07-12,14:30:00,False,Birmingham,-1.717158,52.453266,NEC,,Miscellaneous,Family,Other
 LvZ18Qowz9plFk8ZvwZ3o,FRAMELESS 2026,2026-07-12,14:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+Z9qgVMyxjZBYPisVzIIIZe76v,Glos Vs Glamorgan T20,2026-07-12,14:30:00,False,Bristol,-2.585427,51.476892,Seat Unique Stadium,,Undefined,,
 ZKr9uZKbZL4ZeCj6jZkF7,Disney's The Lion King,2026-07-12,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
 ZKr9uZKbZL4ZeorGbZea-,Titanique,2026-07-12,14:30:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
 LvZ18Q_xoF73mY8ZvVUQv,Twist Museum - London's Home of Illusions PEAK,2026-07-12,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
@@ -1199,175 +1163,39 @@ LvZ18Q_xoFLXWVOZvDG9L,Twist Museum - London's Home of Illusions PEAK,2026-07-13,
 LvZ18Q3v-ymmrPOZvNUFK,FRAMELESS 2026,2026-07-13,15:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
 LvZ18QQvI0_GeBZZv3vX_,Newcastle Beyond Van Gogh,2026-07-13,15:30:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Arts & Theatre,Fine Art,Fine Art
 LvZ18Q_xoFLXWVOZvDG9O,Twist Museum - London's Home of Illusions PEAK,2026-07-13,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18QOpsqJDCZZvOQ6PK,Hella Rock Festival,2026-09-05,12:00:00,False,Coventry,-1.511266,52.407356,hmv Empire,,Music,Rock,Hard Rock
-LvZ18Q2qxS39wfYZlWXVh,SATURDAY NIGHT COMEDY - UP THE CREEK,2026-09-05,19:00:00,False,London,-0.01077,51.481328,Up The Creek,,Arts & Theatre,Comedy,Comedy
-LvZ18Q0_Hl9xgR16xeOVy,Soul City: House music every Saturday,2026-09-05,22:30:00,False,London,-0.143343,51.53859,Jazz Cafe,,Undefined,,
-LvZ18Q0_MkfsB3V4VwS4p,Roche Musique: Cezaire + Crayon + Clara Rosa,2026-09-05,22:30:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,Dance/Electronic,Dance/Electronic
-LvZ18QN8vO5wszOZ00U3S,Live Band Karaoke,2026-09-05,22:30:00,False,London,-0.01077,51.481328,Up The Creek,,Music,Undefined,Undefined
-1AdfZ_6GkTRl1Rn,Sea Life Birmingham - Standard Entry,2026-09-06,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
-16djZ_6GoG7R8EE,Sea Life Brighton - Standard Admission,2026-09-06,10:00:00,False,Brighton,-0.13577386,50.81962932,SEA LIFE Brighton,,Miscellaneous,Family,Other
-17uOv0G65nVLNoj,Chessington World of Adventures - 1 Day Entry,2026-09-06,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
-17uOv0G6CLQlVPJ,London Eye - Standard Experience,2026-09-06,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
-17uOv0G6GE4yziY,Madame Tussauds London - Standard Entry,2026-09-06,10:00:00,False,London,-0.15526,51.52248,Madame Tussauds London,,Miscellaneous,Family,Other
-17uOv0G6uhhQnCS,London Dungeon - Standard Entry,2026-09-06,10:00:00,False,London,-0.11735,51.500992,The London Dungeon,,Miscellaneous,Family,Other
-1AMZk3aGkdMAf3x,Blackpool Sandcastle Waterpark,2026-09-06,10:00:00,False,Blackpool,-3.05751757,53.79413438,Sandcastle Waterpark,,Miscellaneous,Family,Other
-1AUZk8YGkd2XEao,Thorpe Park Resort - One Day Entry,2026-09-06,10:00:00,False,Chertsey,-0.50856,51.40752,Thorpe Park,,Miscellaneous,Family,Other
-1AdbZ_6GkB8S3Sa,Sea Life Blackpool - Standard Entry,2026-09-06,10:00:00,False,Blackpool,-3.05507,53.81274,SEA LIFE Blackpool,,Miscellaneous,Family,Other
-1AdbZ_FGklq39cx,Madame Tussauds Blackpool - Standard Entry,2026-09-06,10:00:00,False,Blackpool,-3.05511829,53.81207924,Madame Tussauds Blackpool,,Miscellaneous,Family,Other
-1AdjZ_6GkMrawmW,Sea Life Manchester - Standard Entry,2026-09-06,10:00:00,False,Manchester,-2.34235349,53.46686792,SEA LIFE Manchester,,Miscellaneous,Family,Other
-1kuYv0u7GA1S6Ml,Legoland Windsor - Daily Entry,2026-09-06,10:00:00,False,Windsor,-0.64988,51.459099,Legoland Windsor,,Miscellaneous,Undefined,Undefined
-G5vHZ_7FI7bwO,Warwick Castle - Daily Entry,2026-09-06,10:00:00,False,Warwick,-1.585766,52.280585,Warwick Castle,,Miscellaneous,Community/Civic,Community/Civic
-G5vHZ_GcZmDir,Sea Life London - Standard Entry,2026-09-06,10:00:00,False,London,-0.119252,51.50282,County Hall,,Miscellaneous,Family,Other
-G5vHZbVHUvQhX,Alton Towers Resort - One Day Entry,2026-09-06,10:00:00,False,Alton,-1.888653,52.988319,Alton Towers,,Miscellaneous,Family,Other
-LvZ18Q36lTms8S8ZvPfI9,FRAMELESS 2026,2026-09-06,10:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__-,Twist Museum - London's Home of Illusions PEAK,2026-09-06,10:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18QoFgNP6G1OZl2RSj,Concours of Elegance - Sunday,2026-09-06,10:00:00,False,London,-0.33767,51.403813,Hampton Court,,Sports,Motorsports/Racing,Motorsports/Racing
-LvZ18Q_xoF5Rq0OZvh__x,Twist Museum - London's Home of Illusions PEAK,2026-09-06,10:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q36lTms8S8ZvPfIb,FRAMELESS 2026,2026-09-06,10:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__N,Twist Museum - London's Home of Illusions PEAK,2026-09-06,10:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4Ze3baLZdv,The Gruffalo,2026-09-06,10:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Children's Theatre,Children's Theatre
-LvZ18Q_xoF5Rq0OZvh__0,Twist Museum - London's Home of Illusions PEAK,2026-09-06,10:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdjZ_aGkV9gn6O,Dinosaur World Live!,2026-09-06,11:00:00,False,London,-0.28527,51.56178,Troubadour Wembley Park Theatre,,Miscellaneous,Family,Other
-1AgZk8gGkd3TAKe,Scarborough Spa Orchestra Morning Concert,2026-09-06,11:00:00,False,Scarborough,-0.39694,54.27551,Scarborough Spa Suncourt ,,Arts & Theatre,Classical,Symphonic
-LvZ18Q36lTms8S8ZvPfI_,FRAMELESS 2026,2026-09-06,11:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18QKADMbMQ08Zv2EZN,Guided Walks of the Old Course,2026-09-06,11:00:00,False,St Andrews,-2.808659,56.345632,St Andrews Links Clubhouse,,Sports,Miscellaneous,Miscellaneous
-LvZ18Q_xoF5Rq0OZvh__P,Twist Museum - London's Home of Illusions PEAK,2026-09-06,11:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__J,Twist Museum - London's Home of Illusions PEAK,2026-09-06,11:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q36lTms8S8ZvPfIQ,FRAMELESS 2026,2026-09-06,11:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__E,Twist Museum - London's Home of Illusions PEAK,2026-09-06,11:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__I,Twist Museum - London's Home of Illusions PEAK,2026-09-06,11:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdfZ_eGkDgLFpj,Mamma Mia! The Party,2026-09-06,12:00:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
-G5dzZ_CLGPNSC,The Road To Nashville,2026-09-06,12:00:00,False,Edinburgh,-3.24748,55.926128,Edinburgh Corn Exchange,,Music,Country,Country
-LvZ18Q2es8qghfOZlNPbY,BRUNCH | Gospel Brunch with The Rev Bazil Meade,2026-09-06,12:00:00,False,London,-0.106126,51.534184,Soul Mama Islington,,Music,Religious,Gospel
-LvZ18Q36lTms8S8ZvPfIh,FRAMELESS 2026,2026-09-06,12:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18QKADMbMQ08Zv2EZ0,Guided Walks of the Old Course,2026-09-06,12:00:00,False,St Andrews,-2.808659,56.345632,St Andrews Links Clubhouse,,Sports,Miscellaneous,Miscellaneous
-LvZ18Q_xoF5Rq0OZvh__t,Twist Museum - London's Home of Illusions PEAK,2026-09-06,12:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__n,Twist Museum - London's Home of Illusions PEAK,2026-09-06,12:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17u8v0G6u2Z-SpT,Grease: the Immersive Movie Musical,2026-09-06,12:30:00,False,London,-0.161824,51.478991,EVOLUTION LONDON BATTERSEA PARK,,Film,Miscellaneous,Miscellaneous
-G5vHZ_uhD1ESx,Be Like Blippi,2026-09-06,12:30:00,False,Birmingham,-1.903587,52.479447,Town Hall Birmingham,,Arts & Theatre,Children's Theatre,Children's Theatre
-LvZ18Q36lTms8S8ZvPfIj,FRAMELESS 2026,2026-09-06,12:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__l,Twist Museum - London's Home of Illusions PEAK,2026-09-06,12:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17u8v0G6uJ0thGP,CHAT NOIR!,2026-09-06,12:45:00,False,London,-0.20485809,51.4905226,The Lost Estate,,Arts & Theatre,Variety,Cabaret
-LvZ18Q_xoF5Rq0OZvh__i,Twist Museum - London's Home of Illusions PEAK,2026-09-06,12:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17u8v0G6uMUlaZ8,Belle Livingstone's 58th Street Country Club,2026-09-06,13:00:00,False,London,-0.06736413,51.47289512,Belle Livingstone's 58th Street Country Club,,Music,Jazz,Jazz
-17uYv0G65IaldBi,Now You See Me Live!,2026-09-06,13:00:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Magic & Illusion,Magic
-1AdfZ_6GkXXYFdT,Shakespear's Globe - Love's Labour's Lost,2026-09-06,13:00:00,False,London,-0.096597,51.508111,"Globe Theatre, Shakespeare's Globe",,Arts & Theatre,Theatre,Drama
-1AdjZ_dGkyvIFjB,Harry Potter and the Cursed Child - Parts 1 & 2 Sun 13:00 & 18:00,2026-09-06,13:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
-LvZ18Q36lTms8S8ZvPfIq,FRAMELESS 2026,2026-09-06,13:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18QNA31aT2u8vGIibG,Princess Academy,2026-09-06,13:00:00,False,Belfast,-5.99938098,54.56058378,The Balmoral Hotel,,Undefined,,
-LvZ18Q_xoF5Rq0OZvh__c,Twist Museum - London's Home of Illusions PEAK,2026-09-06,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__m,Twist Museum - London's Home of Illusions PEAK,2026-09-06,13:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17u8v0G65Crme0y,Faulty Towers the Dining Experience,2026-09-06,13:30:00,False,London,-0.12395745,51.52226825,President Hotel,,Arts & Theatre,Theatre,Comedy
-LvZ18Q36lTms8S8ZvPfIr,FRAMELESS 2026,2026-09-06,13:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_jGcFBvm8Z0gLYs,Luke Combs UK - Luke Combs tribute,2026-09-06,13:30:00,False,Norwich ,1.296628,52.638032,Epic Studios,,Music,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__R,Twist Museum - London's Home of Illusions PEAK,2026-09-06,13:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__Y,Twist Museum - London's Home of Illusions PEAK,2026-09-06,13:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17uYv0G65mTXoX5,My Neighbour Totoro,2026-09-06,14:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
-1AdjZbSGkDYgh8G,Matilda The Musical,2026-09-06,14:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
-1AgZk8VGkdfRfHz,Scarborough Spa Orchestra Teddy Bears Picnic Concert,2026-09-06,14:00:00,False,Scarborough,-0.39694,54.27551,Scarborough Spa Suncourt ,,Arts & Theatre,Classical,Symphonic
-G5dzZ_G1Xd79s,Progress Wrestling - The Odyssey Tour ,2026-09-06,14:00:00,False,Manchester,-2.243098,53.474423,O2 Ritz Manchester,,Sports,Wrestling,Wrestling
-LvZ18Q36lTms8S8ZvPfIL,FRAMELESS 2026,2026-09-06,14:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18QKADMbMQ08Zv2EZP,Guided Walks of the Old Course,2026-09-06,14:00:00,False,St Andrews,-2.808659,56.345632,St Andrews Links Clubhouse,,Sports,Miscellaneous,Miscellaneous
-LvZ18Q_xoF5Rq0OZvh__s,Twist Museum - London's Home of Illusions PEAK,2026-09-06,14:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18QrxGbvCerOZM017v,Passenger,2026-09-06,14:00:00,False,Hove,-0.182169,50.849697,Hove Park,,Music,Rock,Pop
-LvZ18Q_xoF5Rq0OZvh__w,Twist Museum - London's Home of Illusions PEAK,2026-09-06,14:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17GOv0G6uBoP8Oy,Listening Garden - Live Sessions,2026-09-06,14:20:00,False,Southampton,-1.383409,50.932847,The Brook,,Music,Other,Other
-16gZkGNFZZAu6A78,Come Alive! The Greatest Showman Circus Spectacular,2026-09-06,14:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
-1AMZko0Gkd5MUWf,The Hunger Games On Stage,2026-09-06,14:30:00,False,London,-0.0134276,51.5035337,Troubadour Canary Wharf Theatre,,Arts & Theatre,Theatre,Drama
-1AUZkGyGkdun1hc,Wicked,2026-09-06,14:30:00,False,London,-0.142691,51.495785,Apollo Victoria Theatre,2328,Arts & Theatre,Theatre,Musical
-1ku8vNu0GAGfrmV,Oliver!,2026-09-06,14:30:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
-G5vHZ_CrZ_wpb,Manchester Storm Vs Sheffield Steelers - Venue Premium Tickets,2026-09-06,14:30:00,False,Manchester,-2.244066,53.488164,AO Arena,23000,Sports,Hockey,Ice Hockey
-G5vHZ_uhb623B,Manchester Storm vs Sheffield Steelers - Pre Season Friendly,2026-09-06,14:30:00,False,Manchester,-2.244066,53.488164,AO Arena,23000,Sports,Hockey,Ice Hockey
-LvZ18Q36lTms8S8ZvPfIO,FRAMELESS 2026,2026-09-06,14:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__S,Twist Museum - London's Home of Illusions PEAK,2026-09-06,14:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4Ze3-2dZek,The Comedy About Spies,2026-09-06,14:30:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Comedy
-ZKr9uZKbZL4ZeCj6jZkaO,Disney's The Lion King,2026-09-06,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeorGbZdvb,Titanique,2026-09-06,14:30:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q_xoF5Rq0OZvh__V,Twist Museum - London's Home of Illusions PEAK,2026-09-06,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17uYv0G65IQsPq4,Stranger Things: The First Shadow,2026-09-06,15:00:00,False,London,-0.129497,51.514387,Phoenix Theatre,,Arts & Theatre,Theatre,Drama
-1AMZkupGkdQEB8B,The Play That Goes Wrong,2026-09-06,15:00:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
-G5dzZbb92ro1r,LORD OF THE DANCE,2026-09-06,15:00:00,False,Brighton,-0.146331,50.82153,The Brighton Centre,,Arts & Theatre,Dance,Dance
-G5vHZbw9tw4aV,Witness for the Prosecution,2026-09-06,15:00:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
-LvZ18Q3piBmGwl8ZvPVvj,FRAMELESS,2026-09-06,15:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__g,Twist Museum - London's Home of Illusions PEAK,2026-09-06,15:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4Zefe5NZdj,Hot Mess: A New Musical,2026-09-06,15:00:00,False,London,-0.1421127,51.4987242,The Other Palace,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze8-4-Z7vA,Hadestown,2026-09-06,15:00:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeCNuaZ66K,SIX The Musical,2026-09-06,15:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q_xoF5Rq0OZvh__U,Twist Museum - London's Home of Illusions PEAK,2026-09-06,15:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AMZk3bGkePikoE,I'm Every Woman: the Chaka Khan Musical,2026-09-06,15:30:00,False,London,-0.28527,51.56178,Troubadour Wembley Park Theatre,,Arts & Theatre,Theatre,Musical
-1AMZkGSGkdStXvM,Russell Howard - Don't Tell The Algorithm,2026-09-06,15:30:00,False,Bristol,-2.5982703,51.45454646,Bristol Beacon,,Arts & Theatre,Comedy,Comedy
-LvZ18Q0mUap9KrbqnLpy-,London Jazz Orchestra Vortex Sessions - Coltrane at 100: Africa/Brass,2026-09-06,15:30:00,False,London,-0.07665,51.54879,Vortex Jazz Club,,Undefined,,
-LvZ18Q3piBmGwl8ZvPVvq,FRAMELESS,2026-09-06,15:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__M,Twist Museum - London's Home of Illusions PEAK,2026-09-06,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__z,Twist Museum - London's Home of Illusions PEAK,2026-09-06,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-G5vHZ_5RazEbS,Laughterama: Chris McCausland & John Robins,2026-09-06,16:00:00,False,Manchester,-2.256881,53.476524,Castlefield Bowl,,Arts & Theatre,Comedy,Comedy
-G5vHZ_uhD59SU,Be Like Blippi,2026-09-06,16:00:00,False,Birmingham,-1.903587,52.479447,Town Hall Birmingham,,Arts & Theatre,Children's Theatre,Children's Theatre
-LvZ18Q3piBmGwl8ZvPVvr,FRAMELESS,2026-09-06,16:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoF5Rq0OZvh__y,Twist Museum - London's Home of Illusions PEAK,2026-09-06,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__B,Twist Museum - London's Home of Illusions PEAK,2026-09-06,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17uYv0G6GOFzkKO,Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition],2026-09-06,16:30:00,False,Brighton,-0.139366,50.824936,Brighton Komedia,,Arts & Theatre,Theatre,Comedy
-LvZ18Q_xoF5Rq0OZvh__D,Twist Museum - London's Home of Illusions PEAK,2026-09-06,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__H,Twist Museum - London's Home of Illusions PEAK,2026-09-06,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q-p3So-mfYvGft_8,"Fools Game, Last Wishes & Malignant Methods",2026-09-06,17:00:00,False,London,-0.03838,51.475524,New Cross Inn,,Music,Rock,Hardcore Punk
-LvZ18Q_xoF5Rq0OZvh__W,Twist Museum - London's Home of Illusions PEAK,2026-09-06,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh__X,Twist Museum - London's Home of Illusions PEAK,2026-09-06,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17u8v0G6u2ZYK-1,Grease: the Immersive Movie Musical,2026-09-06,17:30:00,False,London,-0.161824,51.478991,EVOLUTION LONDON BATTERSEA PARK,,Film,Miscellaneous,Miscellaneous
-17uYv0G65IaMKBV,Now You See Me Live!,2026-09-06,17:30:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Magic & Illusion,Magic
-LvZ18Q_xoF5Rq0OZvh__T,Twist Museum - London's Home of Illusions PEAK,2026-09-06,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoF5Rq0OZvh_QZ,Twist Museum - London's Home of Illusions PEAK,2026-09-06,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-15djZ_ax773Ja,BINI - Venue Premium Tickets,2026-09-06,18:00:00,False,London,-0.283527,51.557918,OVO Arena Wembley,12500,Music,Pop,Pop
-1AUZko8GkeWx0W8,The Illegal Eagles - Venue Premium Tickets,2026-09-06,18:00:00,False,York,-1.073629,53.95386,York Barbican,,Music,Undefined,Undefined
-1AdbZbMGknORUGD,MAZE live in concert,2026-09-06,18:00:00,False,London,-0.224423,51.490693,Eventim Apollo,3500,Music,R&B,R&B
-LvZ18Q_xoF5Rq0OZvh_Qv,Twist Museum - London's Home of Illusions PEAK,2026-09-06,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18QjfPoJfsgYZzEyke,King Prawn,2026-09-06,18:00:00,False,Bristol,-2.595066,51.448839,Thekla,,Music,Rock,Punk
-LvZ18QqRvk5f5tYvq0ZrL,Scotland Introducing: Birdvox & Iona Fyfe,2026-09-06,18:00:00,False,Saltaire,-1.78832,53.837635,The Live Room,,Music,Folk,Folk
-17GOv0G61664YyC,Devin Townsend Â Metamorphosis Â Solo,2026-09-06,18:30:00,False,London,-0.102362,51.54378,Union Chapel,,Music,Rock,Pop
-17u8v0G65CrmeP7,Faulty Towers the Dining Experience,2026-09-06,18:30:00,False,London,-0.12395745,51.52226825,President Hotel,,Arts & Theatre,Theatre,Comedy
-17uYv0G61NCTk2q,KATSEYE: THE WILDWORLD TOUR,2026-09-06,18:30:00,False,Manchester,-2.1995797,53.48661136,Co-op Live,23500,Music,Pop,Pop
-1AUZkCdGkeHsnfi,Michael Ball - Venue Premium Tickets,2026-09-06,18:30:00,False,Hull,-0.343217,53.741616,Connexin Live,,Music,Pop,Adult Contemporary
-1AdbZbMGkmiyE4b,Michael Ball: Glow UK Tour 2026,2026-09-06,18:30:00,False,Hull,-0.343217,53.741616,Connexin Live,,Music,Pop,Adult Contemporary
-1AdfZ_6GkXXWIAf,Shakespear's Globe - Love's Labour's Lost,2026-09-06,18:30:00,False,London,-0.096597,51.508111,"Globe Theatre, Shakespeare's Globe",,Arts & Theatre,Theatre,Drama
-1AdfZ_eGkDglIpi,Mamma Mia! The Party,2026-09-06,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
-G5dzZ_61feeba,Dance Gavin Dance,2026-09-06,18:30:00,False,Birmingham,-1.900215,52.473277,O2 Academy Birmingham,,Music,Rock,Pop
-17u8v0G65KNQJb1,Arcy Drive,2026-09-06,19:00:00,False,Leeds,-1.5666079,53.8161773,Hyde Park Book Club,,Music,Rock,Pop
-17u8v0G6uMUytd-,Belle Livingstone's 58th Street Country Club,2026-09-06,19:00:00,False,London,-0.06736413,51.47289512,Belle Livingstone's 58th Street Country Club,,Music,Jazz,Jazz
-17uOvxG6GiL3g8H,Serena Terry: Therapy,2026-09-06,19:00:00,False,Edinburgh,-3.186341,55.946658,Festival Theatre Edinburgh,,Arts & Theatre,Comedy,Comedy
-1AMZk3pGkdaL4_g,BINI: SIGNALS WORLD TOUR,2026-09-06,19:00:00,False,London,-0.283527,51.557918,OVO Arena Wembley,12500,Music,Pop,Pop
-1AMZkofGkdOI54k,Trevor Ashley: a Million Years of Minnelli,2026-09-06,19:00:00,False,London,-0.127819,51.509954,Garrick Theatre,,Arts & Theatre,Variety,Cabaret
-1AMZkupGkdQgQo8,The Play That Goes Wrong,2026-09-06,19:00:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
-1AdbZ_6GklW0alg,The Prat Pack,2026-09-06,19:00:00,False,Manchester,-2.251395,53.478837,"Opera House, Manchester",,Arts & Theatre,Comedy,Comedy
-1AzZk3vGkdrtwnP,Freya Ridings: Mother of Pearl Tour,2026-09-06,19:00:00,False,Belfast,-5.9312439,54.59511621,Ulster Hall Belfast,,Music,Rock,Pop
-1kuOv0otGA1f0pQ,Tam Cowan,2026-09-06,19:00:00,False,Paisley,-4.42147782,55.84549457,Paisley Town Hall,,Arts & Theatre,Comedy,Comedy
-G5dzZ_51yjd4a,Jamie Webster,2026-09-06,19:00:00,False,Bristol,-2.600849,51.454142,O2 Academy Bristol,,Music,Rock,Pop
-G5dzZ_FD5yAMg,Day We Ran,2026-09-06,19:00:00,False,Birmingham,-1.887562,52.475756,O2 Institute3 Birmingham,,Music,Rock,Alternative Rock
-G5vHZ_5KZNgvU,John Cleese and The Holy Grail,2026-09-06,19:00:00,False,Buxton,-1.916705,53.258727,Opera House Buxton,,Film,Comedy,Comedy
-G5vHZ_aN9k9DH,Talia Mar,2026-09-06,19:00:00,False,Birmingham,-1.893003,52.435854,Hare and Hounds,,Music,Pop,Electro Pop
-G5vHZ_kJVYdV7,"JON ANDERSON & THE BAND GEEKS - YES Epics, Classics & More",2026-09-06,19:00:00,False,Brighton,-0.139088,50.823717,Brighton Dome,,Music,Rock,Pop
-LvZ18Q0mNA2wb2z5ZNt-P,Chris Duncan: The Fight Behind the UFC Fighter - Origin Story Live,2026-09-06,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Undefined,,
-LvZ18QLEvHUack8v1sSED,Boyce Avenue,2026-09-06,19:00:00,False,Newcastle,-1.608845,54.979831,Northumbria Students Union,,Music,Rock,Pop
-LvZ18Qq4q513gpZZM2wKD,The Five Hundred,2026-09-06,19:00:00,False,"Newcastle upon Tyne, NE1 2PQ",-1.59238,54.974933,Cluny 2,,Music,Alternative,Indie Rock
-LvZ18QqaSf7-wB8Z07p2P,MASSIVE EGO,2026-09-06,19:00:00,False,London,-0.111874,51.531721,The Lexington,,Music,Rock,Alternative Rock
-LvZ18QrrGh_-bRZZMp1aH,Fontaines YC & Two door cinema clone,2026-09-06,19:00:00,False,Southampton,-1.4004633,50.8989811,Southampton 1865,,Music,Alternative,Alternative Rock
-LvZ18QxO-8YyIsOvGB4Nt,Vitor Kley,2026-09-06,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,World,Brazil
-Z3r9uZKbZL4Ze3-2dZe6,The Comedy About Spies,2026-09-06,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Comedy
-ZKr9uZKbZL4ZeCNuaZ66f,SIX The Musical,2026-09-06,19:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeorGbZdv_,Titanique,2026-09-06,19:00:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
-16dFZbMC9G7Yvx8,Michael Shannon & Jason Narducy and Friends Play R.E.M.°S ÂLife's,2026-09-06,19:30:00,False,Leeds,-1.570275,53.809656,Brudenell Social Club,,Music,Rock,Alternative Rock
-17uYvxG6uDblF7U,Jason Manford: A Manford All Seasons,2026-09-06,19:30:00,False,Cheltenham,-2.0747,51.899746,Everyman Theatre,,Arts & Theatre,Comedy,Comedy
-1AMZkGSGkdzsrO-,Russell Howard - Don't Tell The Algorithm,2026-09-06,19:30:00,False,Bristol,-2.5982703,51.45454646,Bristol Beacon,,Arts & Theatre,Comedy,Comedy
-1AUZkuzGkdPBnFT,Jonathan Pie: Work in Progress,2026-09-06,19:30:00,False,York,-1.082507,53.956905,"Grand Opera House, York",,Arts & Theatre,Comedy,Comedy
-1AdjZ_FGkURmx4n,Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition],2026-09-06,19:30:00,False,Brighton,-0.139366,50.824936,Brighton Komedia,,Arts & Theatre,Theatre,Comedy
-1AgZkotGkdDmUla,In My Opinion Podcast,2026-09-06,19:30:00,False,London,-0.075203,51.551041,EartH,,Arts & Theatre,Theatre,Podcast
-1AgZkukGkdOhE7r,ELO Again,2026-09-06,19:30:00,False,Scarborough,-0.397446,54.275699,Scarborough Spa Theatre,,Music,Undefined,Undefined
-G5vHZ_5RaBMbU,Laughterama: Rose Matafeo & Sarah Keyworth,2026-09-06,19:30:00,False,Manchester,-2.256881,53.476524,Castlefield Bowl,,Arts & Theatre,Comedy,Comedy
-LvZ18Q0rdxwYj4bIVHne3,NIN UK,2026-09-06,19:30:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Music,Alternative,Alternative Rock
-LvZ18QLCdX4ASM8vqfzwQ,The Comedy Store Players - 6th September,2026-09-06,19:30:00,False,London,-0.13233095,51.50998051,The Comedy Store,,Arts & Theatre,Comedy,Comedy
-LvZ18QNLTE1dj0ZvO99sA,Jeffrey Lewis & The Voltage,2026-09-06,20:00:00,False,Worcester,-2.220925,52.195773,Marrs Bar,,Music,Rock,Alternative Rock
-LvZ18Q_YEp3eVSYZv83o8,Twist Museum - London's Home of Illusions PEAK,2026-09-06,23:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdfZbzGkXLDf7g,Frameless Gift Card Redemption,2026-09-06,,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-1AeGZbgGkUOpsLu,Bon Jovi: FOREVER TOUR,2026-09-06,,False,London,-0.279581,51.557807,Wembley Stadium,90000,Music,Rock,Pop
-1AgZk8VGkd2o7np,Scarborough Spa Orchestra Weekly Ticket,2026-09-06,,False,Scarborough,-0.39694,54.27551,Scarborough Spa Suncourt ,,Arts & Theatre,Classical,Symphonic
-G5vHZ_ub8EG-J,Shrek's Adventure - Standard Experience,2026-09-06,,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Children's Theatre,Children's Theatre
+LvZ18Q_xoFLXWVOZvDG9-,Twist Museum - London's Home of Illusions PEAK,2026-07-13,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3v-ymmrPOZvNUFf,FRAMELESS 2026,2026-07-13,16:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18QQvI0_GeBZZv3vXQ,Newcastle Beyond Van Gogh,2026-07-13,16:00:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Arts & Theatre,Fine Art,Fine Art
+LvZ18Q_xoFLXWVOZvDG9x,Twist Museum - London's Home of Illusions PEAK,2026-07-13,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_xoFLXWVOZvDG9N,Twist Museum - London's Home of Illusions PEAK,2026-07-13,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18QQvI0_GeBZZv3vXh,Newcastle Beyond Van Gogh,2026-07-13,16:30:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Arts & Theatre,Fine Art,Fine Art
+LvZ18Q_xoFLXWVOZvDG90,Twist Museum - London's Home of Illusions PEAK,2026-07-13,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_xoFLXWVOZvDG9P,Twist Museum - London's Home of Illusions PEAK,2026-07-13,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17u8vxG6udEZ6V6,System Of A Down,2026-07-13,17:00:00,False,London,-0.06787,51.600819,Tottenham Hotspur Stadium,62850,Music,Metal,Nu-Metal
+LvZ18QQvI0_GeBZZv3vXj,Newcastle Beyond Van Gogh,2026-07-13,17:00:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Arts & Theatre,Fine Art,Fine Art
+LvZ18Q_xoFLXWVOZvDG9J,Twist Museum - London's Home of Illusions PEAK,2026-07-13,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18QxsAdO7mgYvOuwej,The Monday Afterdrive - The Hill,2026-07-13,17:00:00,False,Stratford-upon-Avon,-1.62997,52.14988,Caffeine & Machine: The Hill,,Undefined,,
+LvZ18Q_xoFLXWVOZvDG9E,Twist Museum - London's Home of Illusions PEAK,2026-07-13,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_xoFLXWVOZvDG9I,Twist Museum - London's Home of Illusions PEAK,2026-07-13,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_xoFLXWVOZvDG9t,Twist Museum - London's Home of Illusions PEAK,2026-07-13,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18QOpPX_wT48ZzCwOa,Steatopygous,2026-07-13,18:00:00,False,London,-0.03838,51.475524,New Cross Inn,,Undefined,,
+LvZ18Q_xoFLXWVOZvDG9n,Twist Museum - London's Home of Illusions PEAK,2026-07-13,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Qj_yGr3TNZZ0YmId,DARKSIDE (early show),2026-07-13,18:00:00,False,London,-0.075203,51.551041,EartH,,Music,Rock,Alternative Rock
+LvZ18Q_xoFLXWVOZvDG9l,Twist Museum - London's Home of Illusions PEAK,2026-07-13,18:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+G5vHZbUReMb8f,Jools Holland and His Rhythm & Blues Orchestra,2026-07-13,18:30:00,False,Salisbury,-1.800462,51.070294,Salisbury City Hall,,Music,R&B,R&B
+LvZ18QNPXpV2jmYZzJ96o,Strangers In The City x Windrush 1027 Rum | Cocktail Masterclass,2026-07-13,18:30:00,False,London,-0.106126,51.534184,Soul Mama Islington,,Undefined,,
+LvZ18QOba4MJAIYvGsf8q,Mon 13th Jul - Grandad & Me Do Standup,2026-07-13,18:30:00,False,London ,,,Big Belly Comedy - Southbank,,Arts & Theatre,Comedy,Comedy
+LvZ18Q_xoFLXWVOZvDG9i,Twist Museum - London's Home of Illusions PEAK,2026-07-13,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17u8v0G65h2P4vP,Alewya,2026-07-13,19:00:00,False,London,-0.129112,51.515497,The Lower Third,,Music,R&B,R&B
+17u8v0G65hW-EfS,To Kill A Mockingbird,2026-07-13,19:00:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Drama
+1AMZkufGkd1nb8y,The Producers,2026-07-13,19:00:00,False,London,-0.127819,51.509954,Garrick Theatre,,Arts & Theatre,Theatre,Musical
+1AdOZbzGknbbeo0,Breaking Benjamin,2026-07-13,19:00:00,False,Belfast,-5.932275,54.602427,The Telegraph Building,,Music,Rock,Alternative Rock
+G5dzZ_1pzndHX,Lifehouse - Best of Acoustic,2026-07-13,19:00:00,False,London,-0.224435,51.503525,O2 Shepherds Bush Empire,,Music,Rock,Alternative Rock
+G5dzZbMRsk1Df,Boys Like Girls,2026-07-13,19:00:00,False,Bristol,-2.600849,51.454142,O2 Academy Bristol,,Music,Rock,Alternative Rock
+G5vHZbSewdkyZ,Rumours of Fleetwood Mac,2026-07-13,19:00:00,False,Llandudno,-3.815494,53.321836,Venue Cymru Theatre,,Music,Undefined,Undefined
+LvZ18Q0V83QEyYqeACLq-,"Jack & Jack | Birmingham, Mama Roux's",2026-07-13,19:00:00,False,Manchester,-2.249832,53.477374,Lions Den,,Undefined,,
+LvZ18QLwenLAlKZZ0A4vR,Concert for Mental Health: Harry Mack,2026-07-13,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,Hip-Hop/Rap,Rap-Rock
+LvZ18QORekhp0pYvGnwLs,Mon 13th Jul - Stand Up Comedy Show - Big Belly Comedy Club,2026-07-13,19:00:00,False,London ,,,Big Belly Comedy - Southbank,,Arts & Theatre,Comedy,Comedy
 1AdfZ_6GkTRz1Y3,Sea Life Birmingham - Standard Entry,2026-09-07,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
 16djZ_6GoG7H8ng,Sea Life Brighton - Standard Admission,2026-09-07,10:00:00,False,Brighton,-0.13577386,50.81962932,SEA LIFE Brighton,,Miscellaneous,Family,Other
 17uOv0G65nVlN32,Chessington World of Adventures - 1 Day Entry,2026-09-07,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
@@ -2341,7 +2169,6 @@ LvZ18Q_-pdh3YJOZvgzGJ,Twist Museum - London's Home of Illusions STANDARD,2026-09
 17uYv0G65IhHgqt,Stranger Things: The First Shadow,2026-09-12,13:00:00,False,London,-0.129497,51.514387,Phoenix Theatre,,Arts & Theatre,Theatre,Drama
 LvZ18Q0K0Pq2EaN1cf7KG,Dayclubbing - 12/9/26,2026-09-12,13:00:00,False,Hertford,,,Hertford Corn Exchange,,Music,Rock,Funk-Rock
 LvZ18Q36lTms8S8ZvPfIc,FRAMELESS 2026,2026-09-12,13:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q9qWZdDFlZZlOxI6,BRUNCH Sat 12th Sep - ABBA Vs Disco Bottomless Brunch,2026-09-12,13:00:00,False,London ,,,Big Belly Comedy - Southbank,,,,
 LvZ18Q_-pdh3YJOZvgzGE,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
 LvZ18QreRtAGtyZv1ebQ0,Saturday Jazz Lunch | Frank & Dean,2026-09-12,13:00:00,False,London,-0.022271,51.505252,"Boisdale, Canary Wharf",,Music,Undefined,Undefined
 LvZ18Q_-pdh3YJOZvgzGI,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,13:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
@@ -2398,229 +2225,177 @@ ZKr9uZKbZL4Ze3eNbZeFx,Hamilton,2026-09-12,14:30:00,False,London,-0.142382,51.497
 ZKr9uZKbZL4Ze8-4-Z7v1,Hadestown,2026-09-12,14:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
 ZKr9uZKbZL4ZeCOjfZkkx,Moulin Rouge! The Musical,2026-09-12,14:30:00,False,London,-0.1353998,51.5110543,Piccadilly Theatre,,Arts & Theatre,Theatre,Musical
 ZKr9uZKbZL4ZeCj6jZk1e,Disney's The Lion King,2026-09-12,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
-1AdfZ_6GkTHv5pv,Sea Life Birmingham - Standard Entry,2026-11-05,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
-17uOv0G6CLPJ0WR,London Eye - Standard Experience,2026-11-05,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
-17uOv0G6GE-FD6B,Madame Tussauds London - Standard Entry,2026-11-05,10:00:00,False,London,-0.15526,51.52248,Madame Tussauds London,,Miscellaneous,Family,Other
-17uOv0G6uhIK5qM,London Dungeon - Standard Entry,2026-11-05,10:00:00,False,London,-0.11735,51.500992,The London Dungeon,,Miscellaneous,Family,Other
-1AdbZ_6GkBjRdnK,Sea Life Blackpool - Standard Entry,2026-11-05,10:00:00,False,Blackpool,-3.05507,53.81274,SEA LIFE Blackpool,,Miscellaneous,Family,Other
-1AdbZ_FGkltvFh7,Madame Tussauds Blackpool - Standard Entry,2026-11-05,10:00:00,False,Blackpool,-3.05511829,53.81207924,Madame Tussauds Blackpool,,Miscellaneous,Family,Other
-1AdjZ_6GkMtXSkz,Sea Life Manchester - Standard Entry,2026-11-05,10:00:00,False,Manchester,-2.34235349,53.46686792,SEA LIFE Manchester,,Miscellaneous,Family,Other
-1kuOv0OOGACOD8O,London Eye - Standard Experience,2026-11-05,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
-1kuYv0jsGAuTeNN,Sea Life Brighton - Standard Admission,2026-11-05,10:00:00,False,Brighton,-0.13577386,50.81962932,SEA LIFE Brighton,,Miscellaneous,Family,Other
-G5vHZ_7FVla7m,Warwick Castle - Daily Entry,2026-11-05,10:00:00,False,Warwick,-1.585766,52.280585,Warwick Castle,,Miscellaneous,Community/Civic,Community/Civic
-G5vHZ_GcuijZP,Sea Life London - Standard Entry,2026-11-05,10:00:00,False,London,-0.119252,51.50282,County Hall,,Miscellaneous,Family,Other
-G5vHZbVWvYntN,Alton Towers Resort - One Day Entry,2026-11-05,10:00:00,False,Alton,-1.888653,52.988319,Alton Towers,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_ju,Twist Museum - London's Home of Illusions PEAK,2026-11-05,10:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jC,Twist Museum - London's Home of Illusions PEAK,2026-11-05,10:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_j2,Twist Museum - London's Home of Illusions PEAK,2026-11-05,10:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_j8,Twist Museum - London's Home of Illusions PEAK,2026-11-05,10:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZG,FRAMELESS,2026-11-05,11:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jo,Twist Museum - London's Home of Illusions PEAK,2026-11-05,11:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_j3,Twist Museum - London's Home of Illusions PEAK,2026-11-05,11:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZu,FRAMELESS,2026-11-05,11:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jK,Twist Museum - London's Home of Illusions PEAK,2026-11-05,11:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jf,Twist Museum - London's Home of Illusions PEAK,2026-11-05,11:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZC,FRAMELESS,2026-11-05,12:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_j4,Twist Museum - London's Home of Illusions PEAK,2026-11-05,12:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jp,Twist Museum - London's Home of Illusions PEAK,2026-11-05,12:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZ2,FRAMELESS,2026-11-05,12:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_j9,Twist Museum - London's Home of Illusions PEAK,2026-11-05,12:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jb,Twist Museum - London's Home of Illusions PEAK,2026-11-05,12:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZ8,FRAMELESS,2026-11-05,13:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_j_,Twist Museum - London's Home of Illusions PEAK,2026-11-05,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jQ,Twist Museum - London's Home of Illusions PEAK,2026-11-05,13:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZo,FRAMELESS,2026-11-05,13:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jh,Twist Museum - London's Home of Illusions PEAK,2026-11-05,13:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jj,Twist Museum - London's Home of Illusions PEAK,2026-11-05,13:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17uYv0G65RGcx4d,My Neighbour Totoro,2026-11-05,14:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
-LvZ18Q3pHJ3rK38ZvwpZ3,FRAMELESS,2026-11-05,14:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jq,Twist Museum - London's Home of Illusions PEAK,2026-11-05,14:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jr,Twist Museum - London's Home of Illusions PEAK,2026-11-05,14:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-17uOv0G65Ll_4kc,Sinatra the Musical,2026-11-05,14:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
-17uYv0G659aw3mU,High School Musical,2026-11-05,14:30:00,False,London,-0.28527,51.56178,Troubadour Wembley Park Theatre,,Arts & Theatre,Theatre,Musical
-G5vHZ_6tzjoWr,Witness for the Prosecution,2026-11-05,14:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
-LvZ18Q3pHJ3rK38ZvwpZK,FRAMELESS,2026-11-05,14:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jL,Twist Museum - London's Home of Illusions PEAK,2026-11-05,14:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4Zef7Q2Ze8,Into The Woods,2026-11-05,14:30:00,False,London,-0.1284654,51.5142805,Noel Coward Theatre,942,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4ZefAN5Ze8,The Standard of Living,2026-11-05,14:30:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Theatre,Drama
-ZKr9uZKbZL4Ze3eNbZe19,Hamilton,2026-11-05,14:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze8-4-Z7e0,Hadestown,2026-11-05,14:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Zeo-b6Zeap,Les Misérables,2026-11-05,14:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q_xoFhRq0OZvh_jO,Twist Museum - London's Home of Illusions PEAK,2026-11-05,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdjZ_7GkSmd6Qa,Burlesque,2026-11-05,15:00:00,False,London,-0.159855,51.51329,The Arts at Marble Arch,,Arts & Theatre,Theatre,Musical
-LvZ18Q3pHJ3rK38ZvwpZf,FRAMELESS,2026-11-05,15:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_j-,Twist Museum - London's Home of Illusions PEAK,2026-11-05,15:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4Zef7CNZ6k,The Mousetrap,2026-11-05,15:00:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Arts & Theatre,Theatre,Drama
-ZKr9uZKbZL4Ze3A4LZe1d,Mamma Mia!,2026-11-05,15:00:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeCQ02ZFe4,The Mousetrap,2026-11-05,15:00:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Undefined,,
-LvZ18Q_xoFhRq0OZvh_jx,Twist Museum - London's Home of Illusions PEAK,2026-11-05,15:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZ4,FRAMELESS,2026-11-05,15:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jN,Twist Museum - London's Home of Illusions PEAK,2026-11-05,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_j0,Twist Museum - London's Home of Illusions PEAK,2026-11-05,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q3pHJ3rK38ZvwpZp,FRAMELESS,2026-11-05,16:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-LvZ18Q_xoFhRq0OZvh_jP,Twist Museum - London's Home of Illusions PEAK,2026-11-05,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-ZKr9uZKbZL4ZeCNuaZ6a9,SIX The Musical,2026-11-05,16:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q_xoFhRq0OZvh_jJ,Twist Museum - London's Home of Illusions PEAK,2026-11-05,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jE,Twist Museum - London's Home of Illusions PEAK,2026-11-05,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jI,Twist Museum - London's Home of Illusions PEAK,2026-11-05,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jt,Twist Museum - London's Home of Illusions PEAK,2026-11-05,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jn,Twist Museum - London's Home of Illusions PEAK,2026-11-05,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFhRq0OZvh_jl,Twist Museum - London's Home of Illusions PEAK,2026-11-05,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-ZKr9uZKbZL4Ze33ONZevb,"Oh, Mary!",2026-11-05,17:30:00,False,London,-0.12651,51.5048,Trafalgar Theatre,,Arts & Theatre,Theatre,Comedy
-LvZ18Q_xoFhRq0OZvh_ji,Twist Museum - London's Home of Illusions PEAK,2026-11-05,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1ANZkoAGkdg8sgm,Papa Roach - Rise of the Roach,2026-11-05,18:00:00,False,Birmingham,-1.914924,52.479932,Utilita Arena Birmingham,15800,Music,Rock,Alternative Rock
-G5vHZ_5KeUgGI,The Script,2026-11-05,18:00:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Music,Rock,Pop
-G5vHZ_5m-P7-h,The Script - Venue Premium Tickets,2026-11-05,18:00:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Music,Rock,Pop
-LvZ18QN2v8XAki8vOlW0n,Tina Sandwich,2026-11-05,18:00:00,False,London,-0.03838,51.475524,New Cross Inn,,Music,Pop,Synth Pop
-LvZ18Q_xoFhRq0OZvh_jc,Twist Museum - London's Home of Illusions PEAK,2026-11-05,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+ZKr9uZKbZL4Zeo-b6Ze6-,Les Misérables,2026-09-12,14:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeoOpjZeAh,Disney's Hercules,2026-09-12,14:30:00,False,London,-0.120258,51.513008,Theatre Royal Drury Lane,2220,Undefined,,
+LvZ18Q_-pdh3YJOZvgzGm,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uOv0G6Gw9PrnQ,WXV Global Series: Red Roses v Australia,2026-09-12,15:00:00,False,Manchester,-2.376029,53.469638,Salford Community Stadium,,Sports,Rugby,Rugby Union
+1ANZkowGkeOqYi_,Be Like Blippi Tour,2026-09-12,15:00:00,False,Derby,-1.48013894,52.92137591,"Vaillant Live, Derby",,Arts & Theatre,Children's Theatre,Children's Theatre
+LvZ18Q36lTms8S8ZvPfIs,FRAMELESS 2026,2026-09-12,15:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18QN1eSuGMMOZ0zmx1,"An Afternoon of Indie BRIGHTON - Indie for the over 30s, 3pm-7pm",2026-09-12,15:00:00,False,Brighton,,,DUST,,Music,Alternative,Indie Rock
+LvZ18Q_-pdh3YJOZvgzGR,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,15:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18QbuaV8RQVOZ0N1pG,"An Afternoon of Indie CAMBRIDGE - Indie for the over 30s, 3pm-7pm",2026-09-12,15:00:00,False,Cambridge,0.120138,52.204679,Kiki,,Music,Alternative,Indie Rock
+LvZ18QxLY0kiBoOZMwrPd,Day Fever - Liverpool,2026-09-12,15:00:00,False,Liverpool,-2.981065,53.394191,Camp and Furnace,,Music,Dance/Electronic,Dance/Electronic
+LvZ18QxLY3Cz9UOvOYgXa,Day Fever - Leeds,2026-09-12,15:00:00,False,Leeds,,,Project House,,Music,Dance/Electronic,Dance/Electronic
+Z3r9uZKbZL4Ze39adZ7_,Beetlejuice,2026-09-12,15:00:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+Z3r9uZKbZL4Ze3OppZ7e,The Truth,2026-09-12,15:00:00,False,London,-0.133935,51.511248,Apollo Theatre,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4Zef7CNZAa,The Mousetrap,2026-09-12,15:00:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Arts & Theatre,Theatre,Drama
+ZKr9uZKbZL4Ze3A4LZeF1,Mamma Mia!,2026-09-12,15:00:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCQ02Z61b,The Mousetrap,2026-09-12,15:00:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Undefined,,
+ZKr9uZKbZL4ZeorGbZdvr,Titanique,2026-09-12,15:00:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
+ZhqgVMyxjZBYPsnXyVSVMmnSyZ6kv,Leyton Orient v Wycombe Wanderers,2026-09-12,15:00:00,False,London,-0.01172665,51.56073774,BetWright Stadium,,Undefined,,
+LvZ18Q_-pdh3YJOZvgzGY,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,15:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+G5vHZbS3XAMdV,Russell Howard - Don't Tell The Algorithm,2026-09-12,15:30:00,False,Northampton,-0.894129,52.236412,Royal and Derngate,,Arts & Theatre,Comedy,Comedy
+LvZ18Q36lTms8S8ZvPfIw,FRAMELESS 2026,2026-09-12,15:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-pdh3YJOZvgzGs,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+Z3r9uZKbZL4Ze33ONZaN,"Oh, Mary!",2026-09-12,15:30:00,False,London,-0.12651,51.5048,Trafalgar Theatre,,Arts & Theatre,Theatre,Comedy
+LvZ18Q_-pdh3YJOZvgzGw,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q36lTms8S8ZvPfIS,FRAMELESS 2026,2026-09-12,16:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18QLFsCzRIB8v1tVxP,Nathan Dawe #0121 SHOW,2026-09-12,16:00:00,False,Birmingham,-1.89312,52.508179,Sports Illustrated Warehouse,,Music,Dance/Electronic,Dance/Electronic
+LvZ18Q_-pdh3YJOZvgzGS,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+ZKr9uZKbZL4ZeCNuaZ66Q,SIX The Musical,2026-09-12,16:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G6GXm-N6l,WXV Global Series: Scotland Women v Canada,2026-09-12,16:10:00,False,Edinburgh,-3.24698,55.94761,"Hive Stadium, Edinburgh",,Sports,Rugby,Rugby Union
+LvZ18Q_-pdh3YJOZvgzGV,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q36lTms8S8ZvPfIV,FRAMELESS 2026,2026-09-12,16:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-pdh3YJOZvgzGg,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-pdh3YJOZvgzGU,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+16eGZ_kQKG7HOg7,Diljit Dosanjh - Aura World Tour,2026-09-12,17:00:00,False,London,-0.279581,51.557807,Wembley Stadium,90000,Music,World,World
+1AdOZ_aGkRO6eRO,Y2k Early Birds,2026-09-12,17:00:00,False,Belfast,-5.93326092,54.58886889,Empire Music Hall,,Music,Pop,Electro Pop
+G5vHZ_uE9lHQk,Misfits Boxing - Venue Premium Tickets,2026-09-12,17:00:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Sports,Boxing,Boxing
+LvZ18Q36lTms8S8ZvPfIg,FRAMELESS 2026,2026-09-12,17:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18QNVKmvf18MKqFjUn,"Cast | Blackpool, Winter Gardens",2026-09-12,17:00:00,False,Blackpool,-3.051569,53.817668,Blackpool Winter Gardens,,Music,Rock,Pop
+LvZ18Q_-pdh3YJOZvgzGM,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-pdh3YJOZvgzGz,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q36lTms8S8ZvPfIU,FRAMELESS 2026,2026-09-12,17:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-pdh3YJOZvgzGy,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-pdh3YJOZvgzGB,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uOv0G65Md95SU,Glasgow's West End Beer Festival - Session 2,2026-09-12,18:00:00,False,Glasgow,-4.298214,55.863711,SWG3,,Miscellaneous,Fairs & Festivals,Fairs & Festivals
+17uYv0G61UDevcr,Mis-Teeq,2026-09-12,18:00:00,False,London,-0.283527,51.557918,OVO Arena Wembley,12500,Music,Pop,Pop
+17uYv0G6uDhmiYr,"The Longest Johns - Moved To the Palais, Nottingham",2026-09-12,18:00:00,False,Nottingham,-1.14421743,52.95556671,The Palais,,Music,Folk,Indie Folk
+1AMZk3aGkdVd0Ge,Primal Scream: XTRMNTR,2026-09-12,18:00:00,False,Manchester,-2.239563,53.486725,Manchester New Century Hall,,Music,Rock,Alternative Rock
+1AUZkC7GkdCcnwL,Michael Ball - Venue Premium Tickets,2026-09-12,18:00:00,False,York,-1.073629,53.95386,York Barbican,,Music,Pop,Adult Contemporary
+1AUZko3Gkel7JWw,Spiritbox,2026-09-12,18:00:00,False,Glasgow,-4.288154,55.86087,SEC Centre,,Music,Metal,Nu-Metal
+1AwZkofGkd0MseC,Gaerea,2026-09-12,18:00:00,False,Nottingham,-1.152975,52.956173,Nottingham Rescue Rooms,,Music,Metal,Nu-Metal
+1agZkowPJ8JZe27,How To Train Your Dragon In Concert,2026-09-12,18:00:00,False,Bradford,-1.75669,53.7924,Bradford Live,,Arts & Theatre,Classical,Symphonic
+G5dzZ_7hcqQ5_,Holy Holy featuring Woody Woodmansey + Tony Visconti + Glenn Gregory,2026-09-12,18:00:00,False,Manchester,-2.243098,53.474423,O2 Ritz Manchester,,Music,Rock,Alternative Rock
+G5dzZbSIGXGhS,T.REXTASY 49TH COMMEMORATIVE ANNIVERSARY CONCERT,2026-09-12,18:00:00,False,London,-0.106613,51.534469,O2 Academy Islington,,Music,Other,Other
+G5vHZ_5UNqJs2,Hilary Duff: the lucky me tour,2026-09-12,18:00:00,False,Manchester,-2.244066,53.488164,AO Arena,23000,Music,Pop,Pop
+G5vHZ_Ak-jerH,Hilary Duff - Venue Premium Tickets,2026-09-12,18:00:00,False,Manchester,-2.244066,53.488164,AO Arena,23000,Music,Pop,Pop
+LvZ18Q-6PFily3OZzpJ4D,Brigitte Calls Me Baby,2026-09-12,18:00:00,False,Bristol,-2.59214808,51.45666317,Electric Bristol,,Music,Pop,Pop
+LvZ18Q-Um7hzT38ZzBCHX,Funebrarum + Morbific,2026-09-12,18:00:00,False,Glasgow,-4.25773,55.857343,Audio,,Music,Metal,Heavy Metal
+LvZ18Q36lfPWjW8Zvko_d,FRAMELESS 2026,2026-09-12,18:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q4SlnVAxdYZYqWR6,Hellkrusher,2026-09-12,18:00:00,False,London,-0.03838,51.475524,New Cross Inn,,Music,Metal,Metal
+LvZ18QKo5cnlcnOZysajI,Carl Hutchinson: Fine Whine,2026-09-12,18:00:00,False,Nottingham,-1.14258678,52.95594795,Just The Tonic at Metronome,,Arts & Theatre,Comedy,Comedy
+LvZ18Q_-pdh3YJOZvgzGD,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18QxJArRHrUZZ0gp6-,Wrekonize Live,2026-09-12,18:00:00,False,Manchester,-2.231759,53.482078,Stage & Radio (Manchester),,Music,Hip-Hop/Rap,Urban
+LvZ18Q_-OWRXWVOZvD58-,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,18:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uYv0G65hLjfqG,Mis-Teeq - Venue Premium Tickets,2026-09-12,18:30:00,False,London,-0.283527,51.557918,OVO Arena Wembley,12500,Music,Pop,Pop
+1AdbZbMGkRN514y,Kevin Bridges:  Here If You Need Me,2026-09-12,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Arts & Theatre,Comedy,Comedy
+1AdbZbMGkRtZ1IP,Venue Premium - Kevin Bridges:  Here If You Need Me,2026-09-12,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Miscellaneous,Community/Civic,Community/Civic
+1AdfZ_eGkDUnb_F,Mamma Mia! The Party,2026-09-12,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
+1AgZkuyGkelz6kj,The Waterboys Fisherman's Blues Revue,2026-09-12,18:30:00,False,London,0.005519,51.501581,The O2,20000,Music,Rock,Alternative Rock
+1kuOv039GA2Fwv1,Rob Lamberti Presents Perfectly George,2026-09-12,18:30:00,False,Glasgow,-4.288154,55.86087,SEC Armadillo,,Music,Undefined,Undefined
+G5dzZ_ezGc62r,Antarctic Monkeys,2026-09-12,18:30:00,False,Oxford,-1.2351166,51.7470676,O2 Academy Oxford,,Music,Rock,Pop
+G5vHZ_1AElYsg,Annie Mac Before Midnight,2026-09-12,18:30:00,False,London,-0.130275,51.594595,Alexandra Palace,,Music,Pop,Electro Pop
+G5vHZbSN-Ob3V,Thompson Twins' Tom Bailey,2026-09-12,18:30:00,False,Bournemouth,-1.875166,50.717544,Bournemouth Pavilion,,Music,Rock,Alternative Rock
+LvZ18Q36lfPWjW8Zvko_7,FRAMELESS 2026,2026-09-12,18:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18QL9Tx9odNYZyTqSb,The Best in Stand Up - Saturday 12th September 6.30pm,2026-09-12,18:30:00,False,London,-0.13233095,51.50998051,The Comedy Store,,Arts & Theatre,Comedy,Comedy
+LvZ18QQvI0u6zpYZl1HaC,The Brit Funk Association,2026-09-12,18:30:00,False,London,-0.006731,51.542852,Soul Mama Stratford,,Music,R&B,Funk
+LvZ18Q_-OWRXWVOZvD58x,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Qh1X4QbqZOZiXrP9,The Best of Adele. Tribute by Mystery Ensemble,2026-09-12,18:30:00,False,London,-0.19510576,51.49884175,Kensington United Reformed Church,,Music,Classical,Classical/Vocal
+LvZ18QjBKloTK_YZ0AXai,Soul Sessions: The Neo Soul Experience,2026-09-12,18:30:00,False,London,-0.106126,51.534184,Soul Mama Islington,,Undefined,,
+LvZ18QrAhNpNkPZv1Av23,Soulful sounds & Rhythmic vibes: Kunle Ayo live @ Soul Mama,2026-09-12,18:30:00,False,London,-0.106126,51.534184,Soul Mama Islington,,Undefined,,
+17u8v0G6uJPR5-t,CHAT NOIR!,2026-09-12,18:45:00,False,London,-0.20485809,51.4905226,The Lost Estate,,Arts & Theatre,Variety,Cabaret
+1AdjZ_7GkRAlPKX,Jimmy Carr: Laughs Funny,2026-09-12,18:45:00,False,London,-0.140055,51.514546,The London Palladium,,Arts & Theatre,Comedy,Comedy
+LvZ18Q_-OWRXWVOZvD58N,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,18:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+16gZkCvPJZA57C5v,Fin Taylor,2026-09-12,19:00:00,False,Manchester,-2.25446,53.48008,Aviva Studios - The Hall,,Arts & Theatre,Comedy,Comedy
+17GOv0G6urFvZOd,Jamie Rafferty,2026-09-12,19:00:00,False,Glasgow,-4.27222,55.8663,Attic Bar  - Glasgow Garage,,Music,Rock,Alternative Rock
+17u8v0G65b1ZBkx,John Cleese and The Holy Grail,2026-09-12,19:00:00,False,Woking,-0.561865,51.319851,Woking Theatre,,Film,Comedy,Comedy
+17u8v0G65b5Qbvd,To Kill A Mockingbird,2026-09-12,19:00:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Drama
+17u8v0G6CxbuBL2,Last Laugh Comedy Club,2026-09-12,19:00:00,False,Sheffield,-1.471079,53.38118,Sheffield City Hall Memorial Hall,,Arts & Theatre,Comedy,Comedy
+17u8v0G6uEjvTIb,Chanin,2026-09-12,19:00:00,False,London,-0.129112,51.515497,The Lower Third,,Music,Other,Other
+17u8v0G6uMzv_4W,Belle Livingstone's 58th Street Country Club,2026-09-12,19:00:00,False,London,-0.06736413,51.47289512,Belle Livingstone's 58th Street Country Club,,Music,Jazz,Jazz
+17uOv0G61RRn1M3,A Skylit Drive,2026-09-12,19:00:00,False,Glasgow,-4.24854,55.85837,Slay Glasgow,,Music,Metal,Nu-Metal
+17uOv0G6GIXs2vx,As It Is,2026-09-12,19:00:00,False,Edinburgh ,-3.1872616,55.9573939,La Belle Angèle,,Music,Rock,Punk
+17uYv0G61Kl_hU0,COLORS: Tones of London,2026-09-12,19:00:00,False,London,-0.129159,51.515741,Outernet Live,,Music,Rock,Alternative Rock
+17uYv0G65IjaPql,Stranger Things: The First Shadow,2026-09-12,19:00:00,False,London,-0.129497,51.514387,Phoenix Theatre,,Arts & Theatre,Theatre,Drama
+17uYv0G65RvK-Tw,My Neighbour Totoro,2026-09-12,19:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
+17uYv0G6C6dWGYF,Sam Smith,2026-09-12,19:00:00,False,London,-0.126308,51.509921,London Coliseum,2358,Music,Pop,Electro Pop
+1AUZk3fGkdpzF2W,Alice Faye,2026-09-12,19:00:00,False,Stirling,-3.94233,56.120506,Tolbooth,,Music,Rock,Pop
+1AUZkCeGkdEaW2Q,Just The Brave,2026-09-12,19:00:00,False,Glasgow,-4.299682,55.864584,The Poetry Club SWG3,,Music,Pop,Pop
+1AUZkoMGkeYIfiL,The Bootleg Beatles,2026-09-12,19:00:00,False,Glasgow,-4.236938,55.855063,Barrowland Ballroom,,Music,Other,Other
+1AUZkodGkdK2M73,Tam Cowan,2026-09-12,19:00:00,False,Greenock,-4.721074,55.938614,Beacon Arts Centre,,Arts & Theatre,Comedy,Comedy
+1AdFZbwGkTcLemO,Wrong Jovi,2026-09-12,19:00:00,False,Glasgow,-4.289157,55.87738,Oran Mor,,Music,Rock,Pop
+1AdbZ_aGkD20NJJ,Todd Rundgren,2026-09-12,19:00:00,False,Manchester,-2.251395,53.478837,"Opera House, Manchester",,Music,Rock,Pop
+1AdbZbMGkRZmIjb,Michael Ball: Glow UK Tour 2026,2026-09-12,19:00:00,False,York,-1.073629,53.95386,York Barbican,,Music,Pop,Adult Contemporary
+1AdjZbSGkDwuDKx,Matilda The Musical,2026-09-12,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AwZk8MGkdL2YHs,Jarad Rowan,2026-09-12,19:00:00,False,Dunfermline,-3.46118597,56.07044158,P J Molloys,,Music,Folk,Indie Folk
+1AwZkoeGkda3ZT6,China Moses,2026-09-12,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,Jazz,Jazz
+1AwZkoeGkdaGZHC,China Moses - Restaurant,2026-09-12,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,Jazz,Jazz
+1AzZkuVGkeOQsDI,Michael Shannon & Jason Narducy and Friends,2026-09-12,19:00:00,False,Belfast,-5.93754172,54.58516357,Mandela Hall,,Music,Rock,Alternative Rock
+1kuYv04FGA1swTl,Fun Lovin' Criminals - with Strings,2026-09-12,19:00:00,False,Watford,-0.403457,51.658974,Watford Colosseum,,Music,Rock,Pop
+G5dzZ_61fr3Q4,Dance Gavin Dance,2026-09-12,19:00:00,False,London,-0.14193,51.552039,O2 Forum Kentish Town,,Music,Rock,Pop
+G5dzZ_7R7i42c,"ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",2026-09-12,19:00:00,False,London,-0.115176,51.465355,O2 Academy Brixton,,Music,Rock,Pop
+G5dzZ_7h6w9I8,The Beast UK: Iron Maiden Tribute,2026-09-12,19:00:00,False,Bristol,-2.600849,51.454142,O2 Academy Bristol,,Music,Undefined,Undefined
+G5dzZ_ArBBKkO,INNA,2026-09-12,19:00:00,False,London,-0.224435,51.503525,O2 Shepherds Bush Empire,,Music,Pop,Electro Pop
+G5dzZ_FMCa0On,Eric Idle: Idle In Provence,2026-09-12,19:00:00,False,Glasgow,-4.2587809,55.8504496,O2 Academy Glasgow,,Arts & Theatre,Comedy,Comedy
+G5dzZ_drtwfe5,Saint Etienne,2026-09-12,19:00:00,False,Birmingham,-1.887562,52.475756,O2 Institute Birmingham,,Music,Rock,Alternative Rock
+G5dzZbM8icNow,Urzila Carlson - Fatty On a Yacht,2026-09-12,19:00:00,False,Newcastle Upon Tyne,-1.610213,54.977346,O2 City Hall Newcastle,,Arts & Theatre,Comedy,Comedy
+G5dzZbzSiREBX,Mimi Barks,2026-09-12,19:00:00,False,London,-0.10661535,51.53445948,O2 Academy2 Islington,,Music,Metal,Nu-Metal
+G5vHZ_6lqHzBE,The Prat Pack,2026-09-12,19:00:00,False,Plymouth,-4.149219,50.368073,Plymouth Arena,,Arts & Theatre,Comedy,Comedy
+G5vHZbUUUJkcB,Marillion + Haunt the Woods,2026-09-12,19:00:00,False,Portsmouth,-1.092871,50.797529,Portsmouth Guildhall,,Music,Rock,Pop
+LvZ18Q0Lh0eMOHwOc3D-e,The Whistlin' Donkeys,2026-09-12,19:00:00,False,Inverness,-4.225917,57.477739,An Seomar,,Music,Folk,Folk
+LvZ18Q2qxHZ0vMZZlnToW,SATURDAY NIGHT COMEDY - UP THE CREEK,2026-09-12,19:00:00,False,London,-0.01077,51.481328,Up The Creek,,Arts & Theatre,Comedy,Comedy
+LvZ18Q36lfPWjW8Zvko_A,FRAMELESS 2026,2026-09-12,19:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q4XRQrGx6YZlzc5f,Erasured - Erasure Tribute Show,2026-09-12,19:00:00,False,Morecambe,-2.874801,54.07131,Platform,,Music,Rock,Pop
+LvZ18Q5eQtfKPsZZIec1u,Seattle's Finest - Nirvana UK & Brain of J,2026-09-12,19:00:00,False,Sheffield,-1.476918,53.376963,Corporation,,Music,Rock,Rock
+LvZ18Q8S1YYHvVOZ0uZXX,"China Crisis | Dover, The Booking Hall",2026-09-12,19:00:00,False,Dover,1.302573,51.132381,The Booking Hall,,Music,Rock,Pop
+LvZ18Q9Ij1Z0GY8Z0noQN,Guns or Roses - GnR Tribute,2026-09-12,19:00:00,False, Bathgate,-3.63886,55.89919,DreadnoughtRock,,Music,Undefined,Undefined
+LvZ18QLCuB1d2lZv1KnZv,BRATAKUS,2026-09-12,19:00:00,False,Scunthorpe,-0.652086,53.591319,Cafe Indiependent,,Undefined,,
+LvZ18QQATwiqF-ZZ0JDm2,Nearly Dan - The Spirit & Sound of Steely Dan,2026-09-12,19:00:00,False,Manchester,-2.234389,53.485235,Band On The Wall.,,Music,Rock,Pop
+LvZ18Q_-OWRXWVOZvD580,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,19:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Qf2Ekgc-G8ZwJB9l,Ultimate Leppard,2026-09-12,19:00:00,False,Southampton,-1.4004633,50.8989811,Southampton 1865,,Music,Rock,Rock
+LvZ18Qj_7VdQpzOvOOV60,Baz Warne,2026-09-12,19:00:00,False,Stockton-on-Tees,-1.3122893,54.5643998,"The Georgian Theatre, Stockton-on-Tees",,Undefined,,
+LvZ18Qjaymma6n8Z010Xz,Marti Pellow Live in Liverpool Cathedral,2026-09-12,19:00:00,False,Liverpool,-2.97324,53.397294,Liverpool Cathedral,,Music,Rock,Pop
+LvZ18Qjp6no-pTYvOhNZW,Eastside presents Faster Pussycat 40th Anniversary,2026-09-12,19:00:00,False,Newcastle Upon Tyne,-1.59238,54.974933,The Cluny,,Undefined,,
+LvZ18Qo3j8zACEZZ0nvXf,Just Radiohead,2026-09-12,19:00:00,False,Swansea,-3.95008,51.618957,Sin City,,Music,Rock,Art Rock
+LvZ18QrF2Qa96gZZMjJhb,Definitely Oasis,2026-09-12,19:00:00,False,Milton Keynes,-0.82206,52.042801,MK11 ,,Undefined,,
+LvZ18QrF40zghF8v12M9k,Day We Ran,2026-09-12,19:00:00,False,Bristol,-2.593134,51.457102,Rough Trade Bristol,,Music,Alternative,Alternative
+LvZ18QxYaWLpeYOvOs68K,Akriila,2026-09-12,19:00:00,False,London,-0.078007,51.523483,Village Underground,,Music,Hip-Hop/Rap,Urban
+Z3r9uZKbZL4Ze3x2vZAq,The Oresteia,2026-09-12,19:00:00,False,London,-0.0880061,51.4992073,Bridge Theatre,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4ZefdeAZdQ,Arcadia,2026-09-12,19:00:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Drama
+LvZ18Q_-OWRXWVOZvD58P,Twist Museum - London's Home of Illusions STANDARD,2026-09-12,19:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+16gZkGNFfZAu6AFA,Come Alive! The Greatest Showman Circus Spectacular,2026-09-12,19:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
+17u8v0G65C-C3l8,Faulty Towers the Dining Experience,2026-09-12,19:30:00,False,London,-0.12395745,51.52226825,President Hotel,,Arts & Theatre,Theatre,Comedy
+17u8v0G65IOBH_E,The Book Of Mormon,2026-09-12,19:30:00,False,London,-0.131809,51.510009,Prince of Wales Theatre,1160,Arts & Theatre,Theatre,Musical
+17u8v0G6u2e6Vhu,Grease: the Immersive Movie Musical,2026-09-12,19:30:00,False,London,-0.161824,51.478991,EVOLUTION LONDON BATTERSEA PARK,,Film,Miscellaneous,Miscellaneous
+17u8vxG6G3Otvlp,Operation Mincemeat: A New Musical,2026-09-12,19:30:00,False,Leeds,-1.549725,53.796105,Leeds Grand Theatre,,Arts & Theatre,Theatre,Musical
+17u8vxG6ulg_bDP,Scott Bennett - Stuff,2026-09-12,19:30:00,False,Colchester,0.904506,51.897127,Charter Hall,,Arts & Theatre,Comedy,Comedy
+17uOv0G65LOeKsg,Sinatra the Musical,2026-09-12,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
+17uOvxG6CTNap_a,What's Love Got to do With it? - The Ultimate Tribute to Tina Turner,2026-09-12,19:30:00,False,Edinburgh,-3.205069,55.947456,Usher Hall,,Music,Undefined,Undefined
+17uYv0G65QgpxLc,Avenue Q,2026-09-12,19:30:00,False,London,-0.126119,51.516285,Shaftesbury Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G6u5lchhX,How the Other Half Loves,2026-09-12,19:30:00,False,London,-0.1090443,51.5019366,The Old Vic,1067,Arts & Theatre,Theatre,Drama
+1AMZk3bGkeJWJQn,I'm Every Woman: the Chaka Khan Musical,2026-09-12,19:30:00,False,London,-0.28527,51.56178,Troubadour Wembley Park Theatre,,Arts & Theatre,Theatre,Musical
+1AMZko0GkduK6ar,The Hunger Games On Stage,2026-09-12,19:30:00,False,London,-0.0134276,51.5035337,Troubadour Canary Wharf Theatre,,Arts & Theatre,Theatre,Drama
+1AMZkufGkd_4bzc,The Producers,2026-09-12,19:30:00,False,London,-0.127819,51.509954,Garrick Theatre,,Arts & Theatre,Theatre,Musical
+1AMZkupGkdjkQLz,The Play That Goes Wrong,2026-09-12,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+1ANZkuNGkdtgoKs,Jane McDonald - Living The Dream,2026-09-12,19:30:00,False,Birmingham,-1.914924,52.479932,Utilita Arena Birmingham,15800,Music,Rock,Pop
+1AUZkGyGkd2FQrM,Wicked,2026-09-12,19:30:00,False,London,-0.142691,51.495785,Apollo Victoria Theatre,2328,Arts & Theatre,Theatre,Musical
+1AUZkuoGkdxQtPG,The Vintage Explosion,2026-09-12,19:30:00,False,Dunfermline,-3.45799,56.069812,Alhambra Theatre,,Music,Blues,Blues
+1AdFZ_7GkwjN8gK,Helicon,2026-09-12,19:30:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Music,Rock,Pop
+1AdbZbSGkDf_agC,The Devil Wears Prada,2026-09-12,19:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
+1AdbZbUGkm4F0gm,Mike Wozniak: The Bench,2026-09-12,19:30:00,False,York,-1.082507,53.956905,"Grand Opera House, York",,Arts & Theatre,Comedy,Comedy
+1AdfZ_6GkXTbb6p,Shakespear's Globe - Love's Labour's Lost,2026-09-12,19:30:00,False,London,-0.096597,51.508111,"Globe Theatre, Shakespeare's Globe",,Arts & Theatre,Theatre,Drama
+1AdfZ_6GknTuUkK,Tao of Glass,2026-09-12,19:30:00,False,London,-0.130436,51.515607,sohoplace,,Arts & Theatre,Theatre,Musical
+1AdfZbgGkBBTyhi,Beetlejuice,2026-09-12,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+1AdjZ_7GkS-zJ3J,Burlesque,2026-09-12,19:30:00,False,London,-0.159855,51.51329,The Arts at Marble Arch,,Arts & Theatre,Theatre,Musical
+1AdjZ_FGkBbcogL,Melanie Martinez - HADES: THE SACRIFICE,2026-09-12,19:30:00,False,Manchester,-2.1995797,53.48661136,Co-op Live,23500,Music,Rock,Pop
+1AdjZ_dGkMiNf9z,Paul Merton & Suki Webster's Improv Show,2026-09-12,19:30:00,False,Reading,-0.969773,51.456923,Reading Concert Hall,,Arts & Theatre,Theatre,Comedy
+1AdjZbJGkR3MpnG,The Comedy Store - Mansfield,2026-09-12,19:30:00,False,Mansfield,-1.194174,53.146053,Mansfield Palace Theatre,,Arts & Theatre,Comedy,Comedy
+1AdjZbMGkRLjnrv,Jonathan Pie: Work in Progress,2026-09-12,19:30:00,False,Camberley,-0.743451,51.33853,Camberley Theatre,,Arts & Theatre,Comedy,Comedy
+1AdjZbgGkDJ6GQ_,Best of the Bee Gees,2026-09-12,19:30:00,False,Bath,-2.3605,51.378645,Bath Forum,,Music,Rock,Oldies & Classics
+1AgZkokGkdxfFli,Jazz Emu - The Pleasure Is All Yours,2026-09-12,19:30:00,False,Winchester,-1.315969,51.065528,The Arc Winchester,,Arts & Theatre,Comedy,Comedy
 LvZ18QbpO8Qf21YZyjxUW,STONE FOUNDATION Thu 05 Nov 2026 Performing Live Jam House Birmingham,2026-11-05,18:00:00,False,Birmingham,-1.904386,52.48509613,The Jam House Birmingham,,Music,Rock,Pop
-LvZ18Q_xoFhRq0OZvh_jm,Twist Museum - London's Home of Illusions PEAK,2026-11-05,18:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdbZ_FGkUPAKrE,Venue Premium - Noah Kahan: The Great Divide Tour,2026-11-05,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Miscellaneous,Community/Civic,Community/Civic
-1AdbZ_FGkn7svza,Noah Kahan: the Great Divide Tour,2026-11-05,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Music,Rock,Pop
-1AdfZ_dGkn9Ee6Z,Jack Savoretti,2026-11-05,18:30:00,False,Sheffield,-1.471079,53.38118,Sheffield City Hall Oval Hall,,Music,Rock,Alternative Rock
-1AdfZ_dGknSISfV,Jack Savoretti: Arches Bar Experience,2026-11-05,18:30:00,False,Sheffield,-1.471079,53.38118,Sheffield City Hall Oval Hall,,Music,Rock,Alternative Rock
-1AdfZ_eGkzvszXQ,Mamma Mia! The Party,2026-11-05,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
-1AzZku9GkdLQ76Q,Westlife 25 - The Anniversary World Tour,2026-11-05,18:30:00,False,Belfast,-5.91356277,54.60391677,The O2 Belfast,,Music,Rock,Pop
-1AzZku_GkdkEe8R,Share a Suite - Westlife,2026-11-05,18:30:00,False,Belfast,-5.91356277,54.60391677,The O2 Belfast,,Music,Rock,Pop
-1AzZkubGkePU3Id,Westlife 25 - The Anniversary World Tour - Premium Priced Seats,2026-11-05,18:30:00,False,Belfast,-5.91356277,54.60391677,The O2 Belfast,,Music,Rock,Pop
-LvZ18Q9mSuf-66ZZ0wVSz,"Global Soul -  Live:  Bea Maher, TJA, Tia Lowe, LFay & Georgia Blankson",2026-11-05,18:30:00,False,London,-0.106126,51.534184,Soul Mama Islington,,Undefined,,
-LvZ18Q_xoFhRq0OZvh_jR,Twist Museum - London's Home of Illusions PEAK,2026-11-05,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-16dFZ_apvG7mYPj,Alabama 3,2026-11-05,19:00:00,False,Edinburgh,-3.186429,55.948463,The Caves,,Music,Rock,Alternative Rock
-17CZv0G65QIwoOK,Kim Blythe - Puzzle,2026-11-05,19:00:00,False,Belfast,-5.928771,54.593513,The Limelight 2,,Arts & Theatre,Comedy,Comedy
-17GOv0G659pA8sr,Greg Mendez,2026-11-05,19:00:00,False,Glasgow,-4.23981,55.86034,McChuills,,Music,Rock,Pop
-17u8v0G65SwhQQy,WHP26 - THE STREETS,2026-11-05,19:00:00,False,Manchester,-2.225284,53.47567,Depot Mayfield,,Music,Pop,Electro Pop
-17uOv0G659UxrGq,Ryan Beatty,2026-11-05,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
-17uYv0G65RGyx4p,My Neighbour Totoro,2026-11-05,19:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
-17uYv0G65RnhKVX,Stranger Things: The First Shadow,2026-11-05,19:00:00,False,London,-0.129497,51.514387,Phoenix Theatre,,Arts & Theatre,Theatre,Drama
-17uYv0G6GCUkMrm,Harry Potter and the Cursed Child - One Part Show,2026-11-05,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
-1AMZk8YGkdSIkLP,Paddington the Musical,2026-11-05,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
-1AMZkuSGkdDdy2R,Mike Wozniak: The Bench,2026-11-05,19:00:00,False,London,-0.140055,51.514546,The London Palladium,,Arts & Theatre,Comedy,Comedy
-1AdFZ_7GkUYNOB2,Messa,2026-11-05,19:00:00,False,Nottingham,-1.152975,52.956173,Nottingham Rescue Rooms,,Music,Rock,Pop
-1AdFZ_aGkDo-Osb,girli,2026-11-05,19:00:00,False,Glasgow,-4.268828,55.866284,G2 (Glasgow Garage),,Music,Rock,Pop
-1AdFZbgGkSRmvkc,Joan As Police Woman - 20 Years of Real Life Tour,2026-11-05,19:00:00,False,London,-0.102362,51.54378,Union Chapel,,Music,Rock,Alternative Rock
-1AdFZbwGknXEZTG,The Hardkiss - European Anniversary Tour 2026,2026-11-05,19:00:00,False,London,-0.142995,51.5397,Electric Ballroom,,Music,Rock,Pop
-1AdjZbSGkDXxDwn,Matilda The Musical,2026-11-05,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
-1AzZkoMGkd0dvYz,Dexy's Midnight Runners,2026-11-05,19:00:00,False,Belfast,-5.9312439,54.59511621,Ulster Hall Belfast,,Music,Rock,Pop
-1aUZk3FPF0YZeG2,Carpenter Brut & Health,2026-11-05,19:00:00,False,Glasgow,-4.298214,55.863711,Galvanizers SWG3,,Music,Metal,Nu-Metal
-1kGOv0otGA1YYBE,Jacob Hawley - Fighting Age Man,2026-11-05,19:00:00,False,Glasgow,-4.289157,55.87738,Oran Mor,,Arts & Theatre,Comedy,Comedy
-G5dzZ_1mzMdda,Tove Lo - ESTRUS,2026-11-05,19:00:00,False,Manchester,-2.2853054,53.4643707,O2 Victoria Warehouse Manchester,,Music,Pop,Pop
-G5dzZ_5SfrAt3,Deaf Havana - Fools & Worthless Liars + More,2026-11-05,19:00:00,False,London,-0.224435,51.503525,O2 Shepherds Bush Empire,,Music,Rock,Pop
-G5dzZ_60lYhpN,Crashdïet,2026-11-05,19:00:00,False,London,-0.10661535,51.53445948,O2 Academy2 Islington,,Music,Rock,Pop
-G5dzZ_62GrKDr,Cassia,2026-11-05,19:00:00,False,Bristol,-2.600849,51.454142,O2 Academy Bristol,,Music,Rock,Alternative Rock
-G5dzZ_AeMPKE_,Freya Skye,2026-11-05,19:00:00,False,Glasgow,-4.2587809,55.8504496,O2 Academy Glasgow,,Music,Pop,Pop
-G5dzZ_CrSix0M,Pure Reason Revolution,2026-11-05,19:00:00,False,Liverpool,-2.9771058,53.4091275,O2 Academy 2 Liverpool,,Music,Rock,Pop
-G5dzZ_aUV4ey8,Dabeull,2026-11-05,19:00:00,False,London,-0.043935,51.51326,Troxy,,Music,Pop,Electro Pop
-G5dzZbUj87c8T,The Mission- Gods Own Medicine 40th Anniversary Shows,2026-11-05,19:00:00,False,London,-0.14193,51.552039,O2 Forum Kentish Town,,Music,Rock,Pop
-G5vHZ_AdUH67E,The Stylistics,2026-11-05,19:00:00,False,Llandudno,-3.815494,53.321836,Venue Cymru Theatre,,Music,R&B,Soul
-G5vHZ_eXCqonh,Overpass,2026-11-05,19:00:00,False,Bristol,-2.59214808,51.45666317,Electric Bristol,,Music,Rock,Alternative Rock
-G5vHZ_kUfA3sC,Slayyyter: THE WOR$T GIRL IN THE WORLD TOUR,2026-11-05,19:00:00,False,London,-0.151324,51.543051,Roundhouse,,Music,Pop,Pop
-G5vHZ_u2htYYr,Dizzee Rascal,2026-11-05,19:00:00,False,Manchester,-2.232225,53.464386,Manchester Academy,,Music,Hip-Hop/Rap,Trap
-G5vHZ_u50MKUm,Sons of Legion: Soul to SØL World Tour 2026,2026-11-05,19:00:00,False,London,-0.117044,51.459846,Electric Brixton,,Music,Rock,Pop
-G5vHZbgh36biE,Gipsy Kings by André Reyes,2026-11-05,19:00:00,False,Cambridge,0.119362,52.204302,Cambridge Corn Exchange,,Music,World,Flamenco
-LvZ18Q-4PebRmvYZ0LTb6,HOLY FAWN,2026-11-05,19:00:00,False,Nottingham,-1.145879,52.953713,"The Bodega, Nottingham",,Music,Other,Other
-LvZ18Q02R0mzQAF0wU6_I,Chanel Beads,2026-11-05,19:00:00,False,Manchester,-2.243351,53.473982,Manchester Gorilla,,Music,Dance/Electronic,Dance/Electronic
-LvZ18Q0VoStxwM_XQSuXW,"Evangelia | London, XOYO",2026-11-05,19:00:00,False,London,-0.085129,51.525533,XOYO,,Music,Pop,Pop
-LvZ18Q3hQxXpDVZZvPE2d,Comedy in Your Eye - Stand up Comedy in Camden Town,2026-11-05,19:00:00,False,London,-0.1415,51.54102,Comedy In Your Eye,,Arts & Theatre,Theatre,Comedy
-LvZ18Q8tpE5ygYZZ0hCsX,Cat Power - The Greatest Tour,2026-11-05,19:00:00,False,Glasgow,-4.236938,55.855063,Barrowland Ballroom,,Music,Rock,Alternative Rock
-LvZ18Q9w_GB2WcZZyTTl8,Overpass,2026-11-05,19:00:00,False,Bristol,-2.59214808,51.45666317,Electric Bristol,,Music,Alternative,Adult Alternative Pop/Rock
-LvZ18QN2SKi_yAOZ0kBFf,THE BLACKOUT - 5 NOVEMBER,2026-11-05,19:00:00,False,London,-0.01077,51.481328,Up The Creek,,Undefined,,
-LvZ18QNyujNeBxf_pSn9a,The Entitled Sons,2026-11-05,19:00:00,False,Sheffield,-1.49067,53.381039,"Foundry, Sheffield",,Music,Rock,Pop
-LvZ18QOU23IZwiYZzothb,DF Concerts Presents: Ryan Beatty,2026-11-05,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Undefined,,
-LvZ18QQ-RVBT8QOZ01uLU,FOREVER NU - 25th anniversary of Toxicity & IOWA special,2026-11-05,19:00:00,False,Birmingham,-1.88087599,52.47501827,XOYO Birmingham,,Music,Metal,Heavy Metal
-LvZ18Qhk946ctFOZii_Te,Moon Walker,2026-11-05,19:00:00,False,Brighton,,,Volks Club,,Music,Alternative,Alternative
-LvZ18QjASXx-Z2OvOeOFx,The Rifles,2026-11-05,19:00:00,False,Leeds,-1.549155,53.803655,Leeds Beckett Students' Union,,Music,Rock,Alternative Rock
-LvZ18Qpt3kvQQv8Zw-TIo,LA Guns,2026-11-05,19:00:00,False,Newcastle,-1.62121,54.967567,Digital,,Music,Rock,Pop
-LvZ18QxOTk-n588vO4BdJ,modernlove.,2026-11-05,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,Rock,Pop
-LvZ18QxTqGRNCGZv5aiEW,Sons of Legion - Soul to SØL World Tour 2026,2026-11-05,19:00:00,False,London,-0.117044,51.459846,Electric Brixton,,Music,Rock,Blues-Rock
-ZKr9uZKbZL4Ze83obZk74,Magic Mike Live,2026-11-05,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
-G5vHZ_1ktPN6A,Joe Marler Will See You Live,2026-11-05,19:15:00,False,Brighton,-0.139088,50.823717,Brighton Dome,,Sports,Rugby,Rugby Union
-16dfZ_7oZG7VjYI,Michael Spicer - Hope All's Well,2026-11-05,19:30:00,False,Portsmouth,-1.093061,50.796669,Portsmouth New Theatre Royal,,Arts & Theatre,Theatre,Comedy
-16djZbSraG7BJ-u,Laura Smyth: Born Aggy,2026-11-05,19:30:00,False,Camberley,-0.743451,51.33853,Camberley Theatre,,Arts & Theatre,Comedy,Comedy
-17CZv0G65p3EOyV,Nerina Pallot,2026-11-05,19:30:00,False,Belfast,-5.93326092,54.58886889,Empire Music Hall,,Music,Rock,Pop
-17u8v0G61zc7Ylz,Alasdair Beckett-King: King of Crumbs,2026-11-05,19:30:00,False,Winchester,-1.315969,51.065528,The Arc Winchester,,Arts & Theatre,Comedy,Comedy
-17u8v0G65C-KxRI,Faulty Towers the Dining Experience,2026-11-05,19:30:00,False,London,-0.12395745,51.52226825,President Hotel,,Arts & Theatre,Theatre,Comedy
-17u8v0G65swu-LU,Oliver!,2026-11-05,19:30:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
-17uOv0G61M8q7UA,Trainspotting The Musical,2026-11-05,19:30:00,False,Manchester,-2.240887,53.475138,Palace Theatre Manchester,,Arts & Theatre,Theatre,Musical
-17uOv0G65LlP46n,Sinatra the Musical,2026-11-05,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
-17uOv0G65mtU_Rf,The Devil Wears Prada,2026-11-05,19:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
-17uOv0G6GGd77fX,Back to the Future The Musical,2026-11-05,19:30:00,False,Bristol,-2.598389,51.453183,Bristol Hippodrome,,Arts & Theatre,Theatre,Musical
-17uOv0G6udYUt8_,Ricky Gervais - Venue Premium Tickets,2026-11-05,19:30:00,False,Aberdeen,-2.190396,57.185147,"P&J Live, Aberdeen",,Arts & Theatre,Comedy,Comedy
-17uOv0G6udqEb6C,Ricky Gervais: Legend,2026-11-05,19:30:00,False,Aberdeen,-2.190396,57.185147,"P&J Live, Aberdeen",,Arts & Theatre,Comedy,Comedy
-17uYv0G659aw3mD,High School Musical,2026-11-05,19:30:00,False,London,-0.28527,51.56178,Troubadour Wembley Park Theatre,,Arts & Theatre,Theatre,Musical
-17uYv0G65hZzdGa,Avenue Q,2026-11-05,19:30:00,False,London,-0.126119,51.516285,Shaftesbury Theatre,,Arts & Theatre,Theatre,Musical
-17uYv0G65ivxkyz,The Hunger Games - On Stage,2026-11-05,19:30:00,False,London,-0.0134276,51.5035337,Troubadour Canary Wharf Theatre,,Arts & Theatre,Theatre,Drama
-1AMZko0GkdnSQpD,The Shires,2026-11-05,19:30:00,False,Gateshead,-1.60195,54.967686,The Glasshouse International Centre for Music,,Music,Country,Country
-1AMZkodGkdUEVjE,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,2026-11-05,19:30:00,False,Guildford,-0.564917,51.239469,G Live Guildford,,Music,Pop,Pop
-1AMZkowGkdItE_X,The Phantom of the Opera,2026-11-05,19:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
-1AMZkupGkdIzBDq,The Play That Goes Wrong,2026-11-05,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
-1AUZkCvGkecrFnN,Boyzlife Featuring Keith Duffy & Brian McFadden,2026-11-05,19:30:00,False,Glasgow,-4.25576,55.865017,Pavilion Theatre Glasgow,,Music,Pop,Pop
-1AUZkGyGkdho1DK,Wicked,2026-11-05,19:30:00,False,London,-0.142691,51.495785,Apollo Victoria Theatre,2328,Arts & Theatre,Theatre,Musical
-1AdbZbSGkM5WIXf,Professor Brian Cox - Emergence World Tour,2026-11-05,19:30:00,False,Cardiff,-3.171771,51.478931,Utilita Arena Cardiff,7500,Miscellaneous,Lecture/Seminar,Lecture/Seminar
-1AdfZ_aGkRfckhD,Derren Brown: Only Human,2026-11-05,19:30:00,False,London,-0.133935,51.511248,Apollo Theatre,,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists
-1AdjZ_7GkSm86h5,Burlesque,2026-11-05,19:30:00,False,London,-0.159855,51.51329,The Arts at Marble Arch,,Arts & Theatre,Theatre,Musical
-1AgZkoPGkdf2ppA,Come Alive! The Greatest Showman Circus Spectacular,2026-11-05,19:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
-1AwZkGkGkdK3vd1,Oh My God! It's The Church,2026-11-05,19:30:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Music,Rock,Pop
-1ku8vNrvGA2TWiU,Susan Calman: Tall Tales,2026-11-05,19:30:00,False,Crewe,-2.440394,53.098881,Crewe Lyceum Theatre,,Arts & Theatre,Comedy,Comedy
-1kuYv04sGA5BJK6,"Josh Pugh: Ha Ha, Yeah Sound",2026-11-05,19:30:00,False,Norwich ,1.296628,52.638032,Epic Studios,,Arts & Theatre,Comedy,Comedy
-1kuYvNO_GAu-Ezy,Operation Mincemeat: A New Musical,2026-11-05,19:30:00,False,Edinburgh,-3.202831,55.941879,Kings Theatre Edinburgh,,Arts & Theatre,Theatre,Musical
-G5dzZbMBIXdsM,Phil Wang: UH OH,2026-11-05,19:30:00,False,St Albans,-0.336384,51.752945,Alban Arena,,Arts & Theatre,Comedy,Comedy
-G5vHZ_1Nh6g96,Josiah and the Bonnevilles,2026-11-05,19:30:00,False,London,-0.120276,51.530777,Scala,,Music,Rock,Pop
-G5vHZ_6tzt-X6,Witness for the Prosecution,2026-11-05,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
-G5vHZ_ALp20jL,Jason Byrne: 30 Years Byrning,2026-11-05,19:30:00,False,Cambridge,0.136509,52.190766,Cambridge Junction,,Arts & Theatre,Comedy,Comedy
-G5vHZ_F1JCNiy,Chris Ramsey: Here Man,2026-11-05,19:30:00,False,Southend-On-Sea,0.697435,51.53582,Southend Cliffs Pavilion,,Arts & Theatre,Comedy,Comedy
-G5vHZ_a3bIvTS,Simon Brodkin: Unleashed,2026-11-05,19:30:00,False,Leicester,-1.120134,52.626216,De Montfort Hall,,Arts & Theatre,Comedy,Comedy
-G5vHZ_eSWE7-d,Jools Holland and His Rhythm & Blues Orchestra,2026-11-05,19:30:00,False,Reading,-0.971441,51.431356,Hexagon Theatre,,Music,R&B,R&B
-G5vHZbgmpE488,Maisie Adam: Whatsherface,2026-11-05,19:30:00,False,Birmingham,-1.903587,52.479447,Town Hall Birmingham,,Arts & Theatre,Comedy,Comedy
-G5vHZbwRSSxCh,The Legends in Vegas - After Hours,2026-11-05,19:30:00,False,Bradford,-1.751868,53.7974,"St Georges Hall, Bradford ",,Arts & Theatre,Dance,Dance
-G5vHZbwtxF8LY,Hannah East: Express Yourself,2026-11-05,19:30:00,False,Leeds,-1.545,53.79951,The Glee Club Leeds,,Arts & Theatre,Comedy,Comedy
-LvZ18Q0aoLuH5B0w3liHm,Romare (Live),2026-11-05,19:30:00,False,Manchester,-2.234389,53.485235,Band On The Wall.,,Undefined,,
 LvZ18QKZhdQucOYvZPTEG,Future Palace,2026-11-05,19:30:00,False,Manchester,-2.232225,53.464386,Manchester Academy 3,,Music,Rock,Post-Hardcore
-LvZ18QLGziHyX3Yvq-Mot,Orgy,2026-11-05,19:30:00,False,Norwich,1.302403,52.62385,The Adrian Flux Waterfront,,Music,Rock,Pop
-LvZ18QNKW1zSMQOZ07_Rm,f54 present Midwife + Devin Shaffer,2026-11-05,19:30:00,False,"Newcastle upon Tyne, NE1 2PQ",-1.59238,54.974933,Cluny 2,,Undefined,,
-LvZ18QOJyjKa1s8vG_3U8,The Best in Stand Up - Thursday 5th November,2026-11-05,19:30:00,False,London,-0.13233095,51.50998051,The Comedy Store,,Arts & Theatre,Comedy,Comedy
-LvZ18QOwZUsWeGYvGmjX9,FOOT FOOT,2026-11-05,19:30:00,False,London,-0.111874,51.531721,The Lexington,,Undefined,,
-LvZ18Q_HA3Mc0LOZ04Ndl,"Josh Pugh: Ha ha, Yeah Sound",2026-11-05,19:30:00,False,Norwich ,1.296628,52.638032,Epic Studios,,Arts & Theatre,Comedy,Comedy
-LvZ18Qj8okg88XOZzkgT_,Teenage Fanclub,2026-11-05,19:30:00,False,Brighton,-0.1251001,50.8172816,Brighton Concorde 2,,Music,Rock,Alternative Rock
-LvZ18QjR4c6-5UYZ0lVL5,Ferocious Dog,2026-11-05,19:30:00,False,Cumbria,-2.748059,54.325351,Kendal Brewery Arts Centre,,Music,Rock,Pop
-LvZ18QrdD2sEl9OZ02F7n,Gentleman's Dub Club,2026-11-05,19:30:00,False,Newcastle-upon-Tyne,-1.614847,54.985925,Wylam Brewery,,Undefined,,
-LvZ18QrtjLYaRTZvqrltf,eastside present Cut Capers,2026-11-05,19:30:00,False,Newcastle Upon Tyne,-1.59238,54.974933,The Cluny,,Music,Hip-Hop/Rap,Hip-Hop/Rap
-LvZ18QxORs3yiAOvOCNcl,CELINE CAIRO,2026-11-05,19:30:00,False,London,-0.076239,51.548678,SJQ,,Music,Jazz,Jazz
-Z3r9uZKbZL4Ze35voZak,Dirty Dancing: The Classic Story on Stage,2026-11-05,19:30:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4Ze3Lo-ZdL,Paranormal Activity,2026-11-05,19:30:00,False,London,-0.128026,51.513006,Ambassadors Theatre,444,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4Ze3x4uZeu,The Cherry Orchard,2026-11-05,19:30:00,False,London,-0.131851,51.509326,The Harold Pinter Theatre ,,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4Zef7CNZ66,The Mousetrap,2026-11-05,19:30:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4Zef7Q2Zeo,Into The Woods,2026-11-05,19:30:00,False,London,-0.1284654,51.5142805,Noel Coward Theatre,942,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4Zef7u5Ze6,RENT,2026-11-05,19:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4ZefAN5Zeo,The Standard of Living,2026-11-05,19:30:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4ZefkovZe2,Hay Fever,2026-11-05,19:30:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Drama
-ZKr9uZKbZL4Ze310LZekK,Cabaret,2026-11-05,19:30:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3A4LZe17,Mamma Mia!,2026-11-05,19:30:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3eNbZe1b,Hamilton,2026-11-05,19:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze8-4-Z7dv,Hadestown,2026-11-05,19:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeCOjfZkF9,Moulin Rouge! The Musical,2026-11-05,19:30:00,False,London,-0.1353998,51.5110543,Piccadilly Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeCQ02ZFep,The Mousetrap,2026-11-05,19:30:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Undefined,,
-ZKr9uZKbZL4ZeCj6jZ6vq,Disney's The Lion King,2026-11-05,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Zeo-b6Zea9,Les Misérables,2026-11-05,19:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeorGbZddf,Titanique,2026-11-05,19:30:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
-Zor9uZKbZL4Zef7a5ZQ,Florian Henckel von Donnersmarck’s The Lives of Others,2026-11-05,19:30:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Drama
-Zor9uZKbZL4ZefdpbZ7,Tosca,2026-11-05,19:30:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Opera,Opera
-1AdfZ_6GklKmpBy,ABBA Voyage,2026-11-05,19:45:00,False,London,-0.01362306,51.53327366,ABBA Arena,,Music,Pop,Pop
-G5vHZbzXrWwEt,Thomas Green - Brainstorm,2026-11-05,19:45:00,False,Exeter,-3.534366,50.735218,Northcott Theatre,,Arts & Theatre,Comedy,Comedy
-16UZkoa06ZAu7vGd,Jacob Hawley - Fighting Age Man,2026-11-05,20:00:00,False,Glasgow,-4.289157,55.87738,Oran Mor,,Arts & Theatre,Comedy,Comedy
-1AdFZ_kGkzayYH_,Conor McLain @ Papillon,2026-11-05,20:00:00,False,Southampton,,,Papillon,,Music,Pop,Pop
-G5vHZ_5huMkGs,The Rachel Parris Songbook,2026-11-05,20:00:00,False,Leeds,-1.542859,53.798931,City Varieties Music Hall,,Arts & Theatre,Comedy,Comedy
-G5vHZ_AJ4ZSkX,Dylan Moran - Looking For Trouble,2026-11-05,20:00:00,False,Middlesbrough,-1.244959,54.575861,Middlesbrough Town Hall,,Arts & Theatre,Comedy,Comedy
-G5vHZ_AuG5nbb,Jenny Talia: Without Adult Supervision,2026-11-05,20:00:00,False,Swindon,-1.777023,51.551725,Swindon Arts Centre,,Arts & Theatre,Comedy,Comedy
-G5vHZ_eUgmwO9,Bill Bailey: Vaudevillean,2026-11-05,20:00:00,False,Plymouth,-4.149219,50.368073,Plymouth Arena,,Arts & Theatre,Comedy,Comedy
-LvZ18QNtyaRfkpZvGVoXF,Mark Olson (ex-Jayhawks),2026-11-05,20:00:00,False,Kinross,-3.42367,56.208672,Backstage at The Green Hotel,,Undefined,,
-LvZ18Qx6cqR-Ln8ZznAS2,Niall McNamee,2026-11-05,20:00:00,False,St Albans,-0.329006,51.750295,The Horn,,Music,Folk,Folk
-ZKr9uZKbZL4ZeCNuaZ6ab,SIX The Musical,2026-11-05,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze33ONZev_,"Oh, Mary!",2026-11-05,20:45:00,False,London,-0.12651,51.5048,Trafalgar Theatre,,Arts & Theatre,Theatre,Comedy
-LvZ18Q3jv80LlfOvNAhJB,Fleetwood Mac: Our Own Way,2026-11-05,21:00:00,False,London,-0.022271,51.505252,"Boisdale, Canary Wharf",,Music,Rock,Classic Rock
-ZKr9uZKbZL4Ze83obZk7p,Magic Mike Live,2026-11-05,21:30:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
-LvZ18Q_YEp3jMJOZv7sYN,Twist Museum - London's Home of Illusions PEAK,2026-11-05,23:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-1AdfZbzGkXO30Gz,Frameless Gift Card Redemption,2026-11-05,,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
-G5vHZ_ubqNCQs,Shrek's Adventure - Standard Experience,2026-11-05,,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Children's Theatre,Children's Theatre
 1AdfZ_6GkTHChpW,Sea Life Birmingham - Standard Entry,2026-11-06,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
 17uOv0G6CLPV7WH,London Eye - Standard Experience,2026-11-06,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
 17uOv0G6GE-fDaD,Madame Tussauds London - Standard Entry,2026-11-06,10:00:00,False,London,-0.15526,51.52248,Madame Tussauds London,,Miscellaneous,Family,Other
@@ -3597,56 +3372,225 @@ LvZ18Q_-OWO3aR8ZvRvbA,Twist Museum - London's Home of Illusions STANDARD,2026-11
 1AgZk3oGkdPAgd_,GothamChess: The GothamChess Europe Tour 2026,2026-11-10,18:30:00,False,London,-0.02002133,51.58613733,Soho Theatre Walthamstow,,Arts & Theatre,Miscellaneous Theatre,Miscellaneous Theatre
 G5dzZ_1wrZxP5,Igorrr,2026-11-10,18:30:00,False,Birmingham,-1.887562,52.475756,O2 Institute Birmingham,,Music,Pop,Electro Pop
 G5vHZbz6s7FJh,The Australian Pink Floyd,2026-11-10,18:30:00,False,Birmingham,-1.910803,52.478877,Symphony Hall,,Music,Rock,Pop
-LvZ18Q_xoFRDvd8ZvrmM9,Twist Museum - London's Home of Illusions PEAK,2027-01-04,10:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMb,Twist Museum - London's Home of Illusions PEAK,2027-01-04,10:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmM_,Twist Museum - London's Home of Illusions PEAK,2027-01-04,10:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMQ,Twist Museum - London's Home of Illusions PEAK,2027-01-04,10:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMh,Twist Museum - London's Home of Illusions PEAK,2027-01-04,11:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMj,Twist Museum - London's Home of Illusions PEAK,2027-01-04,11:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMq,Twist Museum - London's Home of Illusions PEAK,2027-01-04,11:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMr,Twist Museum - London's Home of Illusions PEAK,2027-01-04,11:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmML,Twist Museum - London's Home of Illusions PEAK,2027-01-04,12:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMO,Twist Museum - London's Home of Illusions PEAK,2027-01-04,12:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmM-,Twist Museum - London's Home of Illusions PEAK,2027-01-04,12:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMx,Twist Museum - London's Home of Illusions PEAK,2027-01-04,12:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMN,Twist Museum - London's Home of Illusions PEAK,2027-01-04,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmM0,Twist Museum - London's Home of Illusions PEAK,2027-01-04,13:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMP,Twist Museum - London's Home of Illusions PEAK,2027-01-04,13:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMJ,Twist Museum - London's Home of Illusions PEAK,2027-01-04,13:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmME,Twist Museum - London's Home of Illusions PEAK,2027-01-04,14:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMI,Twist Museum - London's Home of Illusions PEAK,2027-01-04,14:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMt,Twist Museum - London's Home of Illusions PEAK,2027-01-04,14:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMn,Twist Museum - London's Home of Illusions PEAK,2027-01-04,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMl,Twist Museum - London's Home of Illusions PEAK,2027-01-04,15:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMi,Twist Museum - London's Home of Illusions PEAK,2027-01-04,15:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMc,Twist Museum - London's Home of Illusions PEAK,2027-01-04,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMm,Twist Museum - London's Home of Illusions PEAK,2027-01-04,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMR,Twist Museum - London's Home of Illusions PEAK,2027-01-04,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMY,Twist Museum - London's Home of Illusions PEAK,2027-01-04,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMs,Twist Museum - London's Home of Illusions PEAK,2027-01-04,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMw,Twist Museum - London's Home of Illusions PEAK,2027-01-04,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMS,Twist Museum - London's Home of Illusions PEAK,2027-01-04,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMV,Twist Museum - London's Home of Illusions PEAK,2027-01-04,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMg,Twist Museum - London's Home of Illusions PEAK,2027-01-04,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMU,Twist Museum - London's Home of Illusions PEAK,2027-01-04,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMM,Twist Museum - London's Home of Illusions PEAK,2027-01-04,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMz,Twist Museum - London's Home of Illusions PEAK,2027-01-04,18:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-LvZ18Q_xoFRDvd8ZvrmMy,Twist Museum - London's Home of Illusions PEAK,2027-01-04,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
-Z3r9uZKbZL4ZefdrdZep,A Christmas Carol,2027-01-04,19:00:00,False,London,-0.1090443,51.5019366,The Old Vic,1067,Arts & Theatre,Theatre,Drama
-17uOv0G65mMvBzT,The Devil Wears Prada,2027-01-04,19:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
-1AMZkowGkdsVbdL,The Phantom of the Opera,2027-01-04,19:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
-1AdfZbgGkD4mhjN,Beetlejuice,2027-01-04,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4Ze39adZF5,Beetlejuice,2027-01-04,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
-Z3r9uZKbZL4Ze3x4uZdb,The Cherry Orchard,2027-01-04,19:30:00,False,London,-0.131851,51.509326,The Harold Pinter Theatre ,,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4Zef7Q2Z7u,Into The Woods,2027-01-04,19:30:00,False,London,-0.1284654,51.5142805,Noel Coward Theatre,942,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4Zef7a5Zd3,Florian Henckel von Donnersmarck’s The Lives of Others,2027-01-04,19:30:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Drama
-Z3r9uZKbZL4Zef7u5Z77,RENT,2027-01-04,19:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze310LZe6x,Cabaret,2027-01-04,19:30:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze35voZevv,Dirty Dancing: The Classic Story on Stage,2027-01-04,19:30:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3A4LZdev,Mamma Mia!,2027-01-04,19:30:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3eNbZdvO,Hamilton,2027-01-04,19:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Zeo-b6Ze1L,Les Misérables,2027-01-04,19:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q_YEpoq688Zv9Eng,Twist Museum - London's Home of Illusions PEAK,2027-01-04,23:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q02ZG4KZ0eviintx,Carmen – RBO The Royal Opera (12A),2026-11-10,18:30:00,False,Cumbria,-2.748059,54.325351,Kendal Brewery Arts Centre,,Undefined,,
+LvZ18Q_-OWO3aR8ZvRvbk,Twist Museum - London's Home of Illusions STANDARD,2026-11-10,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+16dfZ_63KG7Xd8b,Alison Moyet,2026-11-10,19:00:00,False,Cardiff,-3.175522,51.483668,New Theatre Cardiff,,Music,Rock,Alternative Rock
+17u8v0G65sSao-_,Oliver!,2026-11-10,19:00:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
+17u8v0G6GR0zrny,Rejoicein4K,2026-11-10,19:00:00,False,London,-0.111874,51.531721,The Lexington,,Music,Rock,Alternative Rock
+17uOv0G61K90xJ4,Ricky Warwick & the Fighting Hearts,2026-11-10,19:00:00,False,Edinburgh ,-3.1872616,55.9573939,La Belle Angèle,,Music,Rock,Pop
+17uOv0G6G2uNi5A,Underscores,2026-11-10,19:00:00,False,Glasgow,-4.298214,55.863711,TV Studio SWG3,,Music,Pop,Pop
+17uOv0G6G9qzjpn,Mike Viola,2026-11-10,19:00:00,False,Glasgow,-4.278617,55.832008,Glad Cafe,,Music,Rock,Pop
+17uYv0G65RuUxp9,My Neighbour Totoro,2026-11-10,19:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
+17uYv0G6GCMkM-y,Harry Potter and the Cursed Child - One Part Show,2026-11-10,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+1AUZk8SGkelNSc6,Embrace,2026-11-10,19:00:00,False,Glasgow,-4.236938,55.855063,Barrowland Ballroom,,Music,Rock,Pop
+1AdjZbSGkDTp5Vl,Matilda The Musical,2026-11-10,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AgZko8Gkd1RA4K,The Stylistics,2026-11-10,19:00:00,False,Chatham,0.52508,51.382567,Central Theatre,,Music,R&B,Soul
+1AzZkobGkeNR-NU,The Little Angels,2026-11-10,19:00:00,False,Belfast,-5.92730641,54.59266713,The Limelight 1,,Music,Metal,Nu-Metal
+G5dzZ_A1qFVCh,Hothouse Flowers,2026-11-10,19:00:00,False,Manchester,-2.243098,53.474423,O2 Ritz Manchester,,Music,Rock,Alternative Rock
+G5dzZ_G9eXg3d,Brian Fallon & the Painkillers - Not Bad for New Jersey Tour,2026-11-10,19:00:00,False,London,-0.224435,51.503525,O2 Shepherds Bush Empire,,Music,Rock,Pop
+G5dzZ_GCQPf93,Wasia Project,2026-11-10,19:00:00,False,Bristol,-2.600849,51.454142,O2 Academy Bristol,,Music,Pop,Pop
+G5dzZ_arGG-y3,Skye Newman,2026-11-10,19:00:00,False,Newcastle Upon Tyne,-1.610213,54.977346,O2 City Hall Newcastle,,Music,Pop,Pop
+G5dzZ_u1Ux91u,Dizzee Rascal,2026-11-10,19:00:00,False,Bournemouth,-1.839878,50.72671,O2 Academy Bournemouth,,Music,Hip-Hop/Rap,Trap
+G5vHZ_16Mx_lP,Yard Act,2026-11-10,19:00:00,False,Newcastle Upon Tyne,-1.6308,54.971939,NX,,Music,Rock,Pop
+G5vHZ_a9B3bwV,Chasing Abbey,2026-11-10,19:00:00,False,Manchester,-2.236159,53.47014,Manchester The Deaf Institute.,,Music,Dance/Electronic,Amapiano
+LvZ18Q-DvkO5zwOvOxOkY,Action! present THE HOME TEAM,2026-11-10,19:00:00,False,Newcastle,-1.608845,54.979831,Northumbria Students Union,,Music,Pop,Pop Rock
+LvZ18Q3hQxXpDVZZvPE27,Comedy in Your Eye - Stand up Comedy in Camden Town,2026-11-10,19:00:00,False,London,-0.1415,51.54102,Comedy In Your Eye,,Arts & Theatre,Theatre,Comedy
+LvZ18QNVsWcF1UhYeFIT-,MYKKI BLANCO,2026-11-10,19:00:00,False,Brighton,-0.1251001,50.8172816,Brighton Concorde 2,,Music,Pop,Adult Contemporary
+LvZ18QOkqJo4gJYZM8mzW,Ole 60,2026-11-10,19:00:00,False,Bristol,-2.59214808,51.45666317,Electric Bristol,,Music,Country,Country
+LvZ18QQO-js21aZZiEJJ0,Dirty Three,2026-11-10,19:00:00,False,London,-0.142995,51.5397,Electric Ballroom,,Music,Rock,Alternative Rock
+LvZ18QQO0YvAUGOZibVaC,JOSHUA IDEHEN,2026-11-10,19:00:00,False,Manchester,-2.239563,53.486725,Manchester New Century Hall,,Music,Dance/Electronic,Dance/Electronic
+LvZ18Qh86EwVRV8ZHQLeR,Moon Walker,2026-11-10,19:00:00,False,Birmingham,-1.912465,52.480185,Birmingham Flapper,,Music,Alternative,Alternative
+LvZ18Qh8GVTthgOZVNOCF,Teenage Fanclub,2026-11-10,19:00:00,False,Newcastle upon Tyne,-1.615058,54.967198,Boiler Shop,,Undefined,,
+LvZ18QqrgEqL358v1pncs,Morcheeba,2026-11-10,19:00:00,False,Leeds,-1.553329,53.807958,Stylus,,Music,Dance/Electronic,Trip Hop
+LvZ18QruzoUCfu8ZM6FZv,Yard Act,2026-11-10,19:00:00,False,Newcastle Upon Tyne,-1.6308,54.971939,NX,,Music,Rock,Pop
+LvZ18Qx104RoZl8vGFU7G,QUIET LIGHT,2026-11-10,19:00:00,False,Manchester,-2.23823,53.46167,The Abbey,,Music,Pop,Pop
+LvZ18Qx1byaMgqYvOT9LT,Kelsey Lu,2026-11-10,19:00:00,False,London,-0.139335,51.535029,KOKO,,Music,R&B,R&B
+LvZ18QxL8T3qbUZvGbUWA,AMERICAN AQUARIUM,2026-11-10,19:00:00,False,Cambridge ,,,MASH,,Music,Rock,Pop
+Z3r9uZKbZL4ZefAN5Zep,The Standard of Living,2026-11-10,19:00:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Theatre,Drama
+ZKr9uZKbZL4Ze310LZeao,Cabaret,2026-11-10,19:00:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze8-4-Z77r,Hadestown,2026-11-10,19:00:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
+17FYv0G6uk0Jld9,Ricky Gervais: Legend,2026-11-10,19:30:00,False,Birmingham,-1.914924,52.479932,Utilita Arena Birmingham,15800,Arts & Theatre,Comedy,Comedy
+17GOv0G61Tjd8zc,Michael McGovern,2026-11-10,19:30:00,False,Cardiff,-3.181165,51.480221,Clwb Ifor Bach,,Music,Folk,Indie Folk
+17uOv0G61UV7SnI,Trainspotting The Musical,2026-11-10,19:30:00,False,York,-1.082507,53.956905,"Grand Opera House, York",,Arts & Theatre,Theatre,Musical
+17uOv0G65Li-goG,Sinatra the Musical,2026-11-10,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
+17uOv0G65mnS_Vj,The Devil Wears Prada,2026-11-10,19:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
+17uOv0G6GG7v0JX,Back to the Future The Musical,2026-11-10,19:30:00,False,Bristol,-2.598389,51.453183,Bristol Hippodrome,,Arts & Theatre,Theatre,Musical
+17uYv0G65hevN8n,Avenue Q,2026-11-10,19:30:00,False,London,-0.126119,51.516285,Shaftesbury Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G65ielUBw,The Hunger Games - On Stage,2026-11-10,19:30:00,False,London,-0.0134276,51.5035337,Troubadour Canary Wharf Theatre,,Arts & Theatre,Theatre,Drama
+17uYvxG6GKQ7x3r,Operation Mincemeat: A New Musical,2026-11-10,19:30:00,False,Glasgow,-4.2562461,55.8662511,Theatre Royal Glasgow,,Arts & Theatre,Theatre,Musical
+1AMZkowGkdti9q9,The Phantom of the Opera,2026-11-10,19:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
+1AMZkupGkdn5nXk,The Play That Goes Wrong,2026-11-10,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+1AUZkGyGkdjKnWm,Wicked,2026-11-10,19:30:00,False,London,-0.142691,51.495785,Apollo Victoria Theatre,2328,Arts & Theatre,Theatre,Musical
+1AdbZ_eGkXNDN8L,Overpass,2026-11-10,19:30:00,False,Southampton,-1.383409,50.932847,The Brook,,Music,Rock,Alternative Rock
+1AdfZ_aGkR4SJLF,Derren Brown: Only Human,2026-11-10,19:30:00,False,London,-0.133935,51.511248,Apollo Theatre,,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists
+1AdfZbgGkDFmBPR,Beetlejuice,2026-11-10,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+1AdjZ_7GkSR3EL-,Burlesque,2026-11-10,19:30:00,False,London,-0.159855,51.51329,The Arts at Marble Arch,,Arts & Theatre,Theatre,Musical
+1aUZkCe-t_fZeGd,Flo & Joan - With Feeling,2026-11-10,19:30:00,False,Glasgow,-4.25576,55.865017,Pavilion Theatre Glasgow,,Arts & Theatre,Comedy,Comedy
+G5vHZ_6tynwe_,Witness for the Prosecution,2026-11-10,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
+G5vHZ_AJLvKmx,Dylan Moran - Looking For Trouble,2026-11-10,19:30:00,False,Leeds,-1.542859,53.798931,City Varieties Music Hall,,Arts & Theatre,Comedy,Comedy
+G5vHZ_GlbQjZ9,Chloe Slater,2026-11-10,19:30:00,False,London,-0.120276,51.530777,Scala,,Music,Rock,Alternative Rock
+G5vHZ_k92KPOR,Del Amitri,2026-11-10,19:30:00,False,Norwich,1.241377,52.62238,"The Nick Rayns LCR, UEA",,Music,Rock,Pop
+G5vHZbMf0rGr_,The Proclaimers,2026-11-10,19:30:00,False,Southend-On-Sea,0.697435,51.53582,Southend Cliffs Pavilion,,Music,Rock,Pop
+G5vHZbVUCj0eZ,The Legends in Vegas - After Hours,2026-11-10,19:30:00,False,Dartford,0.217771,51.445968,Orchard Theatre Dartford,,Arts & Theatre,Dance,Dance
+LvZ18Q9zg6kfvZOZwqDRK,Olga Koch,2026-11-10,19:30:00,False,Leeds,-1.5329,53.797526,Wardrobe,,Arts & Theatre,Comedy,Comedy
+LvZ18QN2NWh6ChOvOnDwB,Grace Cummings,2026-11-10,19:30:00,False,Glasgow,-4.265037,55.862637,King Tuts Wah Wah Hut,,Music,Rock,Pop
+LvZ18QOUtHs65YZvGyxvf,Cloud Nothings,2026-11-10,19:30:00,False,Manchester,-2.238335,53.474109,YES (Pink Room),,Music,Rock,Pop
+LvZ18QbEWz8fvDOZw4Euj,The Van Morrison Alumni Band,2026-11-10,19:30:00,False,London,-0.11828309,51.5099107,Emerald Theatre,,Music,Rock,Pop
+LvZ18Qh5KlQbqZOZ0Xx1v,Shabaka,2026-11-10,19:30:00,False,Leeds,-1.570275,53.809656,Brudenell Social Club,,Music,Jazz,Soul Jazz
+LvZ18QqSL2lf5tYvq0oJ9,Tanya Donelly & Chris Brokaw,2026-11-10,19:30:00,False,London,-0.231579,51.506574,Bush Hall,,Music,Rock,Alternative Rock
+Z3r9uZKbZL4Ze39adZkf,Beetlejuice,2026-11-10,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+Z3r9uZKbZL4Ze3x4uZe3,The Cherry Orchard,2026-11-10,19:30:00,False,London,-0.131851,51.509326,The Harold Pinter Theatre ,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4Zef7CNZ6u,The Mousetrap,2026-11-10,19:30:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4Zef7Q2Zep,Into The Woods,2026-11-10,19:30:00,False,London,-0.1284654,51.5142805,Noel Coward Theatre,942,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4Zef7u5Zeu,RENT,2026-11-10,19:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4ZefkovZef,Hay Fever,2026-11-10,19:30:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Drama
+ZKr9uZKbZL4Ze310LZekb,Cabaret,2026-11-10,19:30:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze33ONZevr,"Oh, Mary!",2026-11-10,19:30:00,False,London,-0.12651,51.5048,Trafalgar Theatre,,Arts & Theatre,Theatre,Comedy
+ZKr9uZKbZL4Ze3A4LZe1a,Mamma Mia!,2026-11-10,19:30:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze3eNbZe1q,Hamilton,2026-11-10,19:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCOjfZkFq,Moulin Rouge! The Musical,2026-11-10,19:30:00,False,London,-0.1353998,51.5110543,Piccadilly Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCQ02ZFej,The Mousetrap,2026-11-10,19:30:00,False,London,-0.127672,51.512848,St Martin's Theatre,,Undefined,,
+ZKr9uZKbZL4ZeCj6jZ6vx,Disney's The Lion King,2026-11-10,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Zeo-b6Zeaj,Les Misérables,2026-11-10,19:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeorGbZddQ,Titanique,2026-11-10,19:30:00,False,London,-0.133724,51.509707,Criterion Theatre,,Arts & Theatre,Theatre,Musical
+Zor9uZKbZL4Zef7a5ZL,Florian Henckel von Donnersmarck’s The Lives of Others,2026-11-10,19:30:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Drama
+Zor9uZKbZL4ZefdpbZk,Tosca,2026-11-10,19:30:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Opera,Opera
+17u8vxG62xxAsyn,Omid Djalili: Namaste,2026-11-10,20:00:00,False,Crewe,-2.440394,53.098881,Crewe Lyceum Theatre,,Arts & Theatre,Comedy,Comedy
+17uYv0G6uecPfMP,Bill Bailey: Vaudevillean,2026-11-10,20:00:00,False,Stoke-On-Trent,-2.177062,53.024681,Regent Theatre,,Arts & Theatre,Comedy,Comedy
+1AdFZ_eGkDqgYwJ,overpass,2026-11-10,20:00:00,False,Southampton,-1.383409,50.932847,The Brook,,Music,Rock,Alternative Rock
+1AdfZ_7GknRhglP,Jacob Hawley - Fighting Age Man,2026-11-10,20:00:00,False,Brighton,-0.13731,50.82946,Forge Comedy Club,,Arts & Theatre,Comedy,Comedy
+G5vHZ_1SG_gVL,Omid Djalili: Namaste,2026-11-10,20:00:00,False,Salford,-2.29681249,53.47109661,Quays Theatre - The Lowry,,Arts & Theatre,Comedy,Comedy
+ZKr9uZKbZL4ZeCNuaZ6ar,SIX The Musical,2026-11-10,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+LvZ18Q_-OWEPEOZZvOYDx,Twist Museum - London's Home of Illusions STANDARD,2026-11-10,23:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+1AdfZbzGkXOf0uC,Frameless Gift Card Redemption,2026-11-10,,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+G5vHZ_ubrICNe,Shrek's Adventure - Standard Experience,2026-11-10,,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Children's Theatre,Children's Theatre
+1AdfZ_6GkTW8hQA,Sea Life Birmingham - Standard Entry,2026-11-11,09:30:00,False,Birmingham,-1.91332064,52.4790525,National SEA LIFE Centre Birmingham,,Miscellaneous,Family,Other
+17uOv0G6CLJzPZm,London Eye - Standard Experience,2026-11-11,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
+17uOv0G6GExoh9G,Madame Tussauds London - Standard Entry,2026-11-11,10:00:00,False,London,-0.15526,51.52248,Madame Tussauds London,,Miscellaneous,Family,Other
+17uOv0G6uhtPh0q,London Dungeon - Standard Entry,2026-11-11,10:00:00,False,London,-0.11735,51.500992,The London Dungeon,,Miscellaneous,Family,Other
+1AdbZ_6GkBrZNYJ,Sea Life Blackpool - Standard Entry,2026-11-11,10:00:00,False,Blackpool,-3.05507,53.81274,SEA LIFE Blackpool,,Miscellaneous,Family,Other
+1AdjZ_6GkMl1N1-,Sea Life Manchester - Standard Entry,2026-11-11,10:00:00,False,Manchester,-2.34235349,53.46686792,SEA LIFE Manchester,,Miscellaneous,Family,Other
+1kuOv0OOGA2s5fF,London Eye - Standard Experience,2026-11-11,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
+1kuYv0jsGA2uxnB,Sea Life Brighton - Standard Admission,2026-11-11,10:00:00,False,Brighton,-0.13577386,50.81962932,SEA LIFE Brighton,,Miscellaneous,Family,Other
+G5vHZ_7FgDyka,Warwick Castle - Daily Entry,2026-11-11,10:00:00,False,Warwick,-1.585766,52.280585,Warwick Castle,,Miscellaneous,Community/Civic,Community/Civic
+G5vHZ_GcCTGvs,Sea Life London - Standard Entry,2026-11-11,10:00:00,False,London,-0.119252,51.50282,County Hall,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Sy,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,10:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25SB,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,10:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25SD,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,10:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25SH,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,10:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZc,FRAMELESS,2026-11-11,11:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25SW,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,11:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25SX,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,11:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZm,FRAMELESS,2026-11-11,11:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25ST,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,11:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25VZ,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,11:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZR,FRAMELESS,2026-11-11,12:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25Vv,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,12:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Ve,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,12:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZY,FRAMELESS,2026-11-11,12:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25Vd,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,12:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25V7,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,12:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uYv0G6GCMKExb,Harry Potter and the Cursed Child - One Part Show,2026-11-11,13:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+LvZ18Q3pHJ3rK38ZvwpZs,FRAMELESS,2026-11-11,13:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25VA,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,13:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Vk,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,13:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZw,FRAMELESS,2026-11-11,13:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25V6,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,13:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25VF,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,13:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+1AdjZbSGkDTxDgh,Matilda The Musical,2026-11-11,14:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+LvZ18Q3pHJ3rK38ZvwpZS,FRAMELESS,2026-11-11,14:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25Va,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,14:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+ZKr9uZKbZL4Ze310LZek_,Cabaret,2026-11-11,14:00:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
+LvZ18Q_-OWjMxpOZv25V1,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,14:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17u8v0G65sS4o-R,Oliver!,2026-11-11,14:30:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
+17uOv0G61UV7SnS,Trainspotting The Musical,2026-11-11,14:30:00,False,York,-1.082507,53.956905,"Grand Opera House, York",,Arts & Theatre,Theatre,Musical
+17uOv0G65mnTtgq,The Devil Wears Prada,2026-11-11,14:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
+17uOv0G6GG7uVl7,Back to the Future The Musical,2026-11-11,14:30:00,False,Bristol,-2.598389,51.453183,Bristol Hippodrome,,Arts & Theatre,Theatre,Musical
+17uYvxG6GKQ7w3-,Operation Mincemeat: A New Musical,2026-11-11,14:30:00,False,Glasgow,-4.2562461,55.8662511,Theatre Royal Glasgow,,Arts & Theatre,Theatre,Musical
+1AMZkowGkdtyEqB,The Phantom of the Opera,2026-11-11,14:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
+1AUZkGyGkdj-1Xh,Wicked,2026-11-11,14:30:00,False,London,-0.142691,51.495785,Apollo Victoria Theatre,2328,Arts & Theatre,Theatre,Musical
+LvZ18Q3pHJ3rK38ZvwpZV,FRAMELESS,2026-11-11,14:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25V5,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,14:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+Z3r9uZKbZL4Ze3x4uZeK,The Cherry Orchard,2026-11-11,14:30:00,False,London,-0.131851,51.509326,The Harold Pinter Theatre ,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4ZefkovZe4,Hay Fever,2026-11-11,14:30:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Drama
+ZKr9uZKbZL4ZeCj6jZ6vN,Disney's The Lion King,2026-11-11,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+Zor9uZKbZL4Zef7a5ZO,Florian Henckel von Donnersmarck’s The Lives of Others,2026-11-11,14:30:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Drama
+LvZ18Q_-OWjMxpOZv25VG,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,14:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZg,FRAMELESS,2026-11-11,15:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25Vu,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,15:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25VC,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,15:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZU,FRAMELESS,2026-11-11,15:30:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25V2,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,15:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25V8,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,15:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q3pHJ3rK38ZvwpZM,FRAMELESS,2026-11-11,16:00:00,False,London,-0.15964317,51.51366919,Marble Arch Place,,Miscellaneous,Undefined,Undefined
+LvZ18Q_-OWjMxpOZv25Vo,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,16:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25V3,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,16:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25VK,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,16:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Vf,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,16:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25V4,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,17:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Vp,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,17:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+G5vHZ_GnNtIkn,Disney On Ice - Discover the Magic - Venue Premium Tickets,2026-11-11,17:30:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Miscellaneous,Ice Shows,Ice Shows
+LvZ18Q_-OWjMxpOZv25V9,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,17:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWjMxpOZv25Vb,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,17:45:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uOv0G6GpWw1O9,Masters Football Home Nations - Venue Premium Tickets,2026-11-11,18:00:00,False,Aberdeen,-2.190396,57.185147,"P&J Live, Aberdeen",,Sports,Soccer,Soccer
+LvZ18Q_-OWjMxpOZv25V_,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,18:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Q_-OWO3aR8ZvRvb6,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,18:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+17uOv0G61NsobMZ,Igorrr,2026-11-11,18:30:00,False,Glasgow,-4.298214,55.863711,Galvanizers SWG3,,Music,Pop,Electro Pop
+17uYv0G65i_5AmN,Paul Heaton,2026-11-11,18:30:00,False,Liverpool,-2.990063,53.39702,M&S Bank Arena Liverpool,11000,Music,Rock,Pop
+1AdfZ_eGkzdaa7t,Mamma Mia! The Party,2026-11-11,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
+1AgZk39GkeJYxL_,Suede & Manic Street Preachers,2026-11-11,18:30:00,False,Nottingham,-1.139291,52.952649,Motorpoint Arena Nottingham,10000,Music,Rock,Alternative Rock
+G5dzZ_7pnCV6r,Coldplace - the World's Leading Tribute To Coldplay,2026-11-11,18:30:00,False,Newcastle Upon Tyne,-1.610213,54.977346,O2 City Hall Newcastle,,Music,Undefined,Undefined
+G5vHZ_GErI5pw,Disney On Ice presents Discover the Magic,2026-11-11,18:30:00,False,Newcastle Upon Tyne,-1.623338,54.963809,Utilita Arena Newcastle,11400,Miscellaneous,Ice Shows,Ice Shows
+G5vHZ_eQL1-QH,OK Go,2026-11-11,18:30:00,False,Nottingham,-1.155314,52.956117,Rock City,,Music,Rock,Pop
+G5vHZbz6U3zV6,The Australian Pink Floyd,2026-11-11,18:30:00,False,Birmingham,-1.910803,52.478877,Symphony Hall,,Music,Rock,Pop
+LvZ18Q2t5nkinz8ZlYRsW,Soil + Finger Eleven + Adema,2026-11-11,18:30:00,False,Southampton,-1.4004633,50.8989811,Southampton 1865,,Music,Rock,Pop
+LvZ18Q_-OWO3aR8ZvRvbF,Twist Museum - London's Home of Illusions STANDARD,2026-11-11,18:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
+LvZ18Qhnh0nDxxZZH4bx9,CASSIA,2026-11-11,18:30:00,False,Brighton,-0.138704,50.820167,"Chalk, Brighton",,Music,Rock,Alternative Rock
+1AdjZ_kGkU4bsSP,The Shires,2026-11-11,18:45:00,False,London,-0.140055,51.514546,The London Palladium,,Music,Country,Country
+G5vHZ_6nx-Vse,P1 with Matt and Tommy,2026-11-11,18:45:00,False,Leeds,-1.545,53.79951,The Glee Club Leeds,,Arts & Theatre,Theatre,Podcast
+15dbZ_6GZaaZe,The Meltdown,2026-11-11,19:00:00,False,Edinburgh,-3.186429,55.948463,The Caves,,Music,R&B,Soul
+17uOv0G61RNxBdv,Ole 60,2026-11-11,19:00:00,False,Glasgow,-4.298214,55.863711,TV Studio SWG3,,Music,Country,Country
+17uYv0G65RCexpO,My Neighbour Totoro,2026-11-11,19:00:00,False,London,-0.119645,51.51429,Gillian Lynne Theatre,1295,Arts & Theatre,Theatre,Drama
+17uYv0G6G00PpG0,Chloe Slater,2026-11-11,19:00:00,False,Nottingham,-1.152975,52.956173,Nottingham Rescue Rooms,,Music,Rock,Alternative Rock
+17uYv0G6GCMO9xw,Harry Potter and the Cursed Child - One Part Show,2026-11-11,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+1AMZk8YGkdVgk0L,Paddington the Musical,2026-11-11,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+1AMZkuSGkeIU4a3,Bellowhead,2026-11-11,19:00:00,False,Gateshead,-1.60195,54.967686,The Glasshouse International Centre for Music,,Music,Folk,Indie Folk
+1AMZkupGkdKz_zH,Gipsy Kings by André Reyes,2026-11-11,19:00:00,False,Bristol,-2.5982703,51.45454646,Bristol Beacon,,Music,World,Flamenco
+1AUZkoMGkdi_tdD,Jazz Emu,2026-11-11,19:00:00,False,Glasgow,-4.289157,55.87738,Oran Mor,,Arts & Theatre,Comedy,Comedy
+1AUZkoSGkdFl4fn,Teenage Fanclub,2026-11-11,19:00:00,False,Aberdeen,-2.095152,57.149768,The Lemon Tree,,Music,Rock,Alternative Rock
+1AdbZbUGkDkabXI,The Sheepdogs,2026-11-11,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
+1AdjZbSGkDTRDgH,Matilda The Musical,2026-11-11,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AwZk3pGkd-Ns6h,MEEK,2026-11-11,19:00:00,False,Glasgow,-4.268862,55.866296,Glasgow Garage,,Music,Pop,Pop
+1AwZkoMGkeON-Z_,Jazz Emu,2026-11-11,19:00:00,False,Glasgow,-4.289157,55.87738,Oran Mor,,Arts & Theatre,Comedy,Comedy
+1FuYv00vZ_Z72FkG,Christopher Hall: Pizazz,2026-11-11,19:00:00,False,London,-0.130111,51.511349,Leicester Square Theatre,,Arts & Theatre,Comedy,Comedy
+1kGOvNq_GA5pd5e,The Sheepdogs,2026-11-11,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
+G5dzZ_6DsMAjl,Paris Paloma,2026-11-11,19:00:00,False,Birmingham,-1.900215,52.473277,O2 Academy Birmingham,,Music,Pop,Pop
+G5dzZ_AnHV0ey,Hothouse Flowers,2026-11-11,19:00:00,False,London,-0.224435,51.503525,O2 Shepherds Bush Empire,,Music,Rock,Alternative Rock
+G5dzZ_ad-246Q,Reverend & the Makers,2026-11-11,19:00:00,False,Birmingham,-1.887562,52.475756,O2 Institute Birmingham,,Music,Rock,Alternative Rock
+G5vHZ_5n0LSWs,Goldie Boutilier,2026-11-11,19:00:00,False,Manchester,-2.243351,53.473982,Manchester Gorilla,,Music,Pop,Electro Pop
+G5vHZ_7Ut6Kwl,Jack Savoretti,2026-11-11,19:00:00,False,Nottingham,-1.151716,52.955858,Royal Concert Hall Nottingham,,Music,Rock,Alternative Rock
+G5vHZ_GKZiaqt,Wasia Project,2026-11-11,19:00:00,False,London,-0.151324,51.543051,Roundhouse,,Music,Pop,Electro Pop
+G5vHZ_GRSMmzu,Brian Fallon & the Painkillers - Not Bad for New Jersey Tour 2026,2026-11-11,19:00:00,False,Manchester,-2.248891,53.478402,Albert Hall,,Music,Rock,Pop
+G5vHZ_eXSgN0M,Overpass,2026-11-11,19:00:00,False,London,-0.142995,51.5397,Electric Ballroom,,Music,Rock,Alternative Rock
+G5vHZbzkNNVuO,Fin Taylor,2026-11-11,19:00:00,False,Hull,-0.34063,53.743801,Hull City Hall,,Arts & Theatre,Comedy,Comedy
+LvZ18Q-B2dv_sRYZ0m7Rm,The Home Team,2026-11-11,19:00:00,False,Leeds,-1.553329,53.807958,Stylus,,Music,Pop,Pop Rock
+LvZ18Q02ilPKZ0eviim05,Marta Pereira da Costa,2026-11-11,19:00:00,False,London,-0.143343,51.53859,Jazz Cafe,,Music,World,World
+LvZ18Q3hQxXpDVZZvPE2A,Comedy in Your Eye - Stand up Comedy in Camden Town,2026-11-11,19:00:00,False,London,-0.1415,51.54102,Comedy In Your Eye,,Arts & Theatre,Theatre,Comedy
+LvZ18QLElXiEZ5OZ0OJ2A,RICKY WARWICK & THE FIGHTING HEARTS,2026-11-11,19:00:00,False,Wolverhampton,-2.1309853,52.5786863,KK's Steel Mill,,Music,Rock,Rock
+LvZ18QQOJDCqk5YZHWiCy,JOSHUA IDEHEN,2026-11-11,19:00:00,False,Leeds,,,Project House,,Music,Dance/Electronic,Dance/Electronic
+LvZ18QQlv1f-nFYZV-XgQ,Round Midnight: Shabaka + support,2026-11-11,19:00:00,False,Norwich ,1.296628,52.638032,Epic Studios,,Music,Jazz,Jazz
+LvZ18Q_GVn0c1aOZl-njL,THE SLOW SHOW - WHITE WATER ANNIVERSARY LIVE TOUR,2026-11-11,19:00:00,False,Manchester,,,The Blues Kitchen Manchester,,Music,Pop,Indie Pop
+LvZ18Q_K1zBPtaZZya4xy,Alex Mitchell – Work in Progress,2026-11-11,19:00:00,False,Cambridge,0.11995604,52.20653912,Town and Gown,,Arts & Theatre,Comedy,Comedy
+LvZ18QfAOolVekYZlPtAv,3000 Feet +Director Q&A (12A),2026-11-11,19:00:00,False,Cumbria,-2.748059,54.325351,Kendal Brewery Arts Centre,,Undefined,,
+LvZ18QhgzBW-8KOZ0p9A9,MORCHEEBA,2026-11-11,19:00:00,False,Bristol,-2.59214808,51.45666317,Electric Bristol,,Music,Dance/Electronic,Trip Hop
+LvZ18Qj_VArZd3YZ0nL-b,DAMIEN DEMPSEY,2026-11-11,19:00:00,False,London,-0.139335,51.535029,KOKO,,Music,Rock,Pop
+LvZ18QowA0s09KZZli1Kl,Mae Stephens,2026-11-11,19:00:00,False,Cardiff,-3.181165,51.480221,Clwb Ifor Bach,,Music,Pop,Pop
+Z3r9uZKbZL4ZefAN5Ze9,The Standard of Living,2026-11-11,19:00:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Theatre,Drama
+ZKr9uZKbZL4Ze8-4-Z77L,Hadestown,2026-11-11,19:00:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze83obZk7r,Magic Mike Live,2026-11-11,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+17GOv0G6G2x3OtY,Quiet Light,2026-11-11,19:30:00,False,London,-0.057532,51.547992,London Oslo,,Music,Pop,Pop
+17u8v0G651mMSo4,Jen Brister: Reactive,2026-11-11,19:30:00,False,London,-0.02002133,51.58613733,Soho Theatre Walthamstow,,Arts & Theatre,Comedy,Comedy
+17u8v0G65C-pxYC,Faulty Towers the Dining Experience,2026-11-11,19:30:00,False,London,-0.12395745,51.52226825,President Hotel,,Arts & Theatre,Theatre,Comedy
 LvZ18Q_xoFRDvd8ZvrmMB,Twist Museum - London's Home of Illusions PEAK,2027-01-05,10:00:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
 LvZ18Q_xoFRDvd8ZvrmMD,Twist Museum - London's Home of Illusions PEAK,2027-01-05,10:15:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
 LvZ18Q_xoFRDvd8ZvrmMH,Twist Museum - London's Home of Illusions PEAK,2027-01-05,10:30:00,False,London,-0.14319582,51.51539505,Twist Museum,,Miscellaneous,Family,Other
@@ -4795,81 +4739,56 @@ G5vHZ_6rxdKAO,Romesh Ranganathan Will Change Your Life,2027-01-22,20:00:00,False
 LvZ18QN2VVhwszOvG0g3l,Chuck Ragan,2027-01-22,20:00:00,False,Brighton,-0.13936,50.82829,The Prince Albert,,Music,Rock,Alternative Rock
 ZKr9uZKbZL4ZeCNuaZFeo,SIX The Musical,2027-01-22,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
 Zor9uZKbZL4Ze3OC-ZN,Bill Bailey - Vaudevillean,2027-01-22,20:00:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Comedy,Comedy
-16UZk3eFFZAuG8ev,London Eye - Standard Experience,2027-03-05,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
-G5vHZ_Gn0AIa_,Lloyds National Track Championships 2027 - Session 3,2027-03-05,11:00:00,False,Manchester,-2.196855,53.4864,National Cycling Centre,,Sports,Cycling,Cycling
-17u8v0G6uDFGV64,Come Alive! The Greatest Showman Circus Spectacular,2027-03-05,14:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
-1AdfZbgGkDNBG5_,Beetlejuice,2027-03-05,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4Zef7u5ZA0,RENT,2027-03-05,14:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze39adZedf,Beetlejuice,2027-03-05,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
-Z3r9uZKbZL4Ze39adZ1F,Beetlejuice,2027-03-05,15:00:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
-G5vHZ_GnUpyBU,Lloyds National Track Championships 2027 - Session 4,2027-03-05,16:30:00,False,Manchester,-2.196855,53.4864,National Cycling Centre,,Sports,Cycling,Cycling
-ZKr9uZKbZL4Ze35voZeeO,Dirty Dancing: The Classic Story on Stage,2027-03-05,17:00:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
-LvZ18Q-Qmqf5_MZZ0egLK,Pedro Abrunhosa,2027-03-05,18:00:00,False,London,-0.07447582,51.5511439,EartH Theatre,,Music,Pop,Pop
-LvZ18QxQ4gZpQJZv1-xRk,NOUVELLE VAGUE 'A Date with Depeche Mode',2027-03-05,18:00:00,False,London,-0.139335,51.535029,KOKO,,Music,Pop,Adult Contemporary
-1AUZko9GkeRMSwD,Venue Premium - Paul Smith: Happy,2027-03-05,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Miscellaneous,Community/Civic,Community/Civic
-1AUZkoKGkdXUc63,Paul Smith - Happy,2027-03-05,18:30:00,False,Glasgow,-4.288154,55.86087,OVO Hydro,14300,Arts & Theatre,Comedy,Comedy
-1AdfZ_eGkz_CQVL,Mamma Mia! The Party,2027-03-05,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
-1kuOvN-pGAGxwAO,Greg Davies - Full Fat Legend,2027-03-05,18:30:00,False,Glasgow,-4.288154,55.86087,SEC Armadillo,,Arts & Theatre,Comedy,Comedy
-G5dzZ_1L5oSnp,House of Fun,2027-03-05,18:30:00,False,Newcastle Upon Tyne,-1.610213,54.977346,O2 City Hall Newcastle,,Music,Rock,Pop
-LvZ18QLdsroe1fYv1fQjc,The View,2027-03-05,18:30:00,False,Sheffield,-1.464856,53.376266,Electric Studios,,Music,Rock,Alternative Rock
-17uYv0G65lI-3l1,Matilda the Musical,2027-03-05,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
-17uYv0G6G2oJtw7,Harry Potter and the Cursed Child - One Part Show,2027-03-05,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
-1AMZkofGkd18byM,Paddington the Musical,2027-03-05,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
-1AdFZ_FGknAFoA6,Martin Stephenson & the Daintees,2027-03-05,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
-1AdbZ_aGkmXM0gD,Editors,2027-03-05,19:00:00,False,Manchester,-2.221964,53.469422,O2 Apollo Manchester,,Music,Rock,Alternative Rock
-G5dzZ_1QXBNaV,Pet Shop Boys Actually,2027-03-05,19:00:00,False,Liverpool,-2.9771058,53.4091275,O2 Academy 2 Liverpool,,Music,Undefined,Undefined
-G5dzZ_GJibVci,The Dead South,2027-03-05,19:00:00,False,London,-0.115176,51.465355,O2 Academy Brixton,,Music,Rock,Pop
-G5dzZ_aKzAAmD,Hotter Than Hell x Motley Crude,2027-03-05,19:00:00,False,London,-0.10661535,51.53445948,O2 Academy2 Islington,,Music,Rock,Pop
-G5vHZ_1DLD_71,Rick Wakeman - The Wizard of Prog: Ultimate Highlights Concert Tour,2027-03-05,19:00:00,False,Southend-On-Sea,0.697435,51.53582,Southend Cliffs Pavilion,,Music,Rock,Pop
-G5vHZ_6NqEEhD,Nathan Carter & His Band,2027-03-05,19:00:00,False,Dartford,0.217771,51.445968,Orchard Theatre Dartford,,Music,Country,Country
-G5vHZ_GFGtq6V,Sleeping with Sirens - An Ending In Itself Tour,2027-03-05,19:00:00,False,Manchester,-2.232225,53.464386,Manchester Academy,,Music,Rock,Pop
-LvZ18Q-pyvNcjPYvOtqD7,LONDON CALLING play THE CLASH,2027-03-05,19:00:00,False,Dundee,-2.9757692,56.4617496,"Music Hall, Dundee",,Music,Undefined,Undefined
-LvZ18Q3DzLH9L18v4384P,Space Cowboy - The Ultimate Tribute To Jamiroquai,2027-03-05,19:00:00,False,Morecambe,-2.874801,54.07131,Platform,,Undefined,,
-LvZ18QLfC0GAfaYZ0kz5b,"THE SPECIALS LTD ""Gangsters'",2027-03-05,19:00:00,False,Glasgow,,,SLAY,,Music,Undefined,Undefined
-LvZ18QN4mxSy0i8Z0BML-,Absolute Bowie,2027-03-05,19:00:00,False,Southampton,-1.4004633,50.8989811,Southampton 1865,,Music,Undefined,Undefined
-ZKr9uZKbZL4Ze83obZkad,Magic Mike Live,2027-03-05,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
-Zor9uZKbZL4Zefer5Zj,Billy Elliot the Musical,2027-03-05,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
-16MZkowZeZACa21a,The Phantom of the Opera,2027-03-05,19:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
-16dfZ_7udG7ImIO,The Comedy Store - Plymouth,2027-03-05,19:30:00,False,Plymouth,-4.11638,50.418221,Quad Theatre,,Arts & Theatre,Comedy,Comedy
-17u8v0G61T3aMQI,Jimeoin: BALLYHOO!,2027-03-05,19:30:00,False,Southend-On-Sea,0.691363,51.543874,"Palace Theatre, Southend",,Arts & Theatre,Comedy,Comedy
-17u8v0G65w5s0bs,Oliver!,2027-03-05,19:30:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
-17u8v0G6GktEM-b,Gordon Buchanan: Lions and Tigers and Bears,2027-03-05,19:30:00,False,Exmouth,-3.412778,50.615543,Exmouth Pavilion,,Miscellaneous,Family,Other
-17u8v0G6uDFh7G6,Come Alive! The Greatest Showman Circus Spectacular,2027-03-05,19:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
-17uOv0G61UoJw6N,Man In the Mirror,2027-03-05,19:30:00,False,Southampton,-1.406198,50.90848,O2 Guildhall Southampton,,Music,Undefined,Undefined
-17uOv0G61pnFepn,Trainspotting The Musical,2027-03-05,19:30:00,False,Dunfermline,-3.45799,56.069812,Alhambra Theatre,,Arts & Theatre,Theatre,Musical
-17uOv0G65jA4b_a,Sinatra the Musical,2027-03-05,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
-17uYv0G65RDx0h0,The Play That Goes Wrong,2027-03-05,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
-1AdfZ_aGkSDkMna,The Eternal Shame of Sue Perkins,2027-03-05,19:30:00,False,Scarborough,-0.397446,54.275699,Scarborough Spa Theatre,,Arts & Theatre,Comedy,Comedy
-1AdfZbgGkD06i5Y,Beetlejuice,2027-03-05,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
-1AdjZ_aGkS84ARP,Count Arthur Strong - And Its Goodnight From Me!,2027-03-05,19:30:00,False,Monmouth,-2.714648,51.812576,Monmouth Savoy Theatre,,Arts & Theatre,Theatre,Comedy
-G5vHZ_1rM3Ngi,Jason Fox - Embrace The Chaos,2027-03-05,19:30:00,False,Rhyl,-3.484567,53.326091,Rhyl Pavilion Theatre,,Miscellaneous,Family,Other
-G5vHZ_5mjY721,Rachel Parris: the Rachel Parris Songbook,2027-03-05,19:30:00,False,Little Sheffield,-1.47341685,53.37028,The Steamworks,,Arts & Theatre,Comedy,Comedy
-G5vHZ_6n4kdUJ,Witness for the Prosecution,2027-03-05,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
-G5vHZ_7ChF3dW,The Comedy Store - Cambridge,2027-03-05,19:30:00,False,Cambridge,0.136509,52.190766,Cambridge Junction,,Arts & Theatre,Comedy,Comedy
-G5vHZ_CrLf4Zo,Al Murray - All You Need Is Guv,2027-03-05,19:30:00,False,Basingstoke,-1.089639,51.267007,The Anvil,,Arts & Theatre,Comedy,Comedy
-G5vHZ_GKUcGkB,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,2027-03-05,19:30:00,False,Stockton-on-Tees,-1.31304,54.564621,Stockton Globe,,Music,Pop,Pop
-G5vHZ_kVGchDi,Ed Gamble - Fresh Hell,2027-03-05,19:30:00,False,Brighton,-0.139088,50.823717,Brighton Dome,,Arts & Theatre,Comedy,Comedy
-LvZ18QNtRVkBHBOvqRkMi,432 present The Vaselines,2027-03-05,19:30:00,False,Newcastle Upon Tyne,-1.59238,54.974933,The Cluny,,Undefined,,
-LvZ18QOidIw-FGYZzqb3X,The Rasmus,2027-03-05,19:30:00,False,Exeter,-3.531253,50.724815,Exeter Phoenix,,Music,Rock,Pop
-Z3r9uZKbZL4Ze39adZ1a,Beetlejuice,2027-03-05,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
-Z3r9uZKbZL4Zef7u5Zkv,RENT,2027-03-05,19:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
-Z3r9uZKbZL4ZefkudZ72,One Day - The Musical,2027-03-05,19:30:00,False,London,-0.127819,51.509954,Garrick Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3A4LZddN,Mamma Mia!,2027-03-05,19:30:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze3eNbZddq,Hamilton,2027-03-05,19:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze8-4-Z76b,Hadestown,2027-03-05,19:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4ZeCj6jZ6A9,Disney's The Lion King,2027-03-05,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Zeo-b6Zdej,Les Misérables,2027-03-05,19:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
-Zor9uZKbZL4ZefdpfZu,La traviata,2027-03-05,19:30:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Opera,Opera
-1ku8v08YGA1VcOZ,The Comedy Store - Colchester,2027-03-05,20:00:00,False,Colchester,0.904506,51.897127,Charter Hall,,Arts & Theatre,Comedy,Comedy
-G5vHZ_605TD89,Matt Bragg: Stand Up Comic,2027-03-05,20:00:00,False,Northampton,-0.894129,52.236412,Royal and Derngate,,Arts & Theatre,Comedy,Comedy
-G5vHZ_FBDIS91,Mo Gilligan: The Mo You Know,2027-03-05,20:00:00,False,Northampton,-0.894129,52.236412,Royal and Derngate,,Arts & Theatre,Comedy,Comedy
-G5vHZ_Gxoodqc,Ed Byrne: No Dramas,2027-03-05,20:00:00,False,Stockton on Tees,-1.316452,54.564273,ARC Stockton Arts Centre,,Arts & Theatre,Comedy,Comedy
-G5vHZbUU3304s,Romesh Ranganathan Will Change Your Life,2027-03-05,20:00:00,False,Plymouth,-4.149219,50.368073,Plymouth Arena,,Arts & Theatre,Comedy,Comedy
-ZKr9uZKbZL4ZeCNuaZF7v,SIX The Musical,2027-03-05,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
-17uYv0G6Gpq3M-P,Dynamo,2027-03-05,20:15:00,False,Bradford,-1.7459514,53.793496,Bradford Playhouse,,Arts & Theatre,Magic & Illusion,Magic
-LvZ18QNRE_sbZBk8-b4gl,A Band Called Malice,2027-03-05,21:00:00,False,Derby,-1.479575,52.926209,The Flowerpot,,Music,Undefined,Undefined
-ZKr9uZKbZL4Ze35voZee-,Dirty Dancing: The Classic Story on Stage,2027-03-05,21:00:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze83obZka7,Magic Mike Live,2027-03-05,21:30:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+G5vHZ_Gp_8U2B,Dynamo,2027-01-22,20:15:00,False,Salford,-2.29681249,53.47109661,Quays Theatre - The Lowry,,Arts & Theatre,Magic & Illusion,Magic
+ZKr9uZKbZL4Ze35voZev4,Dirty Dancing: The Classic Story on Stage,2027-01-22,21:00:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze83obZk68,Magic Mike Live,2027-01-22,21:30:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+16MZk3avsZAuA215,Blackpool Sandcastle Waterpark,2027-01-23,10:00:00,False,Blackpool,-3.05751757,53.79413438,Sandcastle Waterpark,,Miscellaneous,Family,Other
+1AUZk8MGkda9UFE,Scottish National Whisky Festival - Session 1,2027-01-23,12:00:00,False,Glasgow,-4.298214,55.863711,SWG3,,Miscellaneous,Fairs & Festivals,Fairs & Festivals
+1AdfZ_eGkzopnPv,Mamma Mia! The Party,2027-01-23,12:00:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
+17uYv0G6G2F1t7S,Harry Potter and the Cursed Child - One Part Show,2027-01-23,13:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+16MZk8YvvZACF6k8,Paddington the Musical,2027-01-23,14:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+G5vHZ_1DVltX_,Hamza Yassin - My Life Behind the Lens,2027-01-23,14:00:00,False,Eastbourne,0.284256,50.762672,Devonshire Park Theatre,,Miscellaneous,Family,Other
+ZKr9uZKbZL4Ze310LZeFf,Cabaret,2027-01-23,14:00:00,False,London,-0.123719,51.506975,Playhouse Theatre,865,Arts & Theatre,Theatre,Musical
+Zor9uZKbZL4Ze3O72Zu,Romeo & Juliet,2027-01-23,14:00:00,False,London,-0.126308,51.509921,London Coliseum,2358,Arts & Theatre,Dance,Dance
+17u8v0G61rKQocT,Trainspotting the Musical,2027-01-23,14:30:00,False,Nottingham,-1.151716,52.955858,Theatre Royal Nottingham,,Arts & Theatre,Theatre,Musical
+17u8v0G65weTSA0,Oliver!,2027-01-23,14:30:00,False,London,-0.13324,51.512019,Gielgud Theatre,986,Arts & Theatre,Theatre,Musical
+17uOv0G65LHhEQd,Sinatra the Musical,2027-01-23,14:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
+17uOv0G65mDeD1f,The Devil Wears Prada,2027-01-23,14:30:00,False,London,-0.129679,51.516971,Dominion Theatre,2083,Arts & Theatre,Theatre,Musical
+17uOv0G6G9AHBU6,Back to the Future The Musical,2027-01-23,14:30:00,False,Liverpool,-2.978335,53.40891,Liverpool Empire Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G65i3U9Gb,The Hunger Games - On Stage,2027-01-23,14:30:00,False,London,-0.0134276,51.5035337,Troubadour Canary Wharf Theatre,,Arts & Theatre,Theatre,Drama
+17uYv0G6uOZEZwX,Victoria Wood's dinnerladies,2027-01-23,14:30:00,False,Bromley,0.014436,51.403776,Churchill Theatre,,Arts & Theatre,Theatre,Comedy
+1AMZkowGkdU_z2b,The Phantom of the Opera,2027-01-23,14:30:00,False,London,-0.132044,51.508133,His Majesty's Theatre,1216,Arts & Theatre,Theatre,Musical
+1AMZkupGkdDz5JF,The Play That Goes Wrong,2027-01-23,14:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+1AdfZ_aGkRP59L-,Derren Brown: Only Human,2027-01-23,14:30:00,False,London,-0.133935,51.511248,Apollo Theatre,,Miscellaneous,Psychics/Mediums/Hypnotists,Psychics/Mediums/Hypnotists
+1AdfZbgGkDQ25UX,Beetlejuice,2027-01-23,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+1AgZkoPGkdPh9kb,Come Alive! The Greatest Showman Circus Spectacular,2027-01-23,14:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
+G5vHZ_6n5CduK,Witness for the Prosecution,2027-01-23,14:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
+Z3r9uZKbZL4Zef7u5Z7Q,RENT,2027-01-23,14:30:00,False,London,-0.127522,51.510174,Duke of Yorks Theatre,,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4ZefkGjZeF,Christmas Carol Goes Wrong,2027-01-23,14:30:00,False,London,-0.128249,51.511067,Wyndham's Theatre,759,Arts & Theatre,Theatre,Comedy
+Z3r9uZKbZL4ZefkudZd7,One Day - The Musical,2027-01-23,14:30:00,False,London,-0.127819,51.509954,Garrick Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze39adZedF,Beetlejuice,2027-01-23,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+ZKr9uZKbZL4Ze3eNbZde3,Hamilton,2027-01-23,14:30:00,False,London,-0.142382,51.497012,Victoria Palace Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze8-4-Z7ku,Hadestown,2027-01-23,14:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCj6jZ675,Disney's The Lion King,2027-01-23,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Zeo-b6Zdvo,Les Misérables,2027-01-23,14:30:00,False,London,-0.133106,51.512116,Sondheim Theatre,,Arts & Theatre,Theatre,Musical
+17u8v0G65MkJaKI,ABBA Voyage,2027-01-23,15:00:00,False,London,-0.01362306,51.53327366,ABBA Arena,,Music,Pop,Pop
+17u8v0G65XqHP96,Abba Voyage - VIP Premium Package,2027-01-23,15:00:00,False,London,-0.01362306,51.53327366,ABBA Arena,,Music,Pop,Pop
+1AdjZ_7GkYvZ_ZB,Burlesque,2027-01-23,15:00:00,False,London,-0.159855,51.51329,The Arts at Marble Arch,,Arts & Theatre,Theatre,Musical
+1adbZ_Aep0xZdG8C,Jack Whitehall - Bad Influence,2027-01-23,15:00:00,False,Cardiff,-3.171771,51.478931,Utilita Arena Cardiff,7500,Arts & Theatre,Comedy,Comedy
+Z3r9uZKbZL4Ze39adZF-,Beetlejuice,2027-01-23,15:00:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+ZKr9uZKbZL4Ze35voZevp,Dirty Dancing: The Classic Story on Stage,2027-01-23,15:00:00,False,London,-0.22598083,51.50560364,Capital Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze3A4LZde9,Mamma Mia!,2027-01-23,15:00:00,False,London,-0.119423,51.511933,Novello Theatre,,Arts & Theatre,Theatre,Musical
+ZhqgVMyxjZBYPsnXyVSVMmnSyZ66e,Leyton Orient v Burton Albion,2027-01-23,15:00:00,False,London,-0.01172665,51.56073774,BetWright Stadium,,Undefined,,
+Zor9uZKbZL4Ze3OC-Z0,Bill Bailey - Vaudevillean,2027-01-23,15:00:00,False,London,-0.13128,51.50884,Theatre Royal Haymarket,,Arts & Theatre,Comedy,Comedy
+17uOv0G6C6QQq10,Al Murray - All You Need Is Guv,2027-01-23,15:30:00,False,Swindon,-1.78124,51.559178,Wyvern Theatre,,Arts & Theatre,Comedy,Comedy
+G5vHZ_AJjMKnG,X-Trials - Venue Premium Tickets,2027-01-23,16:00:00,False,Leeds,-1.544073,53.804616,Leeds First Direct Bank Arena,,Sports,Motorsports/Racing,Motorsports/Racing
+ZKr9uZKbZL4Ze83obZk6o,Magic Mike Live,2027-01-23,16:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+ZKr9uZKbZL4ZeCNuaZFe3,SIX The Musical,2027-01-23,16:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+1AUZk8MGkd1zJCi,Scottish National Whisky Festival - Session 2,2027-01-23,16:30:00,False,Glasgow,-4.298214,55.863711,SWG3,,Miscellaneous,Fairs & Festivals,Fairs & Festivals
+17uYv0G6GSiygf8,Electric Callboy - VIP Merch Package,2027-01-23,18:00:00,False,Manchester,-2.1995797,53.48661136,Co-op Live,23500,Music,Metal,Nu-Metal
+17uYv0G6GSrP7ni,Electric Callboy - VIP Guided Tour Experience,2027-01-23,18:00:00,False,Manchester,-2.1995797,53.48661136,Co-op Live,23500,Music,Metal,Nu-Metal
+17uYv0G6GnQAvcd,Electric Callboy,2027-01-23,18:00:00,False,Manchester,-2.1995797,53.48661136,Co-op Live,23500,Music,Metal,Nu-Metal
+G5dzZ_aLhyg-3,Guns 2 Roses + AC/DC Reborn + L.A Foo Fighters,2027-01-23,18:00:00,False,Leeds,-1.547287,53.802291,O2 Academy Leeds,,Music,Undefined,Undefined
 16dbZ_FFOG7Y5Hl,London Eye - Standard Experience,2027-03-06,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
 1kuYv0x8GA1cA7B,Blackpool Sandcastle Waterpark,2027-03-06,10:00:00,False,Blackpool,-3.05751757,53.79413438,Sandcastle Waterpark,,Miscellaneous,Family,Other
 G5vHZ_GlG8lpP,Lloyds National Track Championships 2027 - Session 5,2027-03-06,10:00:00,False,Manchester,-2.196855,53.4864,National Cycling Centre,,Sports,Cycling,Cycling
@@ -5993,20 +5912,81 @@ Z3r9uZKbZL4Zefer5Zep,Billy Elliot the Musical,2027-03-31,19:00:00,False,London,-
 ZKr9uZKbZL4Ze8-4-Z7Fo,Hadestown,2027-03-31,19:00:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
 ZKr9uZKbZL4Ze83obZk17,Magic Mike Live,2027-03-31,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
 17uOv0G65j1VaZj,Sinatra the Musical,2027-03-31,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
-1AUZkFgGkdwKPOk,London Eye - Standard Experience,2027-05-04,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
-17u8v0G65wm9Us5,Gracie Abrams: The Look at My Life Tour,2027-05-04,18:30:00,False,London,0.005519,51.501581,The O2,20000,Music,Pop,Pop
-17uYv0G65lgJd50,Matilda the Musical,2027-05-04,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
-17uYv0G6G2LuBcH,Harry Potter and the Cursed Child - One Part Show,2027-05-04,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
-LvZ18QxQMWA9x5YZzBMAJ,Albert Lee,2027-05-04,19:00:00,False,London,-0.102362,51.54378,Union Chapel,,Music,Jazz,Jazz
-Z3r9uZKbZL4Zefer5Zd_,Billy Elliot the Musical,2027-05-04,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
-ZKr9uZKbZL4Ze8-4-Z7af,Hadestown,2027-05-04,19:00:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
-17uOv0G6uRghYTN,Back to the Future The Musical,2027-05-04,19:30:00,False,Sunderland,-1.389419,54.906317,Sunderland Empire,,Arts & Theatre,Theatre,Musical
-17uYv0G65iFmfHo,The Play That Goes Wrong,2027-05-04,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
-1AgZkC7GkexMk0B,Alan Carr: Have I Said Too Much?,2027-05-04,19:30:00,False,Leeds,-1.549725,53.796105,Leeds Grand Theatre,,Arts & Theatre,Comedy,Comedy
-G5vHZ_uJP3rS3,Victoria Wood's dinnerladies,2027-05-04,19:30:00,False,Ipswich,1.160689,52.057163,Ipswich Regent Theatre,,Arts & Theatre,Theatre,Comedy
-ZKr9uZKbZL4ZeCj6jZ66f,Disney's The Lion King,2027-05-04,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
-G5vHZ_G9Rlh0C,Ed Byrne: No Dramas,2027-05-04,20:00:00,False,Leeds,-1.542859,53.798931,City Varieties Music Hall,,Arts & Theatre,Comedy,Comedy
-ZKr9uZKbZL4ZeCNuaZFkk,SIX The Musical,2027-05-04,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G65ivofPy,The Play That Goes Wrong,2027-03-31,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+1AUZkowGkdmtEJS,Ed Gamble: Fresh Hell,2027-03-31,19:30:00,False,Swindon,-1.78124,51.559178,Wyvern Theatre,,Music,Rock,Pop
+1AdfZbgGkDnAjpH,Beetlejuice,2027-03-31,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+1AgZkCdGkdhBle5,Alan Carr: Have I Said Too Much?,2027-03-31,19:30:00,False,Aylesbury,-0.810439,51.814948,"The Waterside Theatre, Aylesbury",,Arts & Theatre,Comedy,Comedy
+1ku8v0JaGAucwuU,Bjorn Again,2027-03-31,19:30:00,False,Sheffield,-1.471079,53.38118,Sheffield City Hall Oval Hall,,Music,Rock,Pop
+G5vHZ_6nhufGW,Witness for the Prosecution,2027-03-31,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
+G5vHZ_uE0qCYs,Victoria Wood's dinnerladies,2027-03-31,19:30:00,False,Blackpool,-3.051176,53.817123,Blackpool Opera House,,Arts & Theatre,Theatre,Comedy
+ZKr9uZKbZL4Ze39adZeve,Beetlejuice,2027-03-31,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+ZKr9uZKbZL4ZeCj6jZ6ko,Disney's The Lion King,2027-03-31,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+1kuOvNp8GA5Xrpo,Romesh Ranganathan - Will Change Your Life,2027-03-31,20:00:00,False,Cardiff,-3.171771,51.478931,Utilita Arena Cardiff,7500,Arts & Theatre,Comedy,Comedy
+ZKr9uZKbZL4ZeCNuaZF7x,SIX The Musical,2027-03-31,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+17uOv0G65nXjSc1,Chessington World of Adventures - 1 Day Entry,2027-04-01,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
+1FuOv0OxbAZ7ue52,London Eye - Standard Experience,2027-04-01,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
+1kuYv0x8GAurPCz,Blackpool Sandcastle Waterpark,2027-04-01,10:00:00,False,Blackpool,-3.05751757,53.79413438,Sandcastle Waterpark,,Miscellaneous,Family,Other
+17uYv0G65lm_eWO,Matilda the Musical,2027-04-01,14:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AMZkofGkd84_Na,Paddington the Musical,2027-04-01,14:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4Zefer5Ze9,Billy Elliot the Musical,2027-04-01,14:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
+17u8v0G6uDC3PBo,Come Alive! The Greatest Showman Circus Spectacular,2027-04-01,14:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
+17uOv0G65j5ZaeF,Sinatra the Musical,2027-04-01,14:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
+G5vHZ_6nhQVuB,Witness for the Prosecution,2027-04-01,14:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
+G5vHZ_uE0qrYU,Victoria Wood's dinnerladies,2027-04-01,14:30:00,False,Blackpool,-3.051176,53.817123,Blackpool Opera House,,Arts & Theatre,Theatre,Comedy
+ZKr9uZKbZL4Ze8-4-Z7F3,Hadestown,2027-04-01,14:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCj6jZ6k3,Disney's The Lion King,2027-04-01,14:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCNuaZF7N,SIX The Musical,2027-04-01,16:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+1AdfZ_eGkzrr5eE,Mamma Mia! The Party,2027-04-01,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
+1aUZk3a-ybIZeC1,Gabrielle - The Hits,2027-04-01,18:30:00,False,Glasgow,-4.288154,55.86087,SEC Armadillo,,Music,Pop,Pop
+17uOv0G6534HKTS,Fisherman's Friends,2027-04-01,19:00:00,False,Swindon,-1.78124,51.559178,Wyvern Theatre,,Music,Folk,Indie Folk
+17uOv0G65CfwNh5,Disney Princess - The Concert,2027-04-01,19:00:00,False,Oxford,-1.26035,51.754,New Theatre Oxford,,Arts & Theatre,Children's Theatre,Children's Theatre
+17uYv0G65lmPxWw,Matilda the Musical,2027-04-01,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+17uYv0G6G29wBCl,Harry Potter and the Cursed Child - One Part Show,2027-04-01,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+1AMZkofGkd8xaNy,Paddington the Musical,2027-04-01,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4Zefer5Zeb,Billy Elliot the Musical,2027-04-01,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze83obZk1A,Magic Mike Live,2027-04-01,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+17FYv0G65Qses-6,Morgan Jay - La Dolce Vita Tour,2027-04-01,19:30:00,False,Birmingham,-1.914924,52.479932,Utilita Arena Birmingham,15800,Arts & Theatre,Comedy,Comedy
+17u8v0G6uDCOgTU,Come Alive! The Greatest Showman Circus Spectacular,2027-04-01,19:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
+17uOv0G65j5G_7u,Sinatra the Musical,2027-04-01,19:30:00,False,London,-0.118841,51.51312,Aldwych Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G65ivr7Jd,The Play That Goes Wrong,2027-04-01,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+17uYv0G6GTHP9P6,Dianne And Vito Back In Business,2027-04-01,19:30:00,False,Guildford,-0.564917,51.239469,G Live Guildford,,Arts & Theatre,Dance,Dance
+1AMZkoYGkdV4mQ3,Ed Gamble - Fresh Hell,2027-04-01,19:30:00,False,Cheltenham,-2.077717,51.897232,Cheltenham Town Hall,,Arts & Theatre,Comedy,Comedy
+1AdfZbgGkDn3i91,Beetlejuice,2027-04-01,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+1AdjZ_aGkSyDzGy,What's Love Got to do With it? - The Ultimate Tribute to Tina Turner,2027-04-01,19:30:00,False,Ulverston,-3.094464,54.194572,The Coro,,Music,Undefined,Undefined
+1AdjZ_aGkUpPefz,Bjorn Again,2027-04-01,19:30:00,False,Gateshead,-1.60195,54.967686,The Glasshouse International Centre for Music,,Music,Rock,Pop
+1AgZkCdGkdhBDef,Alan Carr: Have I Said Too Much?,2027-04-01,19:30:00,False,Aylesbury,-0.810439,51.814948,"The Waterside Theatre, Aylesbury",,Arts & Theatre,Comedy,Comedy
+G5vHZ_6nhIf2A,Witness for the Prosecution,2027-04-01,19:30:00,False,London,-0.119252,51.50282,County Hall,,Arts & Theatre,Theatre,Drama
+G5vHZ_aKP64Ew,The Lilacs,2027-04-01,19:30:00,False,Norwich,1.302403,52.62385,The Adrian Flux Waterfront,,Music,Rock,Pop
+G5vHZ_uE0qXsv,Victoria Wood's dinnerladies,2027-04-01,19:30:00,False,Blackpool,-3.051176,53.817123,Blackpool Opera House,,Arts & Theatre,Theatre,Comedy
+ZKr9uZKbZL4Ze39adZevd,Beetlejuice,2027-04-01,19:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+ZKr9uZKbZL4Ze8-4-Z7FK,Hadestown,2027-04-01,19:30:00,False,London,-0.133935,51.511248,Lyric Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4ZeCj6jZ6kK,Disney's The Lion King,2027-04-01,19:30:00,False,London,-0.120008,51.511718,Lyceum Theatre,2100,Arts & Theatre,Theatre,Musical
+1AdbZbUGkUPXpA8,Romesh Ranganathan - Will Change Your Life,2027-04-01,20:00:00,False,Cardiff,-3.171771,51.478931,Utilita Arena Cardiff,7500,Arts & Theatre,Comedy,Comedy
+ZKr9uZKbZL4ZeCNuaZF70,SIX The Musical,2027-04-01,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze83obZk1k,Magic Mike Live,2027-04-01,21:30:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
+17uOv0G65nXISci,Chessington World of Adventures - 1 Day Entry,2027-04-02,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
+1FuOv0OxbyZ7ueud,London Eye - Standard Experience,2027-04-02,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
+1kuYv0x8GAuiA2s,Blackpool Sandcastle Waterpark,2027-04-02,10:00:00,False,Blackpool,-3.05751757,53.79413438,Sandcastle Waterpark,,Miscellaneous,Family,Other
+17u8v0G6uDCRpA1,Come Alive! The Greatest Showman Circus Spectacular,2027-04-02,14:30:00,False,London,-0.19846932,51.48850056,Empress Museum,,Arts & Theatre,Theatre,Musical
+1AdfZbgGkDnLi9c,Beetlejuice,2027-04-02,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze39adZedj,Beetlejuice,2027-04-02,14:30:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+ZKr9uZKbZL4Ze39adZev7,Beetlejuice,2027-04-02,15:00:00,False,London,-0.130964,51.513763,Prince Edward Theatre,,Undefined,,
+LvZ18Q0VQwqBxjmu73kTg,Lawrence Chaney - Weight A Minute,2027-04-02,18:00:00,False,Carlisle,-2.938068,54.895779,"Brickyard, The",,Arts & Theatre,Performance Art,Drag
+17uOv0G65w-0UjO,Fisherman's Friends - Venue Premium Tickets,2027-04-02,18:30:00,False,York,-1.073629,53.95386,York Barbican,,Music,Folk,Indie Folk
+1AdfZ_eGkzrnheW,Mamma Mia! The Party,2027-04-02,18:30:00,False,London,0.005519,51.501581,The O2,20000,Arts & Theatre,Theatre,Musical
+17GOv0G61p84OL6,There Will Be Fireworks + M. John Henry,2027-04-02,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
+17u8v0G61wHbS8U,Sheffield International Concert Season 2026/27 - Taiwan Philharmonic,2027-04-02,19:00:00,False,Sheffield,-1.471079,53.38118,Sheffield City Hall Oval Hall,,Arts & Theatre,Classical,Symphonic
+17uOv0G653Ug9dc,Fisherman's Friends,2027-04-02,19:00:00,False,York,-1.073629,53.95386,York Barbican,,Music,Folk,Indie Folk
+17uOv0G655MnlZi,Disney Princess - The Concert,2027-04-02,19:00:00,False,Sunderland,-1.389419,54.906317,Sunderland Empire,,Arts & Theatre,Children's Theatre,Children's Theatre
+17uYv0G65lmsxX3,Matilda the Musical,2027-04-02,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+17uYv0G6G29TB2q,Harry Potter and the Cursed Child - One Part Show,2027-04-02,19:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
+1AMZk3oGkdqzM-E,The Lilacs,2027-04-02,19:00:00,False,Lincoln,-0.549251,53.228843,Engine Shed,,Music,Rock,Pop
+1AMZkofGkd8RaPG,Paddington the Musical,2027-04-02,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+1AdfZ_FGklZR5yg,Gabrielle - The Hits,2027-04-02,19:00:00,False,Bradford,-1.75669,53.7924,Bradford Live,,Music,Pop,Pop
+LvZ18QLEnvDSIkZZy1Y_I,There Will Be Fireworks + M. John Henry,2027-04-02,19:00:00,False,Glasgow,-4.23494336,55.85515215,Saint Luke's,,Music,Rock,Pop
+LvZ18QxhPvzwL8ZvO56ik,MARTIN STEPHENSON & THE DAINTEES,2027-04-02,19:00:00,False,Nottingham,-1.141971,52.955626,Metronome,,Music,Rock,Pop
+Z3r9uZKbZL4Zefer5Ze_,Billy Elliot the Musical,2027-04-02,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
+ZKr9uZKbZL4Ze83obZk16,Magic Mike Live,2027-04-02,19:00:00,False,London,-0.129629,51.511196,The Theatre at the Hippodrome Casino,,Arts & Theatre,Miscellaneous,Miscellaneous
 1AUZkFgGkdw-AO1,London Eye - Standard Experience,2027-05-05,10:00:00,False,London,-0.11735,51.500992,The London Eye,,Miscellaneous,Family,Other
 17uYv0G6G2LQnmS,Harry Potter and the Cursed Child - One Part Show,2027-05-05,13:00:00,False,London,-0.1297073,51.5131668,Palace Theatre,1743,Arts & Theatre,Theatre,Drama
 17uYv0G65lgwK5I,Matilda the Musical,2027-05-05,14:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
@@ -7105,3 +7085,20 @@ Z3r9uZKbZL4Zefer5ZA4,Billy Elliot the Musical,2027-07-02,19:00:00,False,London,-
 17uYv0G65i4OgxI,The Play That Goes Wrong,2027-07-02,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
 G5vHZ_1BSMkbA,MC Hammersmith - Ice Ice Nepo Baby,2027-07-02,19:30:00,False,Shrewsbury,-2.757633,52.710637,Walker Theatre,,Arts & Theatre,Comedy,Comedy
 ZKr9uZKbZL4ZeCNuaZFF1,SIX The Musical,2027-07-02,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+17uOv0G65lamfha,Chessington World of Adventures - 1 Day Entry,2027-07-03,10:00:00,False,Surrey,-0.31189,51.35503,Chessington World of Adventures,,Miscellaneous,Family,Other
+17uYv0G65l3pxA8,Matilda the Musical,2027-07-03,14:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AdjZ_FGkIAEAwv,Paddington the Musical,2027-07-03,14:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+Z3r9uZKbZL4Zefer5ZAp,Billy Elliot the Musical,2027-07-03,14:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
+17u8v0G6Ckxa2Lv,Victoria Wood's dinnerladies,2027-07-03,14:30:00,False,Leeds,-1.549725,53.796105,Leeds Grand Theatre,,Arts & Theatre,Theatre,Comedy
+17uYv0G65i4cAxW,The Play That Goes Wrong,2027-07-03,14:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+ZKr9uZKbZL4ZeCNuaZFF5,SIX The Musical,2027-07-03,16:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+17uYv0G65l3xwAV,Matilda the Musical,2027-07-03,19:00:00,False,London,-0.126407,51.51351,Cambridge Theatre,1227,Arts & Theatre,Theatre,Musical
+1AdjZ_FGkIAV4wS,Paddington the Musical,2027-07-03,19:00:00,False,London,-0.120813,51.510022,Savoy Theatre,,Arts & Theatre,Theatre,Musical
+LvZ18QxA4vDABkZZM3iOW,Re Verve & Ocean Cover Scene,2027-07-03,19:00:00,False,Southampton,-1.4004633,50.8989811,Southampton 1865,,Music,Rock,Rock
+Z3r9uZKbZL4Zefer5ZA9,Billy Elliot the Musical,2027-07-03,19:00:00,False,London,-0.122964,51.510676,Adelphi Theatre,,Arts & Theatre,Theatre,Musical
+17u8v0G6CkxaTLf,Victoria Wood's dinnerladies,2027-07-03,19:30:00,False,Leeds,-1.549725,53.796105,Leeds Grand Theatre,,Arts & Theatre,Theatre,Comedy
+17uYv0G65i4y4NP,The Play That Goes Wrong,2027-07-03,19:30:00,False,London,-0.119732,51.512118,Duchess Theatre,,Arts & Theatre,Theatre,Comedy
+17u8v0G6GOJeLIw,Ed Byrne: No Dramas,2027-07-03,20:00:00,False,London,-0.1302629,51.5945845,Alexandra Palace Theatre,,Arts & Theatre,Comedy,Comedy
+G5vHZ_5mCLKG9,MC Hammersmith - Ice Ice Nepo Baby,2027-07-03,20:00:00,False,Salford,-2.29681249,53.47109661,Quays Theatre - The Lowry,,Arts & Theatre,Comedy,Comedy
+ZKr9uZKbZL4ZeCNuaZFFG,SIX The Musical,2027-07-03,20:00:00,False,London,-0.12265,51.510546,Vaudeville Theatre,,Arts & Theatre,Theatre,Musical
+LvZ18QKl5vzMJ2YZ0nnyE,Red Hot Chili Peppers UK,2027-07-03,21:00:00,False,St Albans,-0.329006,51.750295,The Horn,,Music,Rock,Rock
