@@ -2,10 +2,8 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 from insights import create_top_20_cities
-from sunburst import plot_sunburst
 
 event_data = pd.read_csv('data/events.csv')
-city_list = event_data['area'].unique().tolist()
 
 col1, col2 = st.columns([1, 5])
 
@@ -14,28 +12,7 @@ with col1:
 
 with col2:
     st.title("UK Event Density Yearly Forecast")
-st.write('---')
 
-st.title("Find Events")
-
-area = st.selectbox(
-    "City",
-    sorted(city_list),
-    index=None,
-    placeholder="Start typing a city..."
-)
-
-start_date = st.date_input("Start date")
-end_date = st.date_input("End date")
-
-if st.button("See Events"):
-    fig, filtered, no_events = plot_sunburst(event_data,
-        area=area,
-        start_date=start_date,
-        end_date=end_date
-    )
-    st.plotly_chart(fig)
-    
 st.write('---')
 
 st.subheader('Top 20 Cities by Event Frequency (excluding London)')
