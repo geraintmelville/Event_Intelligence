@@ -10,6 +10,23 @@ can be passed in directly — no prior genre rollup step is needed.
 import pandas as pd
 import plotly.express as px
 
+# ---------------------------------------------------------------------------
+# Palette (from brief) — keeps sunburst colours consistent with the dashboard
+# ---------------------------------------------------------------------------
+PRIMARY   = '#1A3A8F'   # Deep navy blue
+SECONDARY = '#6B35C8'   # Mid purple
+ACCENT    = '#00B4C8'   # Teal/cyan
+DARK      = '#0D1F5C'   # Near-black navy
+LIGHT     = '#C8B8F0'   # Pale lavender
+
+SEGMENT_COLOUR_MAP = {
+    'Music':          PRIMARY,
+    'Sports':         SECONDARY,
+    'Arts & Theatre': ACCENT,
+    'Film':           DARK,
+    'Miscellaneous':  LIGHT,
+}
+
 
 def plot_sunburst(
     df: pd.DataFrame,
@@ -126,6 +143,8 @@ def plot_sunburst(
         path=[segment_col, genre_col, subgenre_col],
         values="event_count",
         title=title,
+        color=segment_col,
+        color_discrete_map=SEGMENT_COLOUR_MAP,
     )
     fig.update_traces(
         textinfo="label+value",

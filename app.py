@@ -34,6 +34,15 @@ NEUTRAL   = '#F4F4F6'
 
 PALETTE = [PRIMARY, SECONDARY, ACCENT, DARK, LIGHT]
 
+# Explicit segment → colour mapping (keeps map and sunburst in sync)
+SEGMENT_COLOUR_MAP = {
+    'Music':          PRIMARY,
+    'Sports':         SECONDARY,
+    'Arts & Theatre': ACCENT,
+    'Film':           DARK,
+    'Miscellaneous':  LIGHT,
+}
+
 # ---------------------------------------------------------------------------
 # Page config
 # ---------------------------------------------------------------------------
@@ -451,7 +460,7 @@ elif show_drilldown:
             hover_name='venue',
             hover_data={'date': True, 'segment': True, 'genre': True, 'name': True},
             color='segment',
-            color_discrete_sequence=PALETTE,
+            color_discrete_map=SEGMENT_COLOUR_MAP,
             zoom=zoom_level,
             height=600,
         )
@@ -564,7 +573,7 @@ else:
         hover_name='venue',
         hover_data={'date': True, 'segment': True, 'genre': True, 'name': True},
         color='segment',
-        color_discrete_sequence=PALETTE,
+        color_discrete_map=SEGMENT_COLOUR_MAP,
         zoom=5,
         height=600,
     )
