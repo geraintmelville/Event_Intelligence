@@ -10,10 +10,13 @@ Run with:  streamlit run app.py
 import streamlit as st
 import plotly.express as px
 import pandas as pd
+<<<<<<< Updated upstream
 import numpy as np
 
 from insights import create_top_20_cities
+=======
 from insights import create_top_20_areas
+>>>>>>> Stashed changes
 from sunburst import plot_sunburst
 from streamlit_plotly_events import plotly_events
 
@@ -36,18 +39,73 @@ NEUTRAL   = '#F4F4F6'
 
 PALETTE = [PRIMARY, SECONDARY, ACCENT, DARK, LIGHT]
 
+<<<<<<< Updated upstream
 # ---------------------------------------------------------------------------
 # Page config
 # ---------------------------------------------------------------------------
 st.set_page_config(
     page_title='UK Event Intelligence',
     page_icon='📊',
-    layout='wide')
-
-col1, col2 = st.columns([1, 1])
-
+    layout='wide',
+=======
 with col2:
     st.title("UK Event Density Yearly Forecast")
+st.write('---')
+
+# Sort smallest -> largest so largest appears at the top of a horizontal chart
+
+start_date, end_date = st.date_input(
+    "Select date range",
+    value=(event_data["date"].min(), event_data["date"].max())
+)
+event_data["date"] = pd.to_datetime(event_data["date"])
+
+event_data_trimmed = event_data[
+    (event_data["date"] >= pd.to_datetime(start_date)) &
+    (event_data["date"] <= pd.to_datetime(end_date))
+]
+
+
+westminster, top20 = create_top_20_areas(event_data_trimmed)
+
+top20 = top20.sort_values("nb_events", ascending=True).reset_index(drop=True)
+
+fig = px.bar(
+    top20,
+    x="nb_events",
+    y="area",
+    orientation="h",
+    category_orders={"area": top20["area"].tolist()}
+)
+
+event = st.plotly_chart(fig, on_select="rerun", key="top20_chart")
+
+if event and event.selection and event.selection.points:
+    st.session_state["selected_area"] = event.selection.points[0]["y"]
+
+if "selected_area" in st.session_state:
+    area = st.session_state["selected_area"]
+#    st.write(f"Showing sunburst for: {area}")
+
+    sunburst_fig, filtered, nb_events = plot_sunburst(
+        event_data,
+        area=area,
+        start_date=start_date,
+        end_date=end_date
+    )
+    st.plotly_chart(sunburst_fig)
+   
+st.write('---')
+st.title("Find Events")
+
+area = st.selectbox(
+    "City",
+    sorted(city_list),
+    index=None,
+    placeholder="Start typing a city..."
+>>>>>>> Stashed changes
+)
+
 # ---------------------------------------------------------------------------
 # Custom theme (CSS) — apply palette colours to Streamlit UI
 # ---------------------------------------------------------------------------
@@ -160,6 +218,13 @@ def load_data() -> pd.DataFrame:
     df['city'] = df['city'].apply(
         lambda c: c.strip().split(',')[0].strip().title()
         if isinstance(c, str) else c
+=======
+if st.button("See Events"):
+    fig, filtered, nb_events = plot_sunburst(event_data,
+        area=area,
+        start_date=start_date,
+        end_date=end_date
+>>>>>>> Stashed changes
     )
     # Derive 'area' column expected by sunburst.py
     is_london = df['city'].str.strip().str.lower() == 'london'
@@ -200,12 +265,13 @@ ov_col1, ov_col2, ov_col3, ov_col4 = st.columns(4)
 with ov_col1:
     st.metric('Total Events', f'{total_events:,}')
 with ov_col2:
-    st.metric('London Events', f'{london_events:,}', f'{london_pct}% of total', delta_color='off')
+    st.metric('London Events', f'{london_events:,}', f'{london_pct}% of total', delta_arrow='off')
 with ov_col3:
     st.metric('Unique Venues', f'{total_venues:,}')
 with ov_col4:
     st.metric('Cities Covered', f'{total_cities:,}')
-
+    
+<<<<<<< Updated upstream
 st.write('---')
 
 # ===========================================================================
@@ -213,6 +279,8 @@ st.write('---')
 # ===========================================================================
 
 sec2_col1, sec2_col2 = st.columns(2)
+=======
+>>>>>>> Stashed changes
 
 with sec2_col1:
     st.subheader('Top 20 Cities by Event Frequency')
