@@ -19,6 +19,23 @@ ACCENT    = '#00B4C8'   # Teal/cyan
 DARK      = '#0D1F5C'   # Near-black navy
 LIGHT     = '#C8B8F0'   # Pale lavender
 
+# Genre colour sequence — harmonious with the segment palette (same blue/purple/teal
+# hue family, shifted to lighter tones and mid-saturations for visual distinction).
+GENRE_COLOURS = [
+    '#2E5CB8',   # Medium blue (lighter than PRIMARY navy)
+    '#8B5CF6',   # Soft violet (lighter than SECONDARY purple)
+    '#22D3EE',   # Light cyan (brighter than ACCENT teal)
+    '#3B4F8A',   # Slate blue (between PRIMARY and DARK)
+    '#A78BFA',   # Lilac (warm purple, lighter than SECONDARY)
+    '#0891B2',   # Deep teal (darker variant of ACCENT)
+    '#6366F1',   # Indigo (midpoint between navy and purple)
+    '#7DD3FC',   # Pale sky blue (airy complement)
+    '#4338CA',   # Royal indigo (rich, distinct from navy)
+    '#DDD6FE',   # Very light lavender (for smaller slices)
+    '#155E75',   # Dark teal (grounding tone)
+    '#818CF8',   # Periwinkle
+]
+
 SEGMENT_COLOUR_MAP = {
     'Music':          PRIMARY,
     'Sports':         SECONDARY,
@@ -138,14 +155,28 @@ def plot_sunburst(
         counts, segment_col, genre_col, subgenre_col, min_slice_share
     )
 
-    fig = px.sunburst(
-        counts,
-        path=[segment_col, genre_col, subgenre_col],
-        values="event_count",
-        title=title,
-        color=segment_col,
-        color_discrete_map=SEGMENT_COLOUR_MAP,
-    )
+    # When a single segment is showing, colour by genre so slices are
+    # visually distinct. When multiple segments are present, colour by
+    # segment using the fixed palette map.
+    unique_segments = counts[segment_col].nunique()
+    if unique_segments == 1:
+        fig = px.sunburst(
+            counts,
+            path=[segment_col, genre_col, subgenre_col],
+            values="event_count",
+            title=title,
+            color=genre_col,
+            color_discrete_sequence=GENRE_COLOURS,
+        )
+    else:
+        fig = px.sunburst(
+            counts,
+            path=[segment_col, genre_col, subgenre_col],
+            values="event_count",
+            title=title,
+            color=segment_col,
+            color_discrete_map=SEGMENT_COLOUR_MAP,
+        )
     fig.update_traces(
         textinfo="label+value",
         hovertemplate="<b>%{label}</b><br>Events: %{value}<extra></extra>",
