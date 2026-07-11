@@ -298,12 +298,11 @@ with filter_col3:
         value=(min_date, max_date),
         min_value=min_date,
         max_value=max_date,
-        key='map_filter_date_range',
     )
 
 with filter_col4:
     cities = sorted(event_data['city'].dropna().unique())
-    selected_city = st.selectbox('City', ['All'] + cities, key='map_filter_city')
+    selected_city = st.selectbox('City', ['All'] + cities)
 
 # --- Borough filter (London only) ---
 selected_borough = 'All'
@@ -418,8 +417,7 @@ st.divider()
 
 start_date, end_date = st.date_input(
     "Select date range",
-    value=(event_data["date"].min(), event_data["date"].max()),
-    key='top20_areas_date_range',
+    value=(event_data["date"].min(), event_data["date"].max())
 )
 event_data["date"] = pd.to_datetime(event_data["date"])
 
@@ -463,25 +461,24 @@ st.write('===')
 st.title("Search Events")
  
 cities = sorted(event_data["area"].dropna().unique())
-city = st.selectbox("City", cities, key='search_events_city')
+city = st.selectbox("City", cities)
  
 min_date1 = event_data["date"].min().date()
 max_date1 = event_data["date"].max().date()
  
 date_range1 = st.date_input(
     "Date range",
-    value=(min_date1, max_date1),
+    value=(min_date, max_date),
     min_value=min_date1,
     max_value=max_date1,
-    key='search_events_date_range',
 )
  
 # date_input returns a single date until the user picks the second one —
 # guard against that so the app doesn't error mid-selection.
 if isinstance(date_range1, tuple) and len(date_range1) == 2:
-    start_date1, end_date1 = date_range1
+    start_date, end_date = date_range
  
-    fig, filtered, nb_events = plot_sunburst(event_data, city, start_date1, end_date1)
+    fig = plot_genre_sunburst(event_data, city, start_date, end_date)
  
     if fig is None:
         st.warning("No events match that city and date range.")
@@ -489,3 +486,4 @@ if isinstance(date_range1, tuple) and len(date_range1) == 2:
         st.plotly_chart(fig, use_container_width=True)
 else:
     st.info("Select both a start and end date.")
+ 
