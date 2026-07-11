@@ -10,8 +10,7 @@ boroughs = gpd.read_file(
     "https://raw.githubusercontent.com/radoi90/housequest-data/master/london_boroughs.geojson"
 )[["name", "geometry"]].rename(columns={"name": "borough"})
 
-# 2. Convert your events df into a GeoDataFrame
-#    (swap 'latitude'/'longitude' for your actual column names)
+# 2. Convert events df into a GeoDataFrame
 events_gdf = gpd.GeoDataFrame(
     events_df,
     geometry=[Point(xy) for xy in zip(events_df["longitude"], events_df["latitude"])],
@@ -23,7 +22,7 @@ events_gdf = gpd.sjoin(events_gdf, boroughs, how="left", predicate="within")
 events_gdf = events_gdf.drop(columns="index_right")
 
 # 4. New 'area' column: borough if it's a London event, otherwise the original city
-#    Adjust the city string(s) below to match however "London" appears in your data
+#    Adjust the city string(s) below to match however "London" appears in the data
 is_london = events_gdf["city"].str.strip().str.lower() == "london"
 
 events_gdf["area"] = events_gdf["city"]
@@ -37,7 +36,7 @@ print(f"{len(unmatched_london)} London events did not match a borough and were d
 
 print(events_gdf["area"].value_counts().head(10))
 
-# 6. Export to CSV (drop geometry + borough helper column; area has everything you need)
+# 6. Export to CSV (drop geometry + borough helper column)
 events_gdf.drop(columns=["geometry", "borough"]).to_csv(
     "data/events.csv", index=False
 )
