@@ -99,30 +99,60 @@ with ov_col4:
 st.write('---')
 
 # ===========================================================================
-# SECTION 2: Top 20 Cities Bar Chart
+# SECTION 2: Top 20 Cities + Monthly Volume (side by side)
 # ===========================================================================
 
-st.subheader('Top 20 Cities by Event Frequency')
-st.caption('London excluded — it accounts for the majority of activity and is analysed separately below.')
+sec2_col1, sec2_col2 = st.columns(2)
 
-_, _, top_20_df = create_top_20_cities(event_data)
+with sec2_col1:
+    st.subheader('Top 20 Cities by Event Frequency')
+    st.caption('London excluded — it accounts for the majority of activity and is analysed separately below.')
+    _, _, top_20_df = create_top_20_cities(event_data)
 
-fig_bar = px.bar(
-    top_20_df,
-    x='nb_events',
-    y='city',
-    orientation='h',
-    color_discrete_sequence=[PRIMARY],
-    labels={'nb_events': 'Number of Events', 'city': ''},
-)
-fig_bar.update_layout(
-    plot_bgcolor=NEUTRAL,
-    paper_bgcolor=NEUTRAL,
-    yaxis=dict(categoryorder='total ascending'),
-    margin=dict(l=10, r=10, t=10, b=10),
-    height=500,
-)
-st.plotly_chart(fig_bar, use_container_width=True)
+    fig_bar = px.bar(
+        top_20_df,
+        x='nb_events',
+        y='city',
+        orientation='h',
+        color_discrete_sequence=[PRIMARY],
+        labels={'nb_events': 'Number of Events', 'city': ''},
+    )
+    fig_bar.update_layout(
+        plot_bgcolor=NEUTRAL,
+        paper_bgcolor=NEUTRAL,
+        yaxis=dict(categoryorder='total ascending'),
+        margin=dict(l=10, r=10, t=10, b=10),
+        height=500,
+    )
+    st.plotly_chart(fig_bar, use_container_width=True)
+
+with sec2_col2:
+    st.subheader('When Does Event Activity Peak?')
+    st.caption('Monthly event volume by segment')
+    monthly = event_data.copy()
+    monthly['month'] = monthly['date'].dt.to_period('M').astype(str)
+    monthly_counts = (
+        monthly.groupby(['month', 'segment'])
+        .size()
+        .reset_index(name='events')
+    )
+    fig_monthly = px.bar(
+        monthly_counts,
+        x='month',
+        y='events',
+        color='segment',
+        color_discrete_sequence=PALETTE,
+        labels={'month': '', 'events': 'Events', 'segment': 'Segment'},
+    )
+    fig_monthly.update_layout(
+        plot_bgcolor=NEUTRAL,
+        paper_bgcolor=NEUTRAL,
+        margin=dict(l=10, r=10, t=10, b=10),
+        height=500,
+        xaxis_tickangle=-45,
+        legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='right', x=1),
+    )
+    st.plotly_chart(fig_monthly, use_container_width=True)
 
 st.divider()
 
@@ -164,6 +194,15 @@ with filter_col4:
     cities = sorted(event_data['city'].dropna().unique())
     selected_city = st.selectbox('City', ['All'] + cities)
 
+# --- Borough filter (London only) ---
+selected_borough = 'All'
+if selected_city and selected_city.strip().lower() == 'london':
+    london_boroughs = sorted(
+        event_data[event_data['city'].str.strip().str.lower() == 'london']['london_borough']
+        .dropna().unique()
+    )
+    selected_borough = st.selectbox('Borough', ['All'] + london_boroughs)
+
 # --- Apply filters ---
 filtered = event_data.copy()
 
@@ -179,6 +218,8 @@ if isinstance(date_range, tuple) and len(date_range) == 2:
     ]
 if selected_city != 'All':
     filtered = filtered[filtered['city'] == selected_city]
+if selected_borough != 'All':
+    filtered = filtered[filtered['london_borough'] == selected_borough]
 
 # --- Map + optional city drill-down side-by-side ---
 map_data = filtered.dropna(subset=['latitude', 'longitude'])
@@ -264,62 +305,4 @@ else:
 
 st.divider()
 
-# ===========================================================================
-# SECTION 4: Temporal Patterns
-# ===========================================================================
 
-st.subheader('When Does Event Activity Peak?')
-
-temp_col1, temp_col2 = st.columns(2)
-
-with temp_col1:
-    st.caption('Monthly event volume by segment')
-    monthly = event_data.copy()
-    monthly['month'] = monthly['date'].dt.to_period('M').astype(str)
-    monthly_counts = (
-        monthly.groupby(['month', 'segment'])
-        .size()
-        .reset_index(name='events')
-    )
-    fig_monthly = px.bar(
-        monthly_counts,
-        x='month',
-        y='events',
-        color='segment',
-        color_discrete_sequence=PALETTE,
-        labels={'month': '', 'events': 'Events', 'segment': 'Segment'},
-    )
-    fig_monthly.update_layout(
-        plot_bgcolor=NEUTRAL,
-        paper_bgcolor=NEUTRAL,
-        margin=dict(l=10, r=10, t=10, b=10),
-        height=350,
-        xaxis_tickangle=-45,
-        legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='right', x=1),
-    )
-    st.plotly_chart(fig_monthly, use_container_width=True)
-
-with temp_col2:
-    st.caption('Day-of-week distribution')
-    dow = event_data.copy()
-    dow['day_of_week'] = dow['date'].dt.day_name()
-    dow_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-    dow_counts = dow['day_of_week'].value_counts().reindex(dow_order).reset_index()
-    dow_counts.columns = ['day', 'events']
-
-    fig_dow = px.bar(
-        dow_counts,
-        x='day',
-        y='events',
-        color_discrete_sequence=[ACCENT],
-        labels={'day': '', 'events': 'Events'},
-    )
-    fig_dow.update_layout(
-        plot_bgcolor=NEUTRAL,
-        paper_bgcolor=NEUTRAL,
-        margin=dict(l=10, r=10, t=10, b=10),
-        height=350,
-    )
-    st.plotly_chart(fig_dow, use_container_width=True)
-
-st.divider()
