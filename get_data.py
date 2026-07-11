@@ -17,11 +17,13 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+import geopandas as gpd
 import numpy as np
 import pandas as pd
 import requests
 from dotenv import load_dotenv
 from pydantic import ValidationError
+from shapely.geometry import Point
 
 from models import EventRecord
 
@@ -35,7 +37,7 @@ API_KEY  = os.getenv('API_KEY')
 BASE_URL = 'https://app.ticketmaster.com/discovery/v2/events.json'
 
 PAGE_SIZE     = 200   # Ticketmaster max per page
-MAX_PAGES     = 11    # per date window (200 × 11 = 2,200 events per window)
+MAX_PAGES     = 10    # per date window (200 × 10 = 2,000 events per window)
 REQUEST_DELAY = 0.25  # seconds between Ticketmaster page requests
 
 DATA_DIR    = Path('data')
@@ -90,6 +92,7 @@ VENUE_CAPACITY_TABLE: dict[str, int] = {
     # --- Major outdoor stadiums ---
     "Wembley Stadium":                   90000,
     "Twickenham Stadium":                82000,
+    "Allianz Stadium, Twickenham":       82000,  # sponsorship rename
     "Old Trafford":                      74197,  # Manchester United
     "Principality Stadium":              73931,  # Cardiff
     "Murrayfield Stadium":               67144,  # Edinburgh
@@ -132,6 +135,31 @@ VENUE_CAPACITY_TABLE: dict[str, int] = {
     "Gielgud Theatre":                     986,
     "Wyndham's Theatre":                   759,
     "Noel Coward Theatre":                 942,
+
+    # --- Additional theatres & music venues (found via CSV audit) ---
+    "Vaudeville Theatre":                  690,
+    "The Theatre at the Hippodrome Casino": 180,
+    "Duchess Theatre":                     494,
+    "Lyric Theatre":                       967,
+    "Savoy Theatre":                      1158,
+    "Adelphi Theatre":                    1500,
+    "Aldwych Theatre":                    1200,
+    "Prince Edward Theatre":              1618,
+    "Duke of Yorks Theatre":               640,
+    "ABBA Arena":                         3000,
+    "Sondheim Theatre":                   1075,
+    "Novello Theatre":                    1146,
+    "Victoria Palace Theatre":            1550,
+    "Garrick Theatre":                     718,
+    "Apollo Theatre":                      775,
+    "Theatre Royal Haymarket":             888,
+    "Jazz Cafe":                           440,
+    "Liverpool Empire Theatre":           2350,
+    "The Harold Pinter Theatre":           895,
+    "Bridge Theatre":                      900,
+    "York Barbican":                      1500,
+    "NEC":                               15685,  # same complex as bp pulse LIVE
+    "Sheffield City Hall Oval Hall":       850
 }
 
 # Persists for the duration of the pipeline run so each unique venue
@@ -216,7 +244,11 @@ def fetch_events(
             data = response.json()
 
         except requests.exceptions.HTTPError as err:
-            print(f'  HTTP error on page {page}: {err}')
+            # 400 on a page > 0 typically means we've gone past available results
+            if response.status_code == 400 and page > 0:
+                print(f'  No more pages available (stopped at page {page})')
+            else:
+                print(f'  HTTP error on page {page}: {err}')
             break
         except requests.exceptions.RequestException as err:
             print(f'  Request error on page {page}: {err}')
@@ -358,9 +390,37 @@ def write_csv(records: list[dict]) -> None:
 # clean_events_data
 # ---------------------------------------------------------------------------
 
+# Ticketed attractions / museums / theme parks — not live performance events.
+# These inflate event counts due to time-slotted ticketing and are not relevant
+# for brand campaign sponsorship around live events.
+EXCLUDED_VENUES: set[str] = {
+    "Twist Museum",
+    "Marble Arch Place",
+    "Neon at Battersea Power Station",
+    "County Hall",
+    "The London Eye",
+    "The London Dungeon",
+    "Chessington World of Adventures",
+    "Thorpe Park",
+    "Alton Towers",
+    "Legoland Windsor",
+    "Warwick Castle",
+    "Sandcastle Waterpark",
+    "Madame Tussauds London",
+    "Madame Tussauds Blackpool",
+    "SEA LIFE Brighton",
+    "SEA LIFE Blackpool",
+    "SEA LIFE Manchester",
+    "National SEA LIFE Centre Birmingham",
+    "Empress Museum",
+    "The Arts at Marble Arch",
+}
+
+
 def clean_events_data(data: pd.DataFrame) -> pd.DataFrame:
     """
     Apply row-level cleaning to the raw events DataFrame:
+      - Remove ticketed attractions/museums/theme parks (not live events)
       - Drop events with longitude > 2 or latitude < 50 (non-UK coordinates)
       - Replace 'Undefined' segment values with NaN, then drop those rows
       - Drop rows with a null time
@@ -373,6 +433,9 @@ def clean_events_data(data: pd.DataFrame) -> pd.DataFrame:
         Cleaned DataFrame with invalid rows removed.
     """
     clean = data.copy()
+
+    # Remove ticketed attractions
+    clean = clean[~clean['venue'].isin(EXCLUDED_VENUES)]
 
     # Identify rows with coordinates outside the UK bounding box
     bad_coords = clean[clean['longitude'] > 2].index
@@ -412,6 +475,74 @@ def correct_types(data: pd.DataFrame) -> pd.DataFrame:
     out['segment']   = out['segment'].astype('category')
     out['genre']     = out['genre'].astype('category')
     out['sub_genre'] = out['sub_genre'].astype('category')
+    return out
+
+
+# ---------------------------------------------------------------------------
+# add_london_borough
+# ---------------------------------------------------------------------------
+
+BOROUGH_GEOJSON_URL = (
+    "https://raw.githubusercontent.com/radoi90/housequest-data/master/london_boroughs.geojson"
+)
+
+
+def add_london_borough(data: pd.DataFrame) -> pd.DataFrame:
+    """
+    Adds a 'london_borough' column to the events DataFrame.
+
+    For events whose city is 'London', a spatial join against the GLA borough
+    boundaries is used to identify the specific borough based on the event's
+    longitude/latitude. Events that fall outside all borough polygons (e.g. on
+    the GLA boundary) are dropped and a count is printed.
+
+    For all non-London events the column value is 'N/A'.
+
+    Args:
+        data: Cleaned, type-corrected events DataFrame containing 'city',
+              'longitude', and 'latitude' columns.
+
+    Returns:
+        DataFrame with a new 'london_borough' column.
+    """
+    out = data.copy()
+    out['london_borough'] = 'N/A'
+
+    is_london = out['city'].str.strip().str.lower() == 'london'
+
+    if not is_london.any():
+        return out
+
+    # Load borough boundaries (WGS84)
+    boroughs = gpd.read_file(BOROUGH_GEOJSON_URL)[['name', 'geometry']].rename(
+        columns={'name': 'borough'}
+    )
+
+    # Build a GeoDataFrame from the London subset only
+    london = out[is_london].copy()
+    london_gdf = gpd.GeoDataFrame(
+        london,
+        geometry=[Point(xy) for xy in zip(london['longitude'], london['latitude'])],
+        crs='EPSG:4326',
+    )
+
+    # Spatial join: attach borough to each London event
+    joined = gpd.sjoin(london_gdf, boroughs, how='left', predicate='within')
+    joined = joined.drop(columns='index_right')
+
+    # Report and drop London events that didn't fall within any borough polygon
+    unmatched = joined[joined['borough'].isna()]
+    if not unmatched.empty:
+        print(
+            f'{len(unmatched)} London event(s) did not match a borough '
+            f'and were dropped'
+        )
+        joined = joined.drop(index=unmatched.index)
+
+    # Write borough names back into the main DataFrame
+    out = out.drop(index=unmatched.index)
+    out.loc[joined.index, 'london_borough'] = joined['borough']
+
     return out
 
 
@@ -466,6 +597,7 @@ def run_pipeline(fetch_capacity: bool = True) -> None:
     events = pd.read_csv(OUTPUT_FILE)
     events = clean_events_data(events)
     events = correct_types(events)
+    events = add_london_borough(events)
     events.to_csv(OUTPUT_FILE, index=False)
     print(f'Cleaned dataset: {len(events)} records written to {OUTPUT_FILE}')
 
