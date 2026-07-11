@@ -150,6 +150,11 @@ st.markdown(f"""
 def load_data() -> pd.DataFrame:
     df = pd.read_csv('data/events.csv')
     df['date'] = pd.to_datetime(df['date'])
+    # Normalise city names (strip whitespace, remove postcodes, title-case)
+    df['city'] = df['city'].apply(
+        lambda c: c.strip().split(',')[0].strip().title()
+        if isinstance(c, str) else c
+    )
     # Derive 'area' column expected by sunburst.py
     is_london = df['city'].str.strip().str.lower() == 'london'
     df['area'] = df['city']

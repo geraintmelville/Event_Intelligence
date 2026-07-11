@@ -417,9 +417,35 @@ EXCLUDED_VENUES: set[str] = {
 }
 
 
+def normalise_city(city: str) -> str:
+    """
+    Standardise a city name returned by the Ticketmaster API.
+
+    Handles:
+      - Leading/trailing whitespace
+      - Postcodes appended after a comma (e.g. "Newcastle upon Tyne, NE1 2PQ")
+      - Inconsistent title-casing (e.g. "Upon" vs "upon")
+
+    Args:
+        city: Raw city name string.
+
+    Returns:
+        Cleaned, title-cased city name.
+    """
+    if not isinstance(city, str):
+        return city
+    # Strip whitespace and remove anything after a comma (postcodes)
+    city = city.strip()
+    if ',' in city:
+        city = city.split(',')[0].strip()
+    # Apply consistent title case
+    return city.title()
+
+
 def clean_events_data(data: pd.DataFrame) -> pd.DataFrame:
     """
     Apply row-level cleaning to the raw events DataFrame:
+      - Normalise city names (strip whitespace, remove postcodes, title-case)
       - Remove ticketed attractions/museums/theme parks (not live events)
       - Drop events with longitude > 2 or latitude < 50 (non-UK coordinates)
       - Replace 'Undefined' segment values with NaN, then drop those rows
@@ -433,6 +459,9 @@ def clean_events_data(data: pd.DataFrame) -> pd.DataFrame:
         Cleaned DataFrame with invalid rows removed.
     """
     clean = data.copy()
+
+    # Normalise city names (whitespace, postcodes, casing)
+    clean['city'] = clean['city'].apply(normalise_city)
 
     # Remove ticketed attractions
     clean = clean[~clean['venue'].isin(EXCLUDED_VENUES)]
