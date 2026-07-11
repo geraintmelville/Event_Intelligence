@@ -44,6 +44,105 @@ st.set_page_config(
 )
 
 # ---------------------------------------------------------------------------
+# Custom theme (CSS) — apply palette colours to Streamlit UI
+# ---------------------------------------------------------------------------
+st.markdown(f"""
+<style>
+    /* --- Page background --- */
+    .stApp {{
+        background-color: {NEUTRAL};
+    }}
+
+    /* --- Sidebar --- */
+    [data-testid="stSidebar"] {{
+        background-color: {DARK};
+    }}
+    [data-testid="stSidebar"] * {{
+        color: {NEUTRAL} !important;
+    }}
+
+    /* --- Headers --- */
+    h1 {{
+        color: {PRIMARY} !important;
+    }}
+    h2, h3, [data-testid="stSubheader"] {{
+        color: {DARK} !important;
+    }}
+
+    /* --- Metric cards --- */
+    [data-testid="stMetric"] {{
+        background-color: white;
+        border: 1px solid {LIGHT};
+        border-radius: 8px;
+        padding: 12px 16px;
+        box-shadow: 0 1px 4px rgba(13, 31, 92, 0.08);
+    }}
+    [data-testid="stMetricLabel"] {{
+        color: {SECONDARY} !important;
+        font-weight: 600;
+    }}
+    [data-testid="stMetricValue"] {{
+        color: {PRIMARY} !important;
+        font-weight: 700;
+    }}
+    [data-testid="stMetricDelta"] {{
+        color: {ACCENT} !important;
+    }}
+
+    /* --- Buttons --- */
+    .stButton > button {{
+        background-color: {PRIMARY};
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-weight: 600;
+        transition: background-color 0.2s;
+    }}
+    .stButton > button:hover {{
+        background-color: {SECONDARY};
+        color: white;
+    }}
+
+    /* --- Selectboxes & inputs --- */
+    [data-testid="stSelectbox"] label,
+    [data-testid="stDateInput"] label {{
+        color: {DARK} !important;
+        font-weight: 600;
+    }}
+    .stSelectbox > div > div {{
+        border-color: {LIGHT};
+        border-radius: 6px;
+    }}
+
+    /* --- Dividers --- */
+    hr {{
+        border-color: {LIGHT} !important;
+    }}
+
+    /* --- Captions --- */
+    .stCaption, [data-testid="stCaption"] {{
+        color: {SECONDARY} !important;
+    }}
+
+    /* --- Tabs (if used) --- */
+    .stTabs [data-baseweb="tab"] {{
+        color: {DARK};
+        font-weight: 600;
+    }}
+    .stTabs [aria-selected="true"] {{
+        color: {PRIMARY} !important;
+        border-bottom-color: {ACCENT} !important;
+    }}
+
+    /* --- Warning / info boxes --- */
+    [data-testid="stAlert"] {{
+        border-left-color: {ACCENT};
+        background-color: white;
+    }}
+</style>
+""", unsafe_allow_html=True)
+
+# ---------------------------------------------------------------------------
 # Load & prepare data
 # ---------------------------------------------------------------------------
 
