@@ -283,6 +283,8 @@ with sec2_col2:
         .size()
         .reset_index(name='events')
     )
+    # Remove partial months at edges of the data window
+    monthly_totals = monthly_totals[~monthly_totals['month'].isin(['2026-06', '2027-07'])]
     fig_monthly = px.bar(
         monthly_totals,
         x='month',

@@ -7,8 +7,7 @@ Pydantic, and writes a clean CSV to data/events.csv.
 
 Usage
 -----
-    python ingest.py               # full run with capacity lookups
-    python ingest.py --no-capacity # skip capacity lookups
+    python get_data.py
 """
 
 import csv
@@ -575,16 +574,13 @@ def add_london_borough(data: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-def run_pipeline(fetch_capacity: bool = True) -> None:
+def run_pipeline() -> None:
     """
     Orchestrate the full ingestion pipeline:
       1. Build date windows across the next 12 months
       2. For each window, fetch events and filter out already-seen IDs
       3. Flatten, enrich with venue capacity, and validate each event
       4. Write the final CSV once all windows are processed
-
-    Args:
-        fetch_capacity: Set to False to skip capacity lookups.
     """
     DATA_DIR.mkdir(exist_ok=True)
 
@@ -604,7 +600,7 @@ def run_pipeline(fetch_capacity: bool = True) -> None:
         for raw in raw_events:
             flat = flatten_event(raw)
 
-            if fetch_capacity and flat.get('venue'):
+            if flat.get('venue'):
                 flat['capacity'] = get_venue_capacity(flat['venue'])
 
             record = validate_event(flat)
@@ -633,20 +629,7 @@ def run_pipeline(fetch_capacity: bool = True) -> None:
 
 # -----------------------------------------------------------------------------------
 # CLI Entry point
-#
-#   python ingest.py                  full run with capacity lookups
-#   python ingest.py --no-capacity    full run, skip capacity lookups
 # -----------------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    import argparse
-
-    parser = argparse.ArgumentParser(description='UK Events Ingestion Pipeline')
-    parser.add_argument(
-        '--no-capacity',
-        action='store_true',
-        help='Skip Wikidata capacity lookups (faster test run)',
-    )
-    args = parser.parse_args()
-
-    run_pipeline(fetch_capacity=not args.no_capacity)
+    run_pipeline()
