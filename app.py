@@ -155,7 +155,7 @@ st.markdown(f"""
 # Load & prepare data
 # ---------------------------------------------------------------------------
 
-@st.cache_data
+@st.cache_data(ttl=60)  # re-read CSV if older than 60 seconds
 def load_data() -> pd.DataFrame:
     df = pd.read_csv('data/events.csv')
     df['date'] = pd.to_datetime(df['date'])

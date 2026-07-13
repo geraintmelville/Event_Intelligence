@@ -1,0 +1,292 @@
+city,month,event_id,name,latitude,longitude,nearby_count
+London,2027-01,ZKr9uZKbZL4Ze83obZk61,Magic Mike Live,51.511196,-0.129629,237
+London,2027-03,17uYv0G65RHMVLa,The Play That Goes Wrong,51.512118,-0.119732,191
+London,2027-05,ZKr9uZKbZL4ZeCNuaZFk3,SIX The Musical,51.510546,-0.12265,141
+London,2027-06,Z3r9uZKbZL4Zefer5ZA6,Billy Elliot the Musical,51.510676,-0.122964,139
+Newcastle Upon Tyne,2026-07,LvZ18QQvI0_GeBZZv3vXh,Newcastle Beyond Van Gogh,54.963809,-1.623338,45
+Birmingham,2026-07,LvZ18Qo9WPCnjSZZvTs9t,Gladiators Experience,52.453266,-1.717158,35
+Derby,2027-06,17uOv0G6G8bp7Mv,Download 2027 - RIP Tipi Lodge for 2 in Metal Meadow 2,52.828337,-1.372481,29
+London,2027-07,Z3r9uZKbZL4Zefer5ZAp,Billy Elliot the Musical,51.510676,-0.122964,17
+St Andrews,2026-09,LvZ18QKADMbMQ08Zv2EZR,Guided Walks of the Old Course,56.345632,-2.808659,17
+Liverpool,2027-01,17uOv0G6G97XBSy,Back to the Future The Musical,53.40891,-2.978335,14
+Glasgow,2027-01,1AdbZ_aGkMMdg5n,Venue Premium - Five Finger Death Punch,55.86087,-4.288154,13
+Glasgow,2027-03,1AdbZ_7GkY8rDl3,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,55.865017,-4.25576,13
+St Andrews,2026-07,LvZ18QKADMbMQ08Zv2JWB,Guided Walks of the Old Course,56.345632,-2.808659,13
+Northampton,2027-06,G5vHZ_uJOvrFN,Victoria Wood's dinnerladies,52.236412,-0.894129,12
+London,2027-04,17uYv0G65ivr7Jd,The Play That Goes Wrong,51.512118,-0.119732,12
+York,2027-03,17uOv0G61D-CUuD,Rick Wakeman - The Wizard of Prog: Ultimate Highlights Concert Tour,53.95386,-1.073629,11
+Bristol,2026-11,G5dzZ_GCQPf93,Wasia Project,51.454142,-2.600849,11
+Brighton,2027-03,G5vHZ_kpYxfeq,Kim Wilde - The Singles Tour,50.823717,-0.139088,10
+Brighton,2026-11,LvZ18QbocIjOBm8Zy-fq2,REPUBLICA,50.820167,-0.138704,9
+Milton Keynes,2027-03,17uYv0G6Ck8bkus,Victoria Wood's dinnerladies,52.043983,-0.748785,9
+Manchester,2026-11,G5vHZ_5n0LSWs,Goldie Boutilier,53.473982,-2.243351,9
+Leeds,2027-03,LvZ18QLwQhhTxSYvqChIB,Si Cranstoun,53.809656,-1.570275,8
+Stockton-on-Tees,2027-03,G5vHZ_CCEcn52,Victoria Wood's dinnerladies,54.564621,-1.31304,8
+Bournemouth,2027-05,G5vHZ_uJ3xGrp,Victoria Wood's dinnerladies,50.717544,-1.875166,8
+Brighton,2026-09,LvZ18Q_hWi7WSs8ZlhvSk,KURT VILE & THE VIOLATORS,50.820167,-0.138704,8
+Guildford,2027-06,17uYv0G6uNkdhRe,Victoria Wood's dinnerladies,51.239469,-0.564917,8
+Salford,2027-01,G5vHZ_GpKQAQs,Dynamo,53.47109661,-2.29681249,8
+York,2027-05,1AdbZ_aGkRCLUbJ,Count Arthur Strong - And it's Goodnight from Me!,53.95386,-1.073629,7
+Halifax,2026-07,1AgZku8GkdPWhJS,Billy Ocean- Official Ticket and Hotel Bundls,53.721432,-1.85657,7
+Glasgow,2026-09,1AUZkoYGkegUdXq,Laura Silverstone + Support,55.864584,-4.299682,7
+Sheffield,2027-03,1AgZkoyGkemhJvH,Andrew Bird - On Edge,53.38118,-1.471079,7
+Stoke-On-Trent,2027-06,1AdjZ_aGkVGUaLH,Victoria Wood's dinnerladies,53.024681,-2.177062,7
+Sheffield,2026-09,1AdfZ_6GklTTavG,The Prat Pack's Back,53.38118,-1.471079,7
+Eastbourne,2027-03,G5vHZ_uNzKU66,Victoria Wood's dinnerladies,50.762672,0.284256,7
+Truro,2027-05,G5vHZ_uDD7QVV,Victoria Wood's dinnerladies,50.262505,-5.049819,7
+Torquay,2027-05,17uOv0G6CCc7yd5,Victoria Wood's dinnerladies,50.461348,-3.530138,7
+Brighton,2026-07,G5dzZbn6hC3Ge,Bluey's Big Play,50.82153,-0.146331,7
+Leeds,2026-09,17u8vxG6G3OEoJB,Operation Mincemeat: A New Musical,53.796105,-1.549725,7
+Glasgow,2026-07,LvZ18Q0aQb9cPmkwhe06p,Summer Ceilidh,55.87738,-4.289157,7
+Manchester,2027-03,G5vHZ_GlfplsR,Lloyds National Track Championships 2027 - Session 8,53.4864,-2.196855,7
+Glasgow,2026-11,17uOv0G61xo83QZ,Erra & Currents,55.863711,-4.298214,7
+Dunfermline,2027-03,1AdbZ_aGkYgxu6E,Jason Fox: Embrace The Chaos,56.069812,-3.45799,7
+Sheffield,2026-11,1AdfZbgGkmvVwf8,Adam Rowe: Fashionism,53.38118,-1.471079,6
+Cardiff,2026-07,G5vHZbVxTtI6b,Billy Ocean with very special guest Marti Pellow,51.481668,-3.182167,6
+Nottingham,2027-01,17u8v0G61rKQocT,Trainspotting the Musical,52.955858,-1.151716,6
+Newcastle Upon Tyne,2027-01,LvZ18QqqMInK8fOvqrjMm,AGMP presents The Specials Ltd,54.974933,-1.59238,6
+Ipswich,2027-05,G5vHZ_uJPfXSt,Victoria Wood's dinnerladies,52.057163,1.160689,6
+Southampton,2027-03,1AgZk3oGkeUo3MF,The Lilacs,50.8989811,-1.4004633,6
+Norwich ,2027-05,17uYv0G6u5tJl6S,Thomas Green: Brainstorm,52.638032,1.296628,6
+Stoke-On-Trent,2027-01,17uYv0G61UgdvEz,Trainspotting The Musical,53.024681,-2.177062,6
+Liverpool,2026-07,G5dzZ_kMQq6GG,December 10,53.4091275,-2.9771058,5
+Leeds,2026-11,G5vHZ_FxwlwcE,The Courteeners - Venue Premium Tickets,53.804616,-1.544073,5
+Oxford,2027-03,1AUZk33GkduGpOu,Simon Brodkin: Unleashed,51.754,-1.26035,5
+Nottingham,2026-11,17uYv0G6G00PpG0,Chloe Slater,52.956173,-1.152975,5
+Plymouth,2027-06,G5vHZ_71VrSSn,Discovery Festival 2027 - Saturday & Sunday,50.387232,-4.154465,5
+Manchester,2026-09,G5vHZbUMMg_-_,Jane McDonald - Venue Premium Tickets,53.488164,-2.244066,5
+Scarborough,2026-09,1AgZk8gGkd3TPKO,Scarborough Spa Orchestra Morning Concert,54.27551,-0.39694,5
+Sheffield,2027-05,17u8v0G6ukmQin2,Johannes Radebe - Finally Home,53.38118,-1.471079,5
+Cardiff,2027-05,1AgZkobGkdI9JtY,Dylan Moran - Looking For Trouble,51.483668,-3.175522,5
+Belfast,2027-03,17CZv0G6Gxda-4E,Pearl Scam - Generation Grunge Uk Tour,54.593513,-5.928771,5
+Southampton,2026-09,LvZ18QxhnGfrBSZZzDjgi,Famous Monsters - The UK's no.1 Misfits Tribute,50.8989811,-1.4004633,5
+Glasgow,2027-05,11uOvNG9GgafvG,YES - The Fragile Tour,55.864681,-4.25261,5
+Cambridge,2026-07,1AgZkoSGkdhtkri,Cambridge Comedy Garden: Tom Allen & Lou Sanders,52.20048,0.126833,5
+Sunderland,2027-05,17uOv0G6uRUN-F4,Back to the Future The Musical,54.906317,-1.389419,5
+Bristol,2027-03,15djZ_kFFp_be,Maisie Adam: Whatsherface,51.45454646,-2.5982703,5
+Bristol,2026-09,G5dzZ_dmVDKfP,Holy Holy featuring Woody Woodmansey + Tony Visconti + Glenn Gregory,51.454142,-2.600849,5
+Ascot,2027-06,17u8v0G6urYIiR6,Royal Ascot 2027 - Day 4,51.41231419,-0.67942033,4
+Aberdeen,2027-03,1FuOvN-8apZ72A27,Greg Davies - Full Fat Legend,57.145214,-2.105717,4
+Birmingham,2027-03,G5dzZ_adquVXG,Hotter Than Hell x Motley Crude,52.47406,-1.89955,4
+Bournemouth,2027-03,G5vHZ_khRstop,Kim Wilde - The Singles Tour,50.717544,-1.875166,4
+Hull,2026-07,17u8vxG6GCgA7tI,Operation Mincemeat: A New Musical,53.747574,-0.337235,4
+York,2026-11,1AUZkupGkdKkhjf,Gipsy Kings by André Reyes,53.95386,-1.073629,4
+Belfast,2026-09,16dOZbS0eG7cxtW,Mamma Mia!,54.60391677,-5.91356277,4
+Southampton,2026-11,LvZ18QbMsv1TfRYZyiPVF,Indiepalooza Tribute - Killers v Monkeys v Fender v Oasis v Kasabian,50.8989811,-1.4004633,4
+Southampton,2027-01,LvZ18Qx58Uq5bT8ZM-63E,Diva Purple,50.8989811,-1.4004633,4
+Derby,2027-03,1ANZk34GkdDJoi8,Bjorn Again,52.92137591,-1.48013894,4
+Stratford-upon-Avon,2026-07,LvZ18QLvVHF8wJ8vqM5nx,Sunday Service ft Jaymes Walsh Biker Meet - The Hill,52.14988,-1.62997,4
+Cambridge,2026-09,LvZ18QbuaV8RQVOZ0N1pG,"An Afternoon of Indie CAMBRIDGE - Indie for the over 30s, 3pm-7pm",52.204679,0.120138,4
+Leeds,2027-07,17u8v0G6CkxF2rS,Victoria Wood's dinnerladies,53.796105,-1.549725,4
+Hull,2027-05,G5vHZ_GmVDnq5,What's Love Got to do With it? - The Ultimate Tribute to Tina Turner,53.743801,-0.34063,4
+Newcastle Upon Tyne,2026-09,LvZ18Qbin1mnydZZwRzJK,f54 presents GHOSTWOMAN,54.974933,-1.59238,4
+"Newcastle upon Tyne, NE1 2PQ",2026-07,LvZ18QbECBYfvDOZ04P4s,Toria Richings POSTPONED,54.974933,-1.59238,4
+Morecambe,2027-03,LvZ18QLuxJM5BJ8Z0nWUo,The UB40 Experience,54.07131,-2.874801,4
+Leeds,2027-01,G5dzZ_A2JJUUp,Daft Funk Live A Retrospective Celebration of Daft Punk Performed Live,53.802291,-1.547287,4
+Edinburgh,2026-11,LvZ18QryRzw3u08ZEXzNY,ELVANA: ELVIS FRONTED NIRVANA - EDINBURGH - CORN EXCHANGE,55.926128,-3.24748,4
+Derby,2026-11,1AeGZ_FGkBzUopi,Harry Redknapp - My Life in Football,52.92137591,-1.48013894,4
+Nottingham,2026-09,1AwZkofGkd0MseC,Gaerea,52.956173,-1.152975,4
+Edinburgh,2027-03,16dbZbzPAG7zp2P,Alan Carr: Have I Said Too Much?,55.95704,-3.185041,4
+Bromley,2027-01,16MZkCd0eZA8FdaF,Alan Carr: Have I Said Too Much?,51.403776,0.014436,4
+Brighton,2027-06,17u8v0G61Bohekl,MC Hammersmith - Ice Ice Nepo Baby,50.823717,-0.139088,4
+Swindon,2027-01,1AUZkC7GkdQe50S,Alan Carr: Have I Said Too Much?,51.559178,-1.78124,3
+Birmingham,2027-01,G5vHZbzpXsbzH,Greg Davies Full Fat Legend,52.478877,-1.910803,3
+Tynemouth,2026-07,1AdfZbVGkMbQJQO,Mouth of the Tyne Festival presents MINISTRY OF SOUND CLASSICAL,55.017666,-1.419741,3
+Bradford,2027-03,17uYv0G6GpqK6-w,Dynamo (Early Show),53.793496,-1.7459514,3
+Belfast,2027-01,1AzZko8Gkd45eNO,Share a Suite - Paul Smith,54.60391677,-5.91356277,3
+Belfast,2026-11,1AzZk3fGkecvv-Q,Elephant Sessions,54.593513,-5.928771,3
+Bedford,2026-07,LvZ18QqTyYiBxjZv17JLk,Sunday Service ft. ST vs. GTi - The Bowl,52.0511,-0.49888,3
+Bristol,2027-05,17uYv0G61DB23gW,Kings of Convenience,51.45454646,-2.5982703,3
+Bristol,2026-07,1AMZkGYGkdvi_KD,Rumours of Fleetwood Mac,51.45454646,-2.5982703,3
+Cardiff,2026-11,1kuOv0oaGAuu4oH,Papa Roach - Rise of the Roach,51.478931,-3.171771,3
+Dunfermline,2026-09,1AUZkuoGkdxQtPG,The Vintage Explosion,56.069812,-3.45799,3
+Edinburgh,2027-01,1AdbZbUGkMSgBka,Romesh Ranganathan Will Change Your Life,55.95704,-3.185041,3
+Oxford,2026-09,G5dzZ_ezGc62r,Antarctic Monkeys,51.7470676,-1.2351166,3
+Oxford,2026-11,G5dzZ_aMQPKzh,The Feeling,51.7470676,-1.2351166,3
+Petersfield,2026-07,LvZ18Q-BjX0qLfZvj_qEN,Sunday Service ft The Goodwood Cooldown - The Hut,51.03141,-1.07472,3
+Cumbria,2026-09,LvZ18QjS_hqVB7YvGPjDB,"Our Planet, The People, My Blood + Director Q&A (12A)",54.325351,-2.748059,3
+Scarborough,2027-03,17u8v0G6G1B811g,London Symphonic Rock Orchestra,54.275699,-0.397446,3
+Scarborough,2026-07,1AdfZbMGkmmB9AN,Bastille - Official Ticket and Hotel Bundls,54.293195,-0.412086,3
+Cumbria,2026-11,LvZ18QffRXAMaA8ZyKAhN,Hejira – Celebrating Joni Mitchell,54.325351,-2.748059,3
+Southampton,2026-07,1AwZkuyGkdfkYJ-,Legend - a Tribute To Bob Marley Followed By England V Norway - Fifa W,50.932847,-1.383409,3
+Derby,2027-05,17FYv0G6GXf9kZJ,Joe Lycett - Live Lounge Premium Package,52.92137591,-1.48013894,3
+Cumbria,2027-03,LvZ18Qj2h7kItFOZzqh5M,Travellers Tunes: An Evening With Steve Cradock,54.325351,-2.748059,3
+Coventry,2027-03,G5vHZ_aMvzUdh,Bjorn Again,52.373743,-1.552358,3
+Brighton,2027-05,G5vHZ_AOfiaom,Dylan Moran - Looking For Trouble,50.823717,-0.139088,3
+Cardiff,2026-09,LvZ18QOpjyMs6jZvGl3Vx,Jamie Webster,51.488279,-3.178502,3
+Norwich ,2027-03,LvZ18Qxn5f6ddaYZ0fICp,UK Pink Floyd Experience,52.638032,1.296628,3
+Hull,2026-11,1AUZkuzGkeB09Du,Jonathan Pie: The End Of The World According To Jonathan Pie,53.741616,-0.343217,3
+Manchester,2027-01,G5dzZ_G3gXPtX,Prohibition Party,53.474423,-2.243098,3
+Exeter,2027-05,17u8v0G6GfA8qtu,Ed Byrne: No Dramas,50.721659,-3.532609,3
+Milton Keynes,2027-05,1AMZkC7GkeYjtkC,Alan Carr: Have I Said Too Much?,52.043983,-0.748785,3
+Morecambe,2027-05,LvZ18Q_ozeBddI8ZwsFZn,"In a Big Country, and evening with Bruce Watson",54.07131,-2.874801,3
+Newcastle,2026-07,G5vHZbRBbBovA,Lost Minds Festival 2026 Payment Plan,54.9859248,-1.6148629,3
+Northampton,2027-03,G5vHZ_Gx3LSxD,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,52.236412,-0.894129,3
+"Newcastle upon Tyne, NE1 2PQ",2026-09,LvZ18Q96gQO3-PZZIykfo,DHP present Ally Venable + Garret T. Wille,54.974933,-1.59238,3
+Newcastle Upon Tyne,2026-11,G5dzZ_7pnCV6r,Coldplace - the World's Leading Tribute To Coldplay,54.977346,-1.610213,3
+Leicester,2027-03,G5vHZ_1MdtkFg,Disney Princess - The Concert,52.626216,-1.120134,3
+Llangollen,2026-07,G5vHZbgxzubF7,An Evening with Michael Ball,52.9728542,-3.1732473,3
+Liverpool,2026-11,1AdbZbMGkB5wVoE,The Australian Pink Floyd,53.40891,-2.978335,3
+York,2026-09,1AUZkC7GkdCcnwL,Michael Ball - Venue Premium Tickets,53.95386,-1.073629,3
+Leeds,2026-07,1AUZku9Gkd2raPw,Sounds of the City Present Wet Leg,53.800966,-1.548059,3
+Bath,2026-09,G5vHZ_A504pVD,"Josh Pugh: Ha Ha, Yeah",51.381491,-2.361931,3
+Whitby,2026-11,1AdfZbUGkBYwhiH,Whitby Blues Rhythm and Rock Festival (Saturday),54.49026,-0.6189,3
+Whitley Bay,2027-03,17uOv0G61rz3NIm,Jason Fox - Embrace The Chaos,55.046455,-1.45069,2
+York,2026-07,1AdbZ_aGkwr0Kjc,JINKX MONSOON: Speaking of Witch - Venue Premium Tickets,53.95386,-1.073629,2
+Aylesbury,2026-11,17u8v0G6GmPOQFR,Classically Kate Bush - Full Band plus Orchestra,51.814948,-0.810439,2
+Lincoln,2027-03,1AMZkosGkdEG5vR,Ed Gamble: Fresh Hell,53.228843,-0.549251,2
+Liverpool,2027-05,1AUZkC7Gkd0xiG9,Alan Carr: Have I Said Too Much?,53.40891,-2.978335,2
+Leeds,2027-06,17u8v0G6Ckx7Trb,Victoria Wood's dinnerladies,53.796105,-1.549725,2
+Whitby,2027-03,1AgZkoKGkezZ4Y_,Whitby Soul Party Weekender - Weekend Ticket,54.49026,-0.6189,2
+York,2027-06,17uOv0G6C2sIRaP,Al Murray - All You Need Is Guv,53.95386,-1.073629,2
+St Albans,2027-05,G5dzZ_awKq-ce,Count Arthur Strong - And it's Goodnight from Me!,51.752945,-0.336384,2
+St Albans,2026-09,G5dzZ_A6WPpER,Jimmy Carr: Laughs Funny,51.752945,-0.336384,2
+Chester,2027-03,G5vHZ_kCtWxN0,Maisie Adam: Whatsherface,53.1923672,-2.8932301,2
+Bournemouth,2026-11,G5dzZ_16YsPpZ,The Feeling,50.72671,-1.839878,2
+Dartford,2027-03,G5vHZ_GTB3mqz,Phil Wang: UH OH,51.445968,0.217771,2
+Derby,2026-07,1AeGZbYGkBB6ZUf,Rob Lamberti Presents Perfectly George,52.92137591,-1.48013894,2
+Nottingham,2027-03,LvZ18QNtoZGJZ38Z0iWSM,Eli Paperboy Reed,52.955626,-1.141971,2
+Portsmouth,2027-03,G5vHZ_FlAcfBN,Gabrielle - The Hits,50.797529,-1.092871,2
+Reading,2027-03,G5vHZbMkJBP2M,Whitney Queen of the Night,51.431356,-0.971441,2
+Salford,2026-11,G5vHZ_1SG_gVL,Omid Djalili: Namaste,53.47109661,-2.29681249,2
+Poole,2027-03,G5vHZ_Cr4oVdy,Al Murray - All You Need Is Guv,50.718463,-1.977096,2
+Edinburgh,2026-07,17uOvxG62hn47P-,Critical Role Live,55.94897,-3.201479,2
+Norwich ,2027-06,LvZ18QbuNaSe_PZZygLlw,Man In The Mirror – A Tribute To Michael Jackson,52.638032,1.296628,2
+Exeter,2026-09,1ku8v0paGAuFezt,Tom Gilbey,50.724815,-3.531253,2
+Newcastle Upon Tyne,2027-03,G5dzZ_5K6XASO,Evening With Paul Gascoigne,54.977346,-1.610213,2
+Northampton,2026-11,G5vHZ_AKtm_Jq,Jenny Talia: Without Adult Supervision,52.236412,-0.894129,2
+Norwich ,2026-11,1AdjZbgGklsr2nF,Maisie Adam: Whatsherface,52.638032,1.296628,2
+Newcastle upon Tyne,2026-11,LvZ18Q-gOs_V0fYvOC_Qn,The Skids / Theatre Of Hate,54.967198,-1.615058,2
+Guildford,2027-05,1AMZkobGkdxaS09,Dylan Moran - Looking For Trouble,51.239469,-0.564917,2
+Guildford,2026-09,16djZ_A7IG7cz2m,Jimmy Carr: Laughs Funny,51.239469,-0.564917,2
+Newcastle Upon Tyne,2027-05,17uYv0G6GxBOszm,Ed Byrne: No Dramas,54.970633,-1.621588,2
+Gateshead,2026-11,1AMZkoMGkdDdfIJ,Morcheeba,54.967686,-1.60195,2
+Malta,2026-09,1AdbZ_dGkSusMfp,Freedom Street Europe 2026 3 Day,35.89042178,14.44214003,2
+Kinross,2026-11,LvZ18Q0fMb18oZx3cdGnp,Katie Spencer & Alan Thomson,56.208672,-3.42367,2
+Hull,2027-03,G5vHZ_55Et70m,Disney Princess - The Concert,53.743801,-0.34063,2
+Huddersfield,2027-03,17uYv0G65nhs-uC,Ross Noble: Cranium Of Curiosities,53.644531,-1.780097,2
+Huddersfield,2027-05,1AdjZ_aGkRwmuj2,Count Arthur Strong - And it's Goodnight from Me!,53.644531,-1.780097,2
+Bristol,2027-01,17uYv0G6ukfKVpJ,The Classic Rock Show,51.45454646,-2.5982703,2
+Stoke-On-Trent,2026-11,1kuYv0GaGACPwn7,Classically Kate Bush,53.023439,-2.175387,2
+Stoke-On-Trent,2027-05,1adjZ_6ZApoZd2ae,Ed Gamble: Fresh Hell,53.024681,-2.177062,2
+Bournemouth,2026-09,G5vHZbShSVbxX,Piff and Pop's Magic Shoppe,50.717544,-1.875166,2
+Tyne And Wear,2027-03,1AgZko0GkeSE7t8,Ahir Shah: Golden,54.97175,-1.612921,2
+Bradford,2026-11,LvZ18Q4yw-Q3ceZZwoJv8,Soil + Adema + Breed 77,53.794419,-1.753727,2
+Swindon,2027-05,16dbZ_AJ_G7lKVT,Dylan Moran - Looking For Trouble,51.559178,-1.78124,2
+Southend-On-Sea,2026-09,G5vHZbgdtoIzv,David Essex,51.53582,0.697435,2
+Southend-On-Sea,2026-11,G5vHZ_kwD3fks,TONY HADLEY - The Christmas Big Band Tour 2026,51.53582,0.697435,2
+Cardiff,2027-01,1AUZkobGkdO4IWV,Paul Smith - Happy,51.478931,-3.171771,2
+Chelmsford,2027-06,G5vHZ_C6ITCEO,State Fayre 2027 - Weekend Non-Camping,51.711514,0.435907,2
+Dumfries,2027-03,17uOv0G61xjTK2r,Jason Fox - Embrace The Chaos,55.05033322,-3.59073528,2
+Lancashire,2027-06,17u8v0G6uDyFAJP,Lytham Festival 2027 - 5 Day Pass - Transport,53.7346927,-2.9595951,1
+Leeds,2027-05,1AdfZ_aGkwUZ0hR,Count Arthur Strong - And it's Goodnight from Me!,53.796105,-1.549725,1
+Launceston,2027-03,17u8v0G65Ui2Ern,Gordon Buchanan: Lions and Tigers and Bears,50.6356,-4.3635,1
+Aylesbury,2027-03,17u8v0G653-9KKf,Fisherman's Friends,51.814948,-0.810439,1
+Ascot,2026-07,1AdfZbgGkTruG30,Racing to Zero Summer Mile The Property Raceday,51.41231419,-0.67942033,1
+Basingstoke,2027-03,G5vHZ_G9QXB2N,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,51.267007,-1.089639,1
+Wellingborough,2026-09,G5vHZbmkOFABJ,Jason Manford: A Manford All Seasons,52.300007,-0.688085,1
+Basingstoke,2027-05,G5vHZ_Gf7sHsO,Ed Byrne: No Dramas,51.267007,-1.089639,1
+Basingstoke,2027-06,G5vHZbzCwsUhw,Alan Carr: Have I Said Too Much?,51.267007,-1.089639,1
+Bath,2026-07,17uYvxG6uNE3M2H,The Rocket Man - a Tribute To Elton John,51.378645,-2.3605,1
+ Bathgate,2026-11,LvZ18QjXLfh81IOvOjJXK,LED ZEPPELIN TRIBUTE - LED ASTRAY - 20th ANNIVERSARY SHOW,55.89919,-3.63886,1
+ Bathgate,2026-09,LvZ18QO95z7V1iYZz9PDz,FIRESTORM,55.89919,-3.63886,1
+Aberdeen,2026-11,17uOv0G6GpWw1O9,Masters Football Home Nations - Venue Premium Tickets,57.185147,-2.190396,1
+Leamington Spa,2027-03,1AdjZ_aGkRixGIB,Count Arthur Strong - And it's Goodnight from Me!,52.289792,-1.531403,1
+Wolverhampton,2026-11,LvZ18QLElXiEZ5OZ0OJ2A,RICKY WARWICK & THE FIGHTING HEARTS,52.5786863,-2.1309853,1
+Worcestershire,2027-03,1AdfZ_6GkHTtWdf,Michael Starring Ben,52.1106662,-2.3267797,1
+York,2027-01,LvZ18QL6LSVEd-ZZMYTpl,The John Otway Big Band,53.9548326,-1.0938596,1
+York,2027-04,17uOv0G653Ug9dc,Fisherman's Friends,53.95386,-1.073629,1
+Hertford,2026-09,1AdjZbMGkBorSJw,Jonathan Pie: Work in Progress,51.796015,-0.07913,1
+Halifax,2026-11,G5vHZbS5Dutjj,Russell Howard - Don't Tell The Algorithm,53.721265,-1.861651,1
+Liverpool,2027-03,G5vHZ_k4rCZl-,Kim Wilde - The Singles Tour,53.401223,-2.969705,1
+Lincoln,2027-05,17uYv0G658-dATn,Ross Noble: Cranium Of Curiosities,53.228843,-0.549251,1
+Leicester,2027-01,G5vHZbz9sb50g,Greg Davies,52.626216,-1.120134,1
+Leicester,2027-05,G5vHZ_6JjLfk7,Matt Bragg: Stand Up Comic,52.631725,-1.126865,1
+Leicester,2026-09,G5vHZbS55Dz6r,Russell Howard - Don't Tell The Algorithm,52.626216,-1.120134,1
+Leicester,2026-11,G5vHZbcJv48i-,Tom Davis: Spudgun,52.626216,-1.120134,1
+Greenwich,2027-05,Z7r9jZ1A70fff,Olivia Rodrigo w/ Die Spitz,0.0,0.0,1
+Ipswich,2027-01,G5vHZ_6NzUyv2,Romesh Ranganathan Will Change Your Life,52.057163,1.160689,1
+Edinburgh,2027-05,17uYv0G6GXm-S6M,Women's Six Nations: Scotland Women v Wales,55.94761,-3.24698,1
+Nottingham,2027-05,17uYv0G6CjZPVXc,Al Murray - All You Need Is Guv,52.9536,-1.156598,1
+Edinburgh,2026-09,16wZkuSP7ZA8ea78,Michael Shannon & Jason Narducy and Friends Play R.e.m.âS ÂLife's,55.948538,-3.193573,1
+Eastbourne,2027-01,G5vHZ_6dObVqU,Romesh Ranganathan Will Change Your Life,50.762672,0.284256,1
+Edinburgh ,2027-03,LvZ18Q-9dhr1_e8vGxtw7,LONDON CALLING play THE CLASH,55.9573939,-3.1872616,1
+Guildford,2027-03,17uYvxG65QSmUqq,Milos,51.239469,-0.564917,1
+Dunfermline,2027-05,1AdbZ_aGkY1dlok,A Beautiful Noise: The Definitive Tribute To Neil Diamond,56.069812,-3.45799,1
+Dunfermline,2026-11,16dbZbzkKG7RJ1p,Boyzlife: featuring Keith Duffy & Brian McFadden,56.069812,-3.45799,1
+Dunfermline,2026-07,1AdFZ_FGkXtNZP-,Boogie Days,56.07044158,-3.46118597,1
+Norwich ,2026-07,LvZ18Qqyejr3unYv1Gf_K,Stiff Little Fingers,52.638032,1.296628,1
+"Newcastle upon Tyne, NE1 2PQ",2026-11,LvZ18QOYMm5G_SZvGLTTP,f54 presents Gently Tender,54.974933,-1.59238,1
+Glasgow,2027-04,LvZ18QLEnvDSIkZZy1Y_I,There Will Be Fireworks + M. John Henry,55.85515215,-4.23494336,1
+Gateshead,2027-03,17uYvxG65QRpJjt,Milos,54.967686,-1.60195,1
+Inverness,2026-09,1AUZkuyGkeV9EG1,Susan Calman: Tall Tales,57.473094,-4.230822,1
+Morecambe,2026-11,LvZ18Qp_6ZcdlMOZ0DQGq,Forbidden Realm of Conspiracies: Uncovered,54.07131,-2.874801,1
+Milton Keynes,2027-01,1AMZkoMGkdUe0h5,Romesh Ranganathan Will Change Your Life,52.043983,-0.748785,1
+Manchester,2027-05,G5vHZ_1MPmbuU,Kings of Convenience,53.478402,-2.248891,1
+Luton,2026-11,LvZ18QQnUWZ6VQZZJ8nLk,Bollywood Time Machine 2.0 - Luton,51.8811433,-0.4140711,1
+Isle of Wight,2027-05,17u8v0G65Q9DsBI,Ross Noble: Cranium Of Curiosities,50.627662,-1.178784,1
+Ipswich,2027-03,G5vHZ_FBvio5I,Gabrielle - The Hits,52.057163,1.160689,1
+Hertford,2027-03,1kuYv0rKGAupBAe,Matt Bragg: Stand Up Comic,51.796015,-0.07913,1
+Hove,2026-11,LvZ18QOpQuygruZvOecei,Rival Consoles,50.825001,-0.157115,1
+Derby,2027-01,1AeGZbUGkB_8sGW,What's Love Got To Do With It?,52.92137591,-1.48013894,1
+Derby,2026-09,1ANZkowGkeOqYi_,Be Like Blippi Tour,52.92137591,-1.48013894,1
+Crewe,2027-06,1AdfZ_aGkmHB7ij,Michael Starring Ben,53.098881,-2.440394,1
+Darlington,2027-01,G5vHZbRxsm8H0,Omid Djalili: Namaste,54.524925,-1.549917,1
+Scarborough,2027-06,1AgZkoxGkewPN91,Brendan Cole & James Jordan,54.275699,-0.397446,1
+Scarborough,2026-11,1Fu8vN8OoOZ72kkv,Bowie Experience,54.275699,-0.397446,1
+Plymouth,2027-03,1AdfZ_FGkT_IV6d,Mike Bubbins: Ideas Man,50.418221,-4.11638,1
+Salford,2027-06,G5vHZ_5hetPqp,Jarlath Regan - Craic Pot,53.47109661,-2.29681249,1
+Poole,2027-01,G5vHZ_aeVe3zN,Whitney Queen of the Night,50.718463,-1.977096,1
+Portsmouth,2026-09,G5vHZbUUUJkcB,Marillion + Haunt the Woods,50.797529,-1.092871,1
+Nuneaton,2026-11,LvZ18Qrx-rvmms8ZEok_M,Anti-Nowhere League + support Apocalypse Babys,52.522554,-1.473177,1
+Oban,2027-03,17uOv0G61TzTj32,Jimeoin: BALLYHOO!,56.419107,-5.475934,1
+Peterborough,2027-03,17uYv0G6umauEgD,Al Murray - All You Need Is Guv,52.589314,-0.283558,1
+Peterborough,2027-05,G5vHZ_u6JFC-M,Thomas Green: Brainstorm,52.568568,-0.238626,1
+Plymouth,2026-11,G5vHZ_kUo6xJp,TONY HADLEY - The Christmas Big Band Tour 2026,50.368073,-4.149219,1
+Plymouth,2027-01,G5vHZ_AeLMeRF,Jack Whitehall: Bad Influence,50.368073,-4.149219,1
+Dunstable,2027-03,17u8v0G6CkP_OI7,Al Murray - All You Need Is Guv,51.890117,-0.521693,1
+Chester,2027-01,LvZ18Qq0lIRqg7ZZM7ch4,Live/Wire The AC/DC Show,53.196501,-2.881296,1
+Carlisle,2027-03,G5vHZ_5fcE1bz,Ross Noble: Cranium Of Curiosities,54.899622,-2.933838,1
+Chelmsford,2027-03,17u8v0G6Gbtn8cg,Ed Byrne: No Dramas,51.735181,0.47039,1
+Southend-On-Sea,2027-03,1AgZkoNGkdv6fpj,Maisie Adam: Whatsherface,51.543874,0.691363,1
+Southend-On-Sea,2027-05,1adfZ_AJfaxZd2C2,Dylan Moran - Looking For Trouble,51.543874,0.691363,1
+Southend-On-Sea,2027-06,17u8v0G6u6ZGXk3,Thomas Green: Brainstorm,51.543874,0.691363,1
+Coventry,2026-09,LvZ18QNmLbti0l0GOZi9K,Afternoon Of Indie,52.407356,-1.511266,1
+Southampton,2027-05,LvZ18Q-lFjCxhQYZ0KvuM,Whitesnake UK,50.8989811,-1.4004633,1
+Skegness,2027-05,G5vHZ_62IIpMn,Scott Bennett - Stuff,53.14372,0.344261,1
+Sheffield,2027-06,17u8v0G61SQC0y-,Sheffield International Concert Season 2026/27 - Halle Orchestra,53.38118,-1.471079,1
+Sheffield,2026-07,LvZ18QpNffQI9j8Z0vUQ6,The Abba Day Party,53.381039,-1.49067,1
+Cardiff,2027-03,17uOv0G6GpGz4UF,The Dead South,51.478931,-3.171771,1
+Dundee,2027-03,17uOv0G6G6eI1CF,Gordon Buchanan: Lions and Tigers and Bears,56.45863,-2.988333,1
+Dundee,2027-05,17uOv0G6GRDkn3k,Queen of the Night - A Tribute to Whitney Houston,56.459706,-2.968837,1
+Scunthorpe,2027-03,1AUZk3bGkdklUtF,Queen of the Night - A Tribute to Whitney Houston,53.59040614,-0.65950694,1
+Stockton-on-Tees,2026-11,LvZ18Q_u12Bx0RZZ080GB,NME’D - A Tribute to 00’s NME Classics,54.5643998,-1.3122893,1
+Stockton-on-Tees,2026-09,LvZ18Q_uup7c1aOZw-loL,Fleeting Rumours,54.5643998,-1.3122893,1
+Stirling ,2026-09,1AUZk3eGkdNytNQ,BBC Radio 2 in the Park - Saturday,56.12358227,-3.95377263,1
+Stirling,2026-09,16UZko7OdZACd17A,Tam Cowan,56.117707,-3.942109,1
+Stevenage,2026-07,1kuYvNGtGA1e_qM,Iron Maiden - EDDFEST,51.87289535,-0.21487897,1
+Staffordshire,2026-07,G5vHZ_dwWwpOE,Summer Concerts - Wildboys Absolute 80s,52.964786,-2.202796,1
+St Albans,2026-11,LvZ18QbUsZ7RTgOZy3vIa,Barrioke - Friday 6 November 2026,51.750295,-0.329006,1
+Southport,2027-03,17uOv0G65hJQpeM,The Rachel Parris Songbook,53.647324,-3.005858,1
+Colchester,2027-05,LvZ18QxhKSObJSYZ0S0ku,EXTC 'This Is Pop',51.888861,0.895354,1
+Cambridge,2027-06,G5vHZ_uZ6woMi,Thomas Green: Brainstorm,52.190766,0.136509,1
+Cambridge,2026-11,G5vHZ_6jYbBGU,Romesh Ranganathan Will Change Your  Life,52.204302,0.119362,1
+Stoke-On-Trent,2027-03,1AMZkCdGkd5yHYt,Alan Carr: Have I Said Too Much?,53.024681,-2.177062,1
+Buxton,2027-03,G5vHZ_65yaaOT,Ed Gamble: Fresh Hell,53.258727,-1.916705,1
+Buxton,2026-11,G5vHZ_73w277g,Paul Merton & Suki Webster's Improv Show,53.258727,-1.916705,1
+Bristol,2027-06,G5vHZ_16NuEo4,MC Hammersmith - Ice Ice Nepo Baby,51.45885,-2.60604,1
+Blackpool,2027-05,17u8v0G65RIdy52,Ross Noble: Cranium Of Curiosities,53.817227,-3.053335,1
+Swansea,2026-11,G5dzZbMfNc0kI,The Proclaimers,51.40792,-0.29416,1
+Swansea,2026-09,G5vHZbMZWRYYB,Mike Wozniak: The Bench,51.618023,-3.947928,1
+Belfast,2027-05,17CZv0G6GmC-ofR,Auld Pals - Still Game,54.59511621,-5.9312439,1
+Birmingham,2027-05,G5vHZbSk7k08k,YES - The Fragile Tour,52.478877,-1.910803,1
+Bournemouth,2027-01,G5dzZ_G9IoEuQ,Black Stone Cherry,50.72671,-1.839878,1
+Bath,2027-01,17uYv0G61SEY-Hk,Hamza Yassin - My Life Behind the Lens,51.378645,-2.3605,1
+Swansea,2027-01,G5dzZ_Ae_x3id,Jack Whitehall: Bad Influence,51.40792,-0.29416,1
+Blackburn,2026-11,G5vHZ_5hcIEVw,The Rachel Parris Songbook,53.749838,-2.486151,1
+Swindon,2027-03,1AUZkowGkdmtEJS,Ed Gamble: Fresh Hell,51.559178,-1.78124,1
+Swansea,2027-05,G5dzZbz3JtguM,Alan Carr: Have I Said Too Much?,51.40792,-0.29416,1
+Totnes,2026-09,LvZ18QNRHR7OaVffDSm-5,BERT MILLER & THE ANIMAL FOLK,50.431475,-3.691025,1
+Totnes,2026-11,LvZ18QLee8iEFaYZMEcFh,AN DANNSA DUB + Support ** EVENING GIG **,50.431475,-3.691025,1
+Tunbridge Wells,2027-03,17uYv0G6G9q3DBD,The Amy Winehouse Band: Back to Black 20th Anniversary Tour,51.132133,0.26595,1
+Walton-on-Thames,2026-07,LvZ18Q9RcjVLBYZZ0J5nC,Boogietown 2026,51.403308,-0.394981,1

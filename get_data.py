@@ -169,7 +169,7 @@ _capacity_cache: dict[str, int | None] = {}
 # fetch_events
 # ---------------------------------------------------------------------------
 
-def build_date_windows(months: int = 12, window_months: int = 2) -> list[tuple[str, str]]:
+def build_date_windows(months: int = 12, window_months: int = 1) -> list[tuple[str, str]]:
     """
     Split the next `months` months into windows of `window_months` each.
     Returns (startDateTime, endDateTime) pairs in Ticketmaster's ISO 8601 format.
@@ -589,7 +589,7 @@ def run_pipeline() -> None:
     collected: list[dict] = []
     validation_errors = 0
 
-    windows = build_date_windows(months=12, window_months=2)
+    windows = build_date_windows(months=12, window_months=1)
 
     for idx, (start_dt, end_dt) in enumerate(windows, 1):
         print(f'\nWindow {idx}/{len(windows)}: {start_dt[:10]} to {end_dt[:10]} '
@@ -625,6 +625,50 @@ def run_pipeline() -> None:
     events = add_london_borough(events)
     events.to_csv(OUTPUT_FILE, index=False)
     print(f'Cleaned dataset: {len(events)} records written to {OUTPUT_FILE}')
+
+    # Clean auxiliary CSVs (proximity_df, choices_df)
+    clean_auxiliary_csvs()
+
+
+# ---------------------------------------------------------------------------
+# clean_auxiliary_csvs
+# ---------------------------------------------------------------------------
+
+PROXIMITY_FILE = DATA_DIR / 'proximity_df.csv'
+CHOICES_FILE   = DATA_DIR / 'choices_df.csv'
+
+
+def clean_auxiliary_csvs() -> None:
+    """
+    Remove ticketed attractions from proximity_df.csv and choices_df.csv.
+
+    proximity_df has a 'venue' column — rows with excluded venues are dropped
+    directly. choices_df doesn't have a venue column, so we identify excluded
+    event_ids via proximity_df and drop those from choices_df.
+    """
+    if not PROXIMITY_FILE.exists():
+        print('proximity_df.csv not found — skipping auxiliary cleaning')
+        return
+
+    prox = pd.read_csv(PROXIMITY_FILE)
+    before_prox = len(prox)
+
+    # Drop excluded venues from proximity_df
+    excluded_mask = prox['venue'].isin(EXCLUDED_VENUES)
+    excluded_ids = set(prox.loc[excluded_mask, 'event_id'])
+    prox = prox[~excluded_mask]
+    prox.to_csv(PROXIMITY_FILE, index=False)
+    print(f'proximity_df: removed {before_prox - len(prox)} attraction rows '
+          f'({len(prox)} remaining)')
+
+    # Drop matching event_ids from choices_df
+    if CHOICES_FILE.exists():
+        choices = pd.read_csv(CHOICES_FILE)
+        before_choices = len(choices)
+        choices = choices[~choices['event_id'].isin(excluded_ids)]
+        choices.to_csv(CHOICES_FILE, index=False)
+        print(f'choices_df: removed {before_choices - len(choices)} attraction rows '
+              f'({len(choices)} remaining)')
 
 
 # -----------------------------------------------------------------------------------
