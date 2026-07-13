@@ -413,6 +413,8 @@ EXCLUDED_VENUES: set[str] = {
     "National SEA LIFE Centre Birmingham",
     "Empress Museum",
     "The Arts at Marble Arch",
+    "The Suffield Arms",   # bad coordinates (plots in North Sea)
+    "The Station",         # bad coordinates (plots in sea off Scotland)
 }
 
 
